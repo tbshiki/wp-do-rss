@@ -3,7 +3,12 @@ import PyRSS2Gen
 import datetime
 
 # 読み込みたいRSSフィードのURL
-feed_urls = ["https://wptavern.com/feed", "https://kinsta.com/jp/blog/feed/"]
+feed_urls = [
+    "https://wptavern.com/feed",
+    "https://kinsta.com/blog/feed/",
+    "https://www.wpbeginner.com/feed/",
+    "https://gutenbergtimes.com/feed/",
+]
 
 # 全てのフィードエントリを保持するリスト
 all_entries = []
@@ -37,6 +42,9 @@ rss = PyRSS2Gen.RSS2(
     items=rss_items,
 )
 
+# ファイルに書き出す前にRSSフィードをUTF-8のXML文字列として生成
+rss_xml = rss.to_xml(encoding="utf-8")
+
 # RSSフィードをファイルに書き出す
 with open("feed/index.xml", "w", encoding="utf-8") as f:
-    rss.write_xml(f)
+    f.write(rss_xml)
