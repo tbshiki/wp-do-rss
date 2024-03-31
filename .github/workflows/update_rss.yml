@@ -2,9 +2,9 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # 毎日のUTC 00:00に実行します。スケジュールは必要に応じて調整してください。
+    # 毎日のUTC 00:00に実行します。
     - cron:  '0 0 * * *'
-    workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
