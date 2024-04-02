@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Apr 2024 13:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 09:07:45 +0900</lastBuildDate>
     <item>
       <title>State of the Word, Redesign Developer resources, Block Theme updates — Weekend Edition 278</title>
       <link>https://gutenbergtimes.com/state-of-the-word-redesign-developer-resources-block-theme-updates-weekend-edition-278/</link>
@@ -290,13 +290,6 @@
       <pubDate>Sat, 23 Mar 2024 01:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>Object-oriented programming in PHP: transforming WordPress development</title>
-      <link>https://kinsta.com/blog/php-oop/</link>
-      <description>&lt;p&gt;Object-oriented programming (OOP), an important paradigm in software, is centered on “objects” — instances of classes that include data and behaviors instead of “actions.” PHP, known ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/php-oop/" rel="nofollow"&gt;Object-oriented programming in PHP: transforming WordPress development&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 Mar 2024 14:12:38 +0000</pubDate>
-    </item>
-    <item>
       <title>How to use Edge Caching to improve WordPress performance</title>
       <link>https://kinsta.com/blog/edge-caching-wordpress/</link>
       <description>&lt;p&gt;When your website is serving visitors from all over the world, slow load times and high latency can really bog down the experience. Whether you’re running ...&lt;/p&gt;
@@ -308,20 +301,6 @@
       <link>https://wptavern.com/podcast/113-shawn-hooper-on-launching-wordcamp-canada-wceh</link>
       <description>On the podcast today we have Shawn Hooper. Shawn Hooper is a key figure in the Canadian WordPress community. He’s an advocate for national and local gatherings that bring WordPress enthusiasts together. Later this year, the first ever WordCamp Canada, or WCEH for short, will be held in Ottawa. The event is deep in the planning stages. The venue is secured, the speakers have been finalised, and it’s now up to the team of volunteers, of which Shawn is one, to make the event a success. We get into the challenges of creating an event of this scale. From conception until now, there’s a lot of moving parts. The venue, food, transport, volunteers, sponsors, speakers, the list could go on. It all needs to be planned, tasks assigned and executed. If attending WordPress events, and volunteering your time, is your thing, this episode is for you.</description>
       <pubDate>Wed, 27 Mar 2024 15:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Improve Accessibility on Your WordPress Site</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-improve-accessibility-on-your-wordpress-site/</link>
-      <description>&lt;p&gt;Do you want to improve accessibility on your WordPress site? When building a website, accessibility often gets neglected, which can create a poor user experience (UX). Ideally, you want your WordPress site to be user-friendly and inclusive to all individuals, regardless of their needs. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-improve-accessibility-on-your-wordpress-site/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-improve-accessibility-on-your-wordpress-site/"&gt;How to Improve Accessibility on Your WordPress Site&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 28 Mar 2024 17:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress for Enterprise – 6 Tips You Should Know</title>
-      <link>https://www.wpbeginner.com/beginners-guide/wordpress-for-enterprise-tips-you-should-know/</link>
-      <description>&lt;p&gt;We are often asked about using WordPress for enterprise websites. Is WordPress a good choice for enterprise? An enterprise website typically refers to a large website with millions of page views. It may also refer to websites run by big-name brands or corporations. Normally, these&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/wordpress-for-enterprise-tips-you-should-know/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/wordpress-for-enterprise-tips-you-should-know/"&gt;WordPress for Enterprise – 6 Tips You Should Know&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 29 Mar 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Build a headless blog with WordPress and Frontity</title>
@@ -348,6 +327,27 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-98/</link>
       <description>In this episode, Maggie Cabrera and Birgit Pauli-Haack discuss WordPress 6.5, Gutenberg 18.0, Community Theme Project and the Contributor Mentorship Program. Show Notes / Transcript Show Notes Maggie Cabrera Announcements Developer Blog updates What’s new in Gutenberg 18.0? (27 March). Story Dataviews Component Design Share: Mar 11-Mar 22 Transcript Birgit Pauli-Haack: Hello, and welcome to&amp;#8230;</description>
       <pubDate>Sat, 30 Mar 2024 19:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a Recurring Donation Form in WordPress (Step by Step)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/</link>
+      <description>&lt;p&gt;Do you want to create a recurring donation form in WordPress? The right WordPress plugins allow you to easily accept recurring donations on your website. That way, your organization can gain consistent funding to help with budget planning and executing long-term projects. In this article,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/"&gt;How to Create a Recurring Donation Form in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 01 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to parse Gutenberg content for headless WordPress</title>
+      <link>https://kinsta.com/blog/headless-wordpress-gutenberg/</link>
+      <description>&lt;p&gt;Gutenberg is the default editor for WordPress. The editor lets you craft and style content using discrete blocks for text, images, video, and other site elements ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/headless-wordpress-gutenberg/" rel="nofollow"&gt;How to parse Gutenberg content for headless WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 01 Apr 2024 13:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Free SMTP Server to Send WordPress Emails (3 Methods)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/</link>
+      <description>&lt;p&gt;Do you want to use a free SMTP server to send WordPress emails? By default, WordPress uses the PHP mail function, which is unreliable and often marks your emails as spam. Using an SMTP server is the best way to make sure that your WordPress&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/"&gt;How to Use Free SMTP Server to Send WordPress Emails (3 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 01 Apr 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
