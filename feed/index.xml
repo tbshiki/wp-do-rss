@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Apr 2024 09:07:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 09:07:51 +0900</lastBuildDate>
     <item>
       <title>State of the Word, Redesign Developer resources, Block Theme updates — Weekend Edition 278</title>
       <link>https://gutenbergtimes.com/state-of-the-word-redesign-developer-resources-block-theme-updates-weekend-edition-278/</link>
@@ -310,13 +310,6 @@
       <pubDate>Fri, 29 Mar 2024 14:47:30 +0000</pubDate>
     </item>
     <item>
-      <title>How to Restrict Content to Registered Users in WordPress (2 Ways)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-restrict-content-to-registered-users-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to restrict some of your WordPress content to registered or paid users? Often, bloggers use subscriptions or one-time payment models to monetize content on their websites. This is easy to set up if you have the right WordPress plugin. In this article,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-restrict-content-to-registered-users-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-restrict-content-to-registered-users-in-wordpress/"&gt;How to Restrict Content to Registered Users in WordPress (2 Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 29 Mar 2024 17:00:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Gutenberg 18.0, Playground, Pattern, and Form plugins and so much more — Weekend Edition 289</title>
       <link>https://gutenbergtimes.com/gutenberg-18-0-playground-pattern-and-form-plugins-and-so-much-more-weekend-edition-289/</link>
       <description>Happy Easter if you celebrate it! 🐰 🐣&amp;#160; The Easter weekend has a total different vibe in Munich as it had in Naples. In Naples, it was just a normal weekend, and you could get groceries over the weekend, and other shopping done. Here it is a four-day weekend with Good Friday and Easter Monday&amp;#8230;</description>
@@ -329,13 +322,6 @@
       <pubDate>Sat, 30 Mar 2024 19:57:25 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create a Recurring Donation Form in WordPress (Step by Step)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/</link>
-      <description>&lt;p&gt;Do you want to create a recurring donation form in WordPress? The right WordPress plugins allow you to easily accept recurring donations on your website. That way, your organization can gain consistent funding to help with budget planning and executing long-term projects. In this article,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-recurring-donation-form-in-wordpress-step-by-step/"&gt;How to Create a Recurring Donation Form in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to parse Gutenberg content for headless WordPress</title>
       <link>https://kinsta.com/blog/headless-wordpress-gutenberg/</link>
       <description>&lt;p&gt;Gutenberg is the default editor for WordPress. The editor lets you craft and style content using discrete blocks for text, images, video, and other site elements ...&lt;/p&gt;
@@ -343,11 +329,25 @@
       <pubDate>Mon, 01 Apr 2024 13:30:48 +0000</pubDate>
     </item>
     <item>
-      <title>How to Use Free SMTP Server to Send WordPress Emails (3 Methods)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/</link>
-      <description>&lt;p&gt;Do you want to use a free SMTP server to send WordPress emails? By default, WordPress uses the PHP mail function, which is unreliable and often marks your emails as spam. Using an SMTP server is the best way to make sure that your WordPress&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-a-free-smtp-server-to-send-wordpress-emails/"&gt;How to Use Free SMTP Server to Send WordPress Emails (3 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Apr 2024 17:00:29 +0000</pubDate>
+      <title>How to Use the WordPress Block Editor (Gutenberg Tutorial)</title>
+      <link>https://www.wpbeginner.com/beginners-guide/how-to-use-the-new-wordpress-block-editor/</link>
+      <description>&lt;p&gt;The block editor in WordPress is the default editor for writing content and editing your site. It was introduced in 2019 with the nickname Gutenberg and replaced the old classic editor. The block editor offers an easy and intuitive way to create content and edit&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-use-the-new-wordpress-block-editor/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-use-the-new-wordpress-block-editor/"&gt;How to Use the WordPress Block Editor (Gutenberg Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 02 Apr 2024 17:36:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Start an Online Thrift Store Using WordPress (2024)</title>
+      <link>https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/</link>
+      <description>&lt;p&gt;Are you looking to create an online thrift store website? Many people think that to start an eCommerce business, they&amp;#8217;ll need to create a new product. However, there&amp;#8217;s another way. You can find pre-owned items and sell them online through a thrift store. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/"&gt;How to Start an Online Thrift Store Using WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 02 Apr 2024 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s New in WordPress 6.5 (Features and Screenshots)</title>
+      <link>https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/</link>
+      <description>&lt;p&gt;WordPress 6.5 is here! This is the first big update of the year 2024 and a particularly exciting one. It is packed with new features, loads of bug fixes, and improvements that will make your website management and content creation even better. We will walk&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/"&gt;What’s New in WordPress 6.5 (Features and Screenshots)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 02 Apr 2024 19:46:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
