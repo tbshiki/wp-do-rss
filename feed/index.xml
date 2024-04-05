@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Apr 2024 09:08:29 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 09:08:13 +0900</lastBuildDate>
     <item>
       <title>State of the Word, Redesign Developer resources, Block Theme updates — Weekend Edition 278</title>
       <link>https://gutenbergtimes.com/state-of-the-word-redesign-developer-resources-block-theme-updates-weekend-edition-278/</link>
@@ -316,20 +316,6 @@
       <pubDate>Mon, 01 Apr 2024 13:30:48 +0000</pubDate>
     </item>
     <item>
-      <title>How to Start an Online Thrift Store Using WordPress (2024)</title>
-      <link>https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/</link>
-      <description>&lt;p&gt;Are you looking to create an online thrift store website? Many people think that to start an eCommerce business, they&amp;#8217;ll need to create a new product. However, there&amp;#8217;s another way. You can find pre-owned items and sell them online through a thrift store. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-start-an-online-thrift-store-using-wordpress/"&gt;How to Start an Online Thrift Store Using WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Apr 2024 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s New in WordPress 6.5 (Features and Screenshots)</title>
-      <link>https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/</link>
-      <description>&lt;p&gt;WordPress 6.5 is here! This is the first big update of the year 2024 and a particularly exciting one. It is packed with new features, loads of bug fixes, and improvements that will make your website management and content creation even better. We will walk&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/whats-new-in-wordpress-6-5/"&gt;What’s New in WordPress 6.5 (Features and Screenshots)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Apr 2024 19:46:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Headless WooCommerce: from setup to deployment on Kinsta</title>
       <link>https://kinsta.com/blog/headless-woocommerce/</link>
       <description>&lt;p&gt;WooCommerce is one of the most popular WordPress plugins for building ecommerce applications. In addition to using WooCommerce in a traditional WordPress application, you can use it ...&lt;/p&gt;
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Do you want to create an auto loan or car payment calculator in WordPress? If you run a car dealership, then a loan payment calculator can help you get more sales. Visitors can also use the calculator to get an estimate for their monthly loan&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-an-auto-loan-calculator-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-an-auto-loan-calculator-in-wordpress/"&gt;How to Create an Auto Loan / Car Payment Calculator in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 03 Apr 2024 17:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcing WPBeginner Pro Services: Custom WordPress Site Design, Maintenance &amp; More at Affordable Prices</title>
+      <link>https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/</link>
+      <description>&lt;p&gt;Have you ever built a WordPress site on your own, only to find it lacks a professional touch? Ever wished there was a way to hire real WordPress experts for custom WordPress tasks without breaking the bank? If you&amp;#8217;re like me and most other smart&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/"&gt;Announcing WPBeginner Pro Services: Custom WordPress Site Design, Maintenance &amp; More at Affordable Prices&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 04 Apr 2024 11:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)</title>
+      <link>https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/</link>
+      <description>&lt;p&gt;AI (artificial intelligence) is quickly becoming an essential tool in marketing and content creation since it helps bloggers and website owners be a lot more productive. However, with so many people creating content with the help of AI, how will it affect SEO? As the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 04 Apr 2024 18:40:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
