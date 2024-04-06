@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Apr 2024 09:08:13 +0900</lastBuildDate>
-    <item>
-      <title>State of the Word, Redesign Developer resources, Block Theme updates — Weekend Edition 278</title>
-      <link>https://gutenbergtimes.com/state-of-the-word-redesign-developer-resources-block-theme-updates-weekend-edition-278/</link>
-      <description>Howdy, 2023 is coming to the end. This is the last edition for 2023, as I take a few vacation days over the Holidays and be with ailing family members. In January, it&amp;#8217;ll be six years of almost weekly news about the block editor, and its progress into a first class site building tool. Thank you&amp;#8230;</description>
-      <pubDate>Sat, 16 Dec 2023 10:31:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Apr 2024 09:07:19 +0900</lastBuildDate>
     <item>
       <title>Happy New Year, WordPress Enterprise, Developer Hours and an Interactive Game –  Weekend Edition 279</title>
       <link>https://gutenbergtimes.com/happy-new-year-wordpress-enterprise-weekend-edition-279/</link>
@@ -290,13 +284,6 @@
       <pubDate>Wed, 27 Mar 2024 15:18:39 +0000</pubDate>
     </item>
     <item>
-      <title>Build a headless blog with WordPress and Frontity</title>
-      <link>https://kinsta.com/blog/frontity/</link>
-      <description>&lt;p&gt;Frontity is a cutting-edge server-side framework designed for swiftly building contemporary websites using WordPress and React. It fetches data from WordPress via a REST API and then uses ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/frontity/" rel="nofollow"&gt;Build a headless blog with WordPress and Frontity&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 29 Mar 2024 14:47:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Gutenberg 18.0, Playground, Pattern, and Form plugins and so much more — Weekend Edition 289</title>
       <link>https://gutenbergtimes.com/gutenberg-18-0-playground-pattern-and-form-plugins-and-so-much-more-weekend-edition-289/</link>
       <description>Happy Easter if you celebrate it! 🐰 🐣&amp;#160; The Easter weekend has a total different vibe in Munich as it had in Naples. In Naples, it was just a normal weekend, and you could get groceries over the weekend, and other shopping done. Here it is a four-day weekend with Good Friday and Easter Monday&amp;#8230;</description>
@@ -329,25 +316,38 @@
       <pubDate>Wed, 03 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create an Auto Loan / Car Payment Calculator in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-an-auto-loan-calculator-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to create an auto loan or car payment calculator in WordPress? If you run a car dealership, then a loan payment calculator can help you get more sales. Visitors can also use the calculator to get an estimate for their monthly loan&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-an-auto-loan-calculator-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-an-auto-loan-calculator-in-wordpress/"&gt;How to Create an Auto Loan / Car Payment Calculator in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 03 Apr 2024 17:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Announcing WPBeginner Pro Services: Custom WordPress Site Design, Maintenance &amp; More at Affordable Prices</title>
-      <link>https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/</link>
-      <description>&lt;p&gt;Have you ever built a WordPress site on your own, only to find it lacks a professional touch? Ever wished there was a way to hire real WordPress experts for custom WordPress tasks without breaking the bank? If you&amp;#8217;re like me and most other smart&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/announcing-wpbeginner-pro-services/"&gt;Announcing WPBeginner Pro Services: Custom WordPress Site Design, Maintenance &amp; More at Affordable Prices&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Apr 2024 11:26:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)</title>
       <link>https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/</link>
       <description>&lt;p&gt;AI (artificial intelligence) is quickly becoming an essential tool in marketing and content creation since it helps bloggers and website owners be a lot more productive. However, with so many people creating content with the help of AI, how will it affect SEO? As the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 04 Apr 2024 18:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Important WordPress Server Requirements You Should Know</title>
+      <link>https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/</link>
+      <description>&lt;p&gt;Recently, one of our users asked what the recommended server requirements are for running a WordPress website. The best thing about WordPress is that it will work in almost any kind of environment. However, when you&amp;#8217;re picking a hosting solution for your site, it&amp;#8217;s important&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/"&gt;6 Important WordPress Server Requirements You Should Know&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Customizing WordPress for developers: developing custom REST API endpoints</title>
+      <link>https://kinsta.com/blog/wp-rest-api-custom-endpoint/</link>
+      <description>&lt;p&gt;WordPress is one of the world’s most popular content management systems (CMSs), helping small and large businesses set up and create various forms of website content. But WordPress ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wp-rest-api-custom-endpoint/" rel="nofollow"&gt;Customizing WordPress for developers: developing custom REST API endpoints&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Apr 2024 15:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>About WordPress 6.5 – all in one list</title>
+      <link>https://gutenbergtimes.com/about-wordpress-6-5-all-in-one-list/</link>
+      <description>This week, WordPress 6.5 certainly dominated the WordPress news cycle. Articles, Videos, Threads on X, and workshops are plenty available for every type of WordPress user. This list of resources if for all who need to dive deeper into certain aspects or have to field questions about the new release. I didn&amp;#8217;t aim for completeness,&amp;#8230;</description>
+      <pubDate>Fri, 05 Apr 2024 15:46:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Best WordPress GDPR Plugins to Improve Compliance</title>
+      <link>https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/</link>
+      <description>&lt;p&gt;Are you looking for a GDPR plugin to ensure your WordPress site complies with regional laws? All websites that collect data related to people in the European Union need to be GDPR-compliant. There are several WordPress plugins that can help you with that. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/"&gt;9 Best WordPress GDPR Plugins to Improve Compliance&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 05 Apr 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
