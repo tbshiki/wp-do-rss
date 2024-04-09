@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Apr 2024 09:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 09:08:14 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #94 – State of the Word, Gutenberg 17.2, 17.3 and 17.4, WordPress 6.5, Migrating from Classic Theme to Block Theme</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-94-state-of-the-word-gutenberg-17-2-17-3-and-17-4-wordpress-6-5-migrating-from-classic-theme-to-block-theme/</link>
@@ -290,13 +290,6 @@
       <pubDate>Sat, 30 Mar 2024 19:57:25 +0000</pubDate>
     </item>
     <item>
-      <title>How to parse Gutenberg content for headless WordPress</title>
-      <link>https://kinsta.com/blog/headless-wordpress-gutenberg/</link>
-      <description>&lt;p&gt;Gutenberg is the default editor for WordPress. The editor lets you craft and style content using discrete blocks for text, images, video, and other site elements ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/headless-wordpress-gutenberg/" rel="nofollow"&gt;How to parse Gutenberg content for headless WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Apr 2024 13:30:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Headless WooCommerce: from setup to deployment on Kinsta</title>
       <link>https://kinsta.com/blog/headless-woocommerce/</link>
       <description>&lt;p&gt;WooCommerce is one of the most popular WordPress plugins for building ecommerce applications. In addition to using WooCommerce in a traditional WordPress application, you can use it ...&lt;/p&gt;
@@ -308,20 +301,6 @@
       <link>https://wptavern.com/podcast/114-tammie-lister-on-the-journey-through-design-and-theming</link>
       <description>On the podcast today we have Tammie Lister. If you’ve been in the WordPress space for a while, Tammie's name is likely a familiar one. She's an 18-year veteran of the project, a talented designer, developer, and a key contributor to the project. Her journey has made her wear a variety of hats in both agency life and product development. Today, Tammie shares insights that span from the practical to the philosophical within the open-source landscape. We get to hear Tammie's perspective on this crucial experimentation phase in WordPress theme development, the balance she seeks between minimalist design and functional complexity, and her active roles, including the default theme task force. Tammie's excitement for what's next is palpable. So, whether you're a developer, a designer, or a WordPress aficionado, this episode is for you.</description>
       <pubDate>Wed, 03 Apr 2024 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)</title>
-      <link>https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/</link>
-      <description>&lt;p&gt;AI (artificial intelligence) is quickly becoming an essential tool in marketing and content creation since it helps bloggers and website owners be a lot more productive. However, with so many people creating content with the help of AI, how will it affect SEO? As the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/is-ai-content-bad-for-wordpress-seo/"&gt;Is AI Content Bad for WordPress SEO? (Expert Insights &amp; Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Apr 2024 18:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Important WordPress Server Requirements You Should Know</title>
-      <link>https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/</link>
-      <description>&lt;p&gt;Recently, one of our users asked what the recommended server requirements are for running a WordPress website. The best thing about WordPress is that it will work in almost any kind of environment. However, when you&amp;#8217;re picking a hosting solution for your site, it&amp;#8217;s important&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/important-wordpress-server-requirements-you-should-know/"&gt;6 Important WordPress Server Requirements You Should Know&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Apr 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Customizing WordPress for developers: developing custom REST API endpoints</title>
@@ -348,6 +327,27 @@
       <link>https://gutenbergtimes.com/wordpress-6-5-register-font-collections-working-with-templates-or-playground-weekend-edition-290/</link>
       <description>Howdy, This week, WordPress 6.5 certainly dominated the WordPress news cycle. Articles, Videos, Threads on X, and workshops are plenty available for every type of WordPress user. I compiled a separate list for your perusal or to point people to wandering about. As a reader of this newsletter, you have kept up with all the&amp;#8230;</description>
       <pubDate>Sat, 06 Apr 2024 00:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Best WordPress Migration Services (Compared)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-migration-services/</link>
+      <description>&lt;p&gt;Are you looking for the best WordPress migration service for your website? Whether you are moving your site from a different CMS or to a new web host, choosing the right migration platform is important. That&amp;#8217;s why we&amp;#8217;ve put together a list of the best&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-migration-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-migration-services/"&gt;8 Best WordPress Migration Services (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>First Contentful Paint explained: how to improve your time</title>
+      <link>https://kinsta.com/blog/first-contentful-paint/</link>
+      <description>&lt;p&gt;Struggling with First Contentful Paint (FCP) times on your site? Whether you&amp;#8217;re not even sure what First Contentful Paint is or you&amp;#8217;re looking for some specific ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/first-contentful-paint/" rel="nofollow"&gt;First Contentful Paint explained: how to improve your time&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 14:54:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add a Facebook Like Box / Fan Box in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-add-the-facebook-like-box-fan-box-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to add a Facebook Like Box to your WordPress website? Adding a Facebook Like Box to your website makes it easy for your audience to like and follow your Facebook page. The more likes you get, the more reputable and trustworthy your&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-facebook-like-box-fan-box-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-facebook-like-box-fan-box-in-wordpress/"&gt;How to Add a Facebook Like Box / Fan Box in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Apr 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
