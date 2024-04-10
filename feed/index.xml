@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Apr 2024 09:08:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 09:07:48 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #94 – State of the Word, Gutenberg 17.2, 17.3 and 17.4, WordPress 6.5, Migrating from Classic Theme to Block Theme</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-94-state-of-the-word-gutenberg-17-2-17-3-and-17-4-wordpress-6-5-migrating-from-classic-theme-to-block-theme/</link>
@@ -316,24 +316,10 @@
       <pubDate>Fri, 05 Apr 2024 15:46:32 +0000</pubDate>
     </item>
     <item>
-      <title>9 Best WordPress GDPR Plugins to Improve Compliance</title>
-      <link>https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/</link>
-      <description>&lt;p&gt;Are you looking for a GDPR plugin to ensure your WordPress site complies with regional laws? All websites that collect data related to people in the European Union need to be GDPR-compliant. There are several WordPress plugins that can help you with that. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-gdpr-plugins-for-wordpress-simple-reliable/"&gt;9 Best WordPress GDPR Plugins to Improve Compliance&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Apr 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.5, register Font collections, working with templates, or playground — Weekend Edition 290</title>
       <link>https://gutenbergtimes.com/wordpress-6-5-register-font-collections-working-with-templates-or-playground-weekend-edition-290/</link>
       <description>Howdy, This week, WordPress 6.5 certainly dominated the WordPress news cycle. Articles, Videos, Threads on X, and workshops are plenty available for every type of WordPress user. I compiled a separate list for your perusal or to point people to wandering about. As a reader of this newsletter, you have kept up with all the&amp;#8230;</description>
       <pubDate>Sat, 06 Apr 2024 00:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Best WordPress Migration Services (Compared)</title>
-      <link>https://www.wpbeginner.com/showcase/best-wordpress-migration-services/</link>
-      <description>&lt;p&gt;Are you looking for the best WordPress migration service for your website? Whether you are moving your site from a different CMS or to a new web host, choosing the right migration platform is important. That&amp;#8217;s why we&amp;#8217;ve put together a list of the best&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-migration-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-migration-services/"&gt;8 Best WordPress Migration Services (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Apr 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>First Contentful Paint explained: how to improve your time</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Do you want to add a Facebook Like Box to your WordPress website? Adding a Facebook Like Box to your website makes it easy for your audience to like and follow your Facebook page. The more likes you get, the more reputable and trustworthy your&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-facebook-like-box-fan-box-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-facebook-like-box-fan-box-in-wordpress/"&gt;How to Add a Facebook Like Box / Fan Box in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 08 Apr 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Which Is Better: Thrive Architect vs Divi vs Elementor</title>
+      <link>https://www.wpbeginner.com/opinion/thrive-architect-vs-divi-vs-elementor/</link>
+      <description>&lt;p&gt;Are you looking for a landing page builder for your WordPress site but are not sure whether to choose Thrive Architect, Divi, or Elementor? Choosing the right page builder will allow you to customize your website and landing pages for better user experience and flexibility.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/thrive-architect-vs-divi-vs-elementor/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/thrive-architect-vs-divi-vs-elementor/"&gt;Which Is Better: Thrive Architect vs Divi vs Elementor&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Automatically Add Watermark to Images in WordPress</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to automatically add a watermark to your images in WordPress? You can use watermarks to increase brand awareness and prevent image theft and misuse. If you are a photographer, then adding a watermark to images can also create a sense of professionalism.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/"&gt;How to Automatically Add Watermark to Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Apr 2024 17:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
