@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 09:07:56 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 09:07:39 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #94 – State of the Word, Gutenberg 17.2, 17.3 and 17.4, WordPress 6.5, Migrating from Classic Theme to Block Theme</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-94-state-of-the-word-gutenberg-17-2-17-3-and-17-4-wordpress-6-5-migrating-from-classic-theme-to-block-theme/</link>
@@ -316,20 +316,6 @@
       <pubDate>Mon, 08 Apr 2024 14:54:20 +0000</pubDate>
     </item>
     <item>
-      <title>How to Automatically Add Watermark to Images in WordPress</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to automatically add a watermark to your images in WordPress? You can use watermarks to increase brand awareness and prevent image theft and misuse. If you are a photographer, then adding a watermark to images can also create a sense of professionalism.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-automatically-add-watermark-to-images-in-wordpress/"&gt;How to Automatically Add Watermark to Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Apr 2024 17:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Do Content Syndication in WordPress (Beginner’s Guide)</title>
-      <link>https://www.wpbeginner.com/beginners-guide/how-to-do-content-syndication-in-wordpress/</link>
-      <description>&lt;p&gt;Users have often asked us if they can use content syndication to get website backlinks or content. Most WordPress blogs use content syndication, which is a built-in WordPress feature that makes it easier to share content using RSS feeds. This feature allows users to subscribe&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-do-content-syndication-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-do-content-syndication-in-wordpress/"&gt;How to Do Content Syndication in WordPress (Beginner’s Guide)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 10 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to build a real-time object detection app using React and Kinsta</title>
       <link>https://kinsta.com/blog/react-object-detection-app/</link>
       <description>&lt;p&gt;Since cameras have improved, real-time object detection has become an increasingly sought-after functionality. From self-driving cars and smart surveillance systems to augmented reality applications, this technology ...&lt;/p&gt;
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Are you looking for the best WordPress caching plugin for your website? Caching essentially stores a copy of your WordPress site on your server. When users open your website again, the server can simply pull up the copy so that visitors won’t have to reload&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-wordpress-caching-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-wordpress-caching-plugins/"&gt;5 Best WordPress Caching Plugins to Speed Up Your Website (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 10 Apr 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build Trust and Make Money With Ethical Affiliate Marketing</title>
+      <link>https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/</link>
+      <description>&lt;p&gt;Are you looking to make money with affiliate marketing? Adding compelling product recommendations to your blog content can boost your revenue by 30%. But you need to earn the trust of potential shoppers before they will click on those affiliate links. They need to know&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/"&gt;How to Build Trust and Make Money With Ethical Affiliate Marketing&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a “Sticky” Floating Footer Bar in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking for a way to create a sticky floating footer bar in WordPress? A sticky floating footer bar stays visible on your website even when users scroll down on your page. It can help you promote discount offers or social media handles, which&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;How to Create a “Sticky” Floating Footer Bar in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Apr 2024 17:00:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
