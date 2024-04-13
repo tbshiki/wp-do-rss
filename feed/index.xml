@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Apr 2024 09:07:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 09:07:09 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #94 – State of the Word, Gutenberg 17.2, 17.3 and 17.4, WordPress 6.5, Migrating from Classic Theme to Block Theme</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-94-state-of-the-word-gutenberg-17-2-17-3-and-17-4-wordpress-6-5-migrating-from-classic-theme-to-block-theme/</link>
@@ -290,13 +290,6 @@
       <pubDate>Wed, 03 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Customizing WordPress for developers: developing custom REST API endpoints</title>
-      <link>https://kinsta.com/blog/wp-rest-api-custom-endpoint/</link>
-      <description>&lt;p&gt;WordPress is one of the world’s most popular content management systems (CMSs), helping small and large businesses set up and create various forms of website content. But WordPress ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wp-rest-api-custom-endpoint/" rel="nofollow"&gt;Customizing WordPress for developers: developing custom REST API endpoints&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Apr 2024 15:15:50 +0000</pubDate>
-    </item>
-    <item>
       <title>About WordPress 6.5 – all in one list on blocks and site editor</title>
       <link>https://gutenbergtimes.com/about-wordpress-6-5-all-in-one-list/</link>
       <description>This week, WordPress 6.5 certainly dominated the WordPress news cycle. Articles, Videos, Threads on X, and workshops are plenty available for every type of WordPress user. This list of resources if for all who need to dive deeper into certain aspects or have to field questions about the new release. I didn&amp;#8217;t aim for completeness,&amp;#8230;</description>
@@ -329,25 +322,32 @@
       <pubDate>Wed, 10 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>5 Best WordPress Caching Plugins to Speed Up Your Website (2024)</title>
-      <link>https://www.wpbeginner.com/plugins/best-wordpress-caching-plugins/</link>
-      <description>&lt;p&gt;Are you looking for the best WordPress caching plugin for your website? Caching essentially stores a copy of your WordPress site on your server. When users open your website again, the server can simply pull up the copy so that visitors won’t have to reload&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-wordpress-caching-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-wordpress-caching-plugins/"&gt;5 Best WordPress Caching Plugins to Speed Up Your Website (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 10 Apr 2024 17:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Build Trust and Make Money With Ethical Affiliate Marketing</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/</link>
-      <description>&lt;p&gt;Are you looking to make money with affiliate marketing? Adding compelling product recommendations to your blog content can boost your revenue by 30%. But you need to earn the trust of potential shoppers before they will click on those affiliate links. They need to know&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-build-trust-and-make-money-with-ethical-affiliate-marketing/"&gt;How to Build Trust and Make Money With Ethical Affiliate Marketing&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Create a “Sticky” Floating Footer Bar in WordPress</title>
       <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/</link>
       <description>&lt;p&gt;Are you looking for a way to create a sticky floating footer bar in WordPress? A sticky floating footer bar stays visible on your website even when users scroll down on your page. It can help you promote discount offers or social media handles, which&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;How to Create a “Sticky” Floating Footer Bar in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 11 Apr 2024 17:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>13 Best HubSpot Alternatives for 2024 (Free + Paid)</title>
+      <link>https://www.wpbeginner.com/showcase/best-hubspot-alternatives/</link>
+      <description>&lt;p&gt;Are you looking for alternatives to HubSpot? HubSpot is a popular customer relationship management (CRM) software that offers popular solutions for all your marketing and sales needs. However, it can be very expensive to use as your business grows. In this article, we will share&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-hubspot-alternatives/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-hubspot-alternatives/"&gt;13 Best HubSpot Alternatives for 2024 (Free + Paid)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to install PHP dependencies and extensions with Docker</title>
+      <link>https://kinsta.com/blog/docker-php-ext-install/</link>
+      <description>&lt;p&gt;Docker is a popular open-source platform for developing, shipping, and running applications. It encapsulates applications and their dependencies in containers to promote consistency across different environments. This consistency ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/docker-php-ext-install/" rel="nofollow"&gt;How to install PHP dependencies and extensions with Docker&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Apr 2024 14:35:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a Recent Comments Page in WordPress</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to add a recent comments page to your WordPress website? Displaying all of your most recent comments on one page is a great way to highlight the discussion happening on your website. With WordPress, creating a page like this is easy, thanks&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/"&gt;How to Create a Recent Comments Page in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Apr 2024 17:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
