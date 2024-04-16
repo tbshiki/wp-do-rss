@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 11:20:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 09:07:27 +0900</lastBuildDate>
     <item>
       <title>Call for testing WordPress 6.5, page builders yes or no, Data Liberation and more — Weekend Edition 280</title>
       <link>https://gutenbergtimes.com/call-for-testing-wordpress-6-5-page-builders-yes-or-no-data-liberation-and-more-weekend-edition-280/</link>
@@ -316,20 +316,6 @@
       <pubDate>Wed, 10 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create a “Sticky” Floating Footer Bar in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking for a way to create a sticky floating footer bar in WordPress? A sticky floating footer bar stays visible on your website even when users scroll down on your page. It can help you promote discount offers or social media handles, which&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-sticky-floating-footer-bar-in-wordpress/"&gt;How to Create a “Sticky” Floating Footer Bar in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Apr 2024 17:00:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>13 Best HubSpot Alternatives for 2024 (Free + Paid)</title>
-      <link>https://www.wpbeginner.com/showcase/best-hubspot-alternatives/</link>
-      <description>&lt;p&gt;Are you looking for alternatives to HubSpot? HubSpot is a popular customer relationship management (CRM) software that offers popular solutions for all your marketing and sales needs. However, it can be very expensive to use as your business grows. In this article, we will share&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-hubspot-alternatives/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-hubspot-alternatives/"&gt;13 Best HubSpot Alternatives for 2024 (Free + Paid)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to install PHP dependencies and extensions with Docker</title>
       <link>https://kinsta.com/blog/docker-php-ext-install/</link>
       <description>&lt;p&gt;Docker is a popular open-source platform for developing, shipping, and running applications. It encapsulates applications and their dependencies in containers to promote consistency across different environments. This consistency ...&lt;/p&gt;
@@ -348,6 +334,20 @@
       <link>https://gutenbergtimes.com/grid-layouts-are-coming-playground-for-preview-interactivity-api-in-the-wild-weekend-edition-291/</link>
       <description>Howdy, Don&amp;#8217;t forget to save the date for the Hallway Hangout: Let’s chat about what’s next in Gutenberg on April 24 at 11 pm UTC / 7pm EDT / 4 pm PDT / 1 am CEST Rob Cairns and I chatted on his podcast about WordPress 6.5 and beyond. Spring is back in Munich and&amp;#8230;</description>
       <pubDate>Sat, 13 Apr 2024 04:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Technical Documentation Software for WordPress</title>
+      <link>https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/</link>
+      <description>&lt;p&gt;Are you looking for the best technical documentation software for WordPress? Technical documentation software helps you easily write, edit, and manage documentation inside WordPress. This enables users to get the information they need without asking for support and helps you reduce support queries. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/"&gt;10 Best Technical Documentation Software for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use AI to Generate Images in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to use artificial intelligence tools like DALL.E to generate images in WordPress? AI-generated images can be a good alternative to create images for your WordPress blog posts without worrying about copyright. In this article, we will show you how to use AI&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;How to Use AI to Generate Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Apr 2024 17:00:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
