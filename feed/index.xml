@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Apr 2024 09:07:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 09:07:54 +0900</lastBuildDate>
     <item>
       <title>Call for testing WordPress 6.5, page builders yes or no, Data Liberation and more — Weekend Edition 280</title>
       <link>https://gutenbergtimes.com/call-for-testing-wordpress-6-5-page-builders-yes-or-no-data-liberation-and-more-weekend-edition-280/</link>
@@ -296,13 +296,6 @@
       <pubDate>Sat, 06 Apr 2024 00:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>First Contentful Paint explained: how to improve your time</title>
-      <link>https://kinsta.com/blog/first-contentful-paint/</link>
-      <description>&lt;p&gt;Struggling with First Contentful Paint (FCP) times on your site? Whether you&amp;#8217;re not even sure what First Contentful Paint is or you&amp;#8217;re looking for some specific ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/first-contentful-paint/" rel="nofollow"&gt;First Contentful Paint explained: how to improve your time&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Apr 2024 14:54:20 +0000</pubDate>
-    </item>
-    <item>
       <title>How to build a real-time object detection app using React and Kinsta</title>
       <link>https://kinsta.com/blog/react-object-detection-app/</link>
       <description>&lt;p&gt;Since cameras have improved, real-time object detection has become an increasingly sought-after functionality. From self-driving cars and smart surveillance systems to augmented reality applications, this technology ...&lt;/p&gt;
@@ -323,24 +316,17 @@
       <pubDate>Fri, 12 Apr 2024 14:35:12 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create a Recent Comments Page in WordPress</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to add a recent comments page to your WordPress website? Displaying all of your most recent comments on one page is a great way to highlight the discussion happening on your website. With WordPress, creating a page like this is easy, thanks&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-create-a-recent-comments-page-in-wordpress/"&gt;How to Create a Recent Comments Page in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Apr 2024 17:00:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Grid Layouts are coming, Playground for preview, Interactivity API in the wild — Weekend Edition 291</title>
       <link>https://gutenbergtimes.com/grid-layouts-are-coming-playground-for-preview-interactivity-api-in-the-wild-weekend-edition-291/</link>
       <description>Howdy, Don&amp;#8217;t forget to save the date for the Hallway Hangout: Let’s chat about what’s next in Gutenberg on April 24 at 11 pm UTC / 7pm EDT / 4 pm PDT / 1 am CEST Rob Cairns and I chatted on his podcast about WordPress 6.5 and beyond. Spring is back in Munich and&amp;#8230;</description>
       <pubDate>Sat, 13 Apr 2024 04:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>10 Best Technical Documentation Software for WordPress</title>
-      <link>https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/</link>
-      <description>&lt;p&gt;Are you looking for the best technical documentation software for WordPress? Technical documentation software helps you easily write, edit, and manage documentation inside WordPress. This enables users to get the information they need without asking for support and helps you reduce support queries. In this&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-technical-documentation-software-for-wordpress/"&gt;10 Best Technical Documentation Software for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Apr 2024 10:00:00 +0000</pubDate>
+      <title>How to optimize your WordPress site environment with Kinsta API</title>
+      <link>https://kinsta.com/blog/optimize-wordpress-site-environment/</link>
+      <description>&lt;p&gt;If you’ve been using Kinsta for a while now, you’re likely more than familiar with MyKinsta. This helpful dashboard is available to all Kinsta users and ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/optimize-wordpress-site-environment/" rel="nofollow"&gt;How to optimize your WordPress site environment with Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Apr 2024 15:04:09 +0000</pubDate>
     </item>
     <item>
       <title>How to Use AI to Generate Images in WordPress</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Do you want to use artificial intelligence tools like DALL.E to generate images in WordPress? AI-generated images can be a good alternative to create images for your WordPress blog posts without worrying about copyright. In this article, we will show you how to use AI&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;How to Use AI to Generate Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 15 Apr 2024 17:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate WordPress Local SEO Guide to Boost Rankings</title>
+      <link>https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/</link>
+      <description>&lt;p&gt;Are you struggling with WordPress local SEO and getting your site noticed in local searches? SEO can be tricky, and local SEO has its own set of challenges. But here&amp;#8217;s the good news: we&amp;#8217;ve been helping small business owners win at SEO for years. We&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/"&gt;The Ultimate WordPress Local SEO Guide to Boost Rankings&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Limit Comment Length in WordPress (Easy Tutorial)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to limit comment length in WordPress? WordPress comments encourage discussions around your blog post content. However, you may find that comments that are very brief or overly long are not very helpful. In this article, we will show you how to easily&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;How to Limit Comment Length in WordPress (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Apr 2024 17:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
