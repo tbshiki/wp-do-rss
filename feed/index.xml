@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 09:07:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:07:45 +0900</lastBuildDate>
     <item>
       <title>Call for testing WordPress 6.5, page builders yes or no, Data Liberation and more — Weekend Edition 280</title>
       <link>https://gutenbergtimes.com/call-for-testing-wordpress-6-5-page-builders-yes-or-no-data-liberation-and-more-weekend-edition-280/</link>
@@ -66,12 +66,6 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>#110 – Thomas J. Raef on the Shift in How Hackers Attack, and How to Protect Your Site</title>
-      <link>https://wptavern.com/podcast/110-thomas-j-raef-on-the-shift-in-how-hackers-attack-and-how-to-protect-your-site</link>
-      <description>On the podcast today we have Thomas J. Raef. Thomas is the founder of We Watch Your Website, a company that has been removing malware from websites since 2007. During that time he’s seen many changes in the methods hackers use to take over a website, and that’s the focus of the podcast today. With hackers becoming increasingly agile in their tactics, targeting everything from plugins to session cookies, Thomas brings to the table data he’s gathered from 2023 that puts the spotlight on the evolving digital threat landscape. We’re all used to hearing that plugins, themes, and sometimes WordPress Core, are the most likely culprits when something goes wrong. The story goes that out of date code, or a zero day is discovered and leveraged. Whilst Thomas does not doubt that this is true, he’s here to paint a somewhat different picture. A picture which puts the focus upon stolen session cookies as the most important factor in website attacks last year. If you've ever been concerned about the security of your WordPress site or intrigued by the intricacies of cybersecurity, this episode is for you.</description>
-      <pubDate>Wed, 28 Feb 2024 18:27:39 +0000</pubDate>
     </item>
     <item>
       <title>Automattic Faces Scrutiny Over AI Access Policy</title>
@@ -329,25 +323,31 @@
       <pubDate>Mon, 15 Apr 2024 15:04:09 +0000</pubDate>
     </item>
     <item>
-      <title>How to Use AI to Generate Images in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to use artificial intelligence tools like DALL.E to generate images in WordPress? AI-generated images can be a good alternative to create images for your WordPress blog posts without worrying about copyright. In this article, we will show you how to use AI&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-use-ai-to-generate-images-in-wordpress/"&gt;How to Use AI to Generate Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Apr 2024 17:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Ultimate WordPress Local SEO Guide to Boost Rankings</title>
-      <link>https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/</link>
-      <description>&lt;p&gt;Are you struggling with WordPress local SEO and getting your site noticed in local searches? SEO can be tricky, and local SEO has its own set of challenges. But here&amp;#8217;s the good news: we&amp;#8217;ve been helping small business owners win at SEO for years. We&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/the-ultimate-wordpress-local-seo-guide/"&gt;The Ultimate WordPress Local SEO Guide to Boost Rankings&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Limit Comment Length in WordPress (Easy Tutorial)</title>
       <link>https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/</link>
       <description>&lt;p&gt;Do you want to limit comment length in WordPress? WordPress comments encourage discussions around your blog post content. However, you may find that comments that are very brief or overly long are not very helpful. In this article, we will show you how to easily&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;How to Limit Comment Length in WordPress (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 16 Apr 2024 17:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is WordPress Outdated? The Good, Bad, and Ugly (Honest Review)</title>
+      <link>https://www.wpbeginner.com/opinion/is-wordpress-outdated/</link>
+      <description>&lt;p&gt;Have you seen rumors on the internet that WordPress is outdated? WordPress is the most popular website builder on the market, powering about 43% of the websites. With its large market share, flexibility, and regular updates, it is safe to say that WordPress is not&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/is-wordpress-outdated/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/is-wordpress-outdated/"&gt;Is WordPress Outdated? The Good, Bad, and Ugly (Honest Review)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#116 – Jonathan Desrosiers on the Challenges and Rewards of Contributing to WordPress</title>
+      <link>https://wptavern.com/podcast/116-jonathan-desrosiers-on-the-challenges-and-rewards-of-contributing-to-wordpress</link>
+      <description>On the podcast today we have Jonathan Desrosier. Jonathan has been a contributor to WordPress Core for many years, and a WordPress Core committer since 2018. Jonathan currently works as a Senior Software Engineer at Bluehost, where he is sponsored full-time to contribute to WordPress Core through the Five for the Future program. We talk about the challenges that come with contributing to such a large and multi-faceted project, from the intricate process of decision-making, involving many stakeholders, to the occasional moments of feeling demoralised when contributions seem like a drop in the ocean. We discuss the importance of regular contributions, and about the sustainability of the open-source ecosystem, emphasising the critical role businesses need to play, and the potential risks when key contributors step back. If you’re curious about how you can contribute, what that looks likes, and where it can take you, this episode is for you.</description>
+      <pubDate>Wed, 17 Apr 2024 14:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>64 Best Free WordPress Blog Themes for 2024</title>
+      <link>https://www.wpbeginner.com/showcase/best-free-wordpress-blog-themes/</link>
+      <description>&lt;p&gt;Are you looking for a free WordPress blog theme for your website? There are thousands of free blog themes for WordPress, making it hard for beginners to choose between all the different options. The best WordPress theme can be tough to find since it needs&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-free-wordpress-blog-themes/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-free-wordpress-blog-themes/"&gt;64 Best Free WordPress Blog Themes for 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Apr 2024 23:50:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
