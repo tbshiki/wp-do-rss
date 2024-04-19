@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Apr 2024 09:07:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 09:07:20 +0900</lastBuildDate>
     <item>
       <title>Call for testing WordPress 6.5, page builders yes or no, Data Liberation and more — Weekend Edition 280</title>
       <link>https://gutenbergtimes.com/call-for-testing-wordpress-6-5-page-builders-yes-or-no-data-liberation-and-more-weekend-edition-280/</link>
@@ -290,13 +290,6 @@
       <pubDate>Sat, 06 Apr 2024 00:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to build a real-time object detection app using React and Kinsta</title>
-      <link>https://kinsta.com/blog/react-object-detection-app/</link>
-      <description>&lt;p&gt;Since cameras have improved, real-time object detection has become an increasingly sought-after functionality. From self-driving cars and smart surveillance systems to augmented reality applications, this technology ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/react-object-detection-app/" rel="nofollow"&gt;How to build a real-time object detection app using React and Kinsta&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 10 Apr 2024 11:22:30 +0000</pubDate>
-    </item>
-    <item>
       <title>#115 – Jamie Marsland on Turning Technical Know-How Into Popular Content</title>
       <link>https://wptavern.com/podcast/115-jamie-marsland-on-turning-technical-know-how-into-popular-content</link>
       <description>On the podcast today we have Jamie Marsland, and he's here to talk to me about his recent journey into YouTube content creation as well as the topic of how WordPress is positioned against the likes of Wix and Shopify. Jamie shares his strategies for effective video creation, from planning to execution, along with his thoughts on sponsored content and its place in the YouTube ecosystem. If you’re curious about the future of WordPress, content creation, or the dynamics of digital learning, this episode is for you.</description>
@@ -323,24 +316,17 @@
       <pubDate>Mon, 15 Apr 2024 15:04:09 +0000</pubDate>
     </item>
     <item>
-      <title>How to Limit Comment Length in WordPress (Easy Tutorial)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to limit comment length in WordPress? WordPress comments encourage discussions around your blog post content. However, you may find that comments that are very brief or overly long are not very helpful. In this article, we will show you how to easily&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-limit-comment-length-in-wordpress/"&gt;How to Limit Comment Length in WordPress (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Apr 2024 17:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is WordPress Outdated? The Good, Bad, and Ugly (Honest Review)</title>
-      <link>https://www.wpbeginner.com/opinion/is-wordpress-outdated/</link>
-      <description>&lt;p&gt;Have you seen rumors on the internet that WordPress is outdated? WordPress is the most popular website builder on the market, powering about 43% of the websites. With its large market share, flexibility, and regular updates, it is safe to say that WordPress is not&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/is-wordpress-outdated/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/is-wordpress-outdated/"&gt;Is WordPress Outdated? The Good, Bad, and Ugly (Honest Review)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>#116 – Jonathan Desrosiers on the Challenges and Rewards of Contributing to WordPress</title>
       <link>https://wptavern.com/podcast/116-jonathan-desrosiers-on-the-challenges-and-rewards-of-contributing-to-wordpress</link>
       <description>On the podcast today we have Jonathan Desrosier. Jonathan has been a contributor to WordPress Core for many years, and a WordPress Core committer since 2018. Jonathan currently works as a Senior Software Engineer at Bluehost, where he is sponsored full-time to contribute to WordPress Core through the Five for the Future program. We talk about the challenges that come with contributing to such a large and multi-faceted project, from the intricate process of decision-making, involving many stakeholders, to the occasional moments of feeling demoralised when contributions seem like a drop in the ocean. We discuss the importance of regular contributions, and about the sustainability of the open-source ecosystem, emphasising the critical role businesses need to play, and the potential risks when key contributors step back. If you’re curious about how you can contribute, what that looks likes, and where it can take you, this episode is for you.</description>
       <pubDate>Wed, 17 Apr 2024 14:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>The ultimate WooCommerce REST API handbook: practical examples included</title>
+      <link>https://kinsta.com/blog/woocommerce-api/</link>
+      <description>&lt;p&gt;Managing an online store is expensive, and owners often have to deal with many manual processes. The WooCommerce REST API simplifies this workflow, enabling you to ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/woocommerce-api/" rel="nofollow"&gt;The ultimate WooCommerce REST API handbook: practical examples included&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Apr 2024 15:34:52 +0000</pubDate>
     </item>
     <item>
       <title>64 Best Free WordPress Blog Themes for 2024</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Are you looking for a free WordPress blog theme for your website? There are thousands of free blog themes for WordPress, making it hard for beginners to choose between all the different options. The best WordPress theme can be tough to find since it needs&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-free-wordpress-blog-themes/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-free-wordpress-blog-themes/"&gt;64 Best Free WordPress Blog Themes for 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 17 Apr 2024 23:50:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make $5000 of Passive Income Every Month in WordPress</title>
+      <link>https://www.wpbeginner.com/opinion/make-passive-income-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking for a low-maintenance side gig to generate some extra income? Selling digital downloads might be the answer. I&amp;#8217;ve been personally selling digital downloads for over a decade. It&amp;#8217;s a painless way to make money because you don&amp;#8217;t have all the overhead of&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/make-passive-income-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/make-passive-income-in-wordpress/"&gt;How to Make $5000 of Passive Income Every Month in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Display Most Popular Tags in WordPress (2 Easy Methods)</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to display the most popular tags used on your WordPress site? Tags and categories are the two default ways that you can use to sort your content in WordPress. However, categories often attract more attention due to their broader scope, leaving tags&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/"&gt;How to Display Most Popular Tags in WordPress (2 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Apr 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
