@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Apr 2024 09:07:23 +0900</lastBuildDate>
-    <item>
-      <title>Call for testing WordPress 6.5, page builders yes or no, Data Liberation and more — Weekend Edition 280</title>
-      <link>https://gutenbergtimes.com/call-for-testing-wordpress-6-5-page-builders-yes-or-no-data-liberation-and-more-weekend-edition-280/</link>
-      <description>Howdy, We are 31 days away from WordPress 6.5 Beta 1, the version that closes the new version for new features. In so far it&amp;#8217;s early, lots of work can still go into the next major upgrade. On the other hand, we are only three Gutenberg plugin versions away from WordPress beta 1. Gutenberg 17.5&amp;#8230;</description>
-      <pubDate>Fri, 12 Jan 2024 23:01:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Apr 2024 09:08:17 +0900</lastBuildDate>
     <item>
       <title>Quick Tip: How to use a classic menu in the navigation block of a block theme</title>
       <link>https://gutenbergtimes.com/quick-tip-how-to-use-a-classic-menu-in-the-navigation-block-of-a-block-theme/</link>
@@ -296,13 +290,6 @@
       <pubDate>Wed, 10 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to install PHP dependencies and extensions with Docker</title>
-      <link>https://kinsta.com/blog/docker-php-ext-install/</link>
-      <description>&lt;p&gt;Docker is a popular open-source platform for developing, shipping, and running applications. It encapsulates applications and their dependencies in containers to promote consistency across different environments. This consistency ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/docker-php-ext-install/" rel="nofollow"&gt;How to install PHP dependencies and extensions with Docker&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Apr 2024 14:35:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Grid Layouts are coming, Playground for preview, Interactivity API in the wild — Weekend Edition 291</title>
       <link>https://gutenbergtimes.com/grid-layouts-are-coming-playground-for-preview-interactivity-api-in-the-wild-weekend-edition-291/</link>
       <description>Howdy, Don&amp;#8217;t forget to save the date for the Hallway Hangout: Let’s chat about what’s next in Gutenberg on April 24 at 11 pm UTC / 7pm EDT / 4 pm PDT / 1 am CEST Rob Cairns and I chatted on his podcast about WordPress 6.5 and beyond. Spring is back in Munich and&amp;#8230;</description>
@@ -343,11 +330,24 @@
       <pubDate>Fri, 19 Apr 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Choosing the right hosting solution for your headless WordPress</title>
+      <link>https://kinsta.com/blog/headless-wordpress-hosting/</link>
+      <description>&lt;p&gt;Headless WordPress strips away the front-end layer from the content management system (CMS), so developers can use any technology stack for the front end. At the same time, WordPress powers ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/headless-wordpress-hosting/" rel="nofollow"&gt;Choosing the right hosting solution for your headless WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 19 Apr 2024 16:44:52 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Do an SEO Competitor Analysis in WordPress (2 Easy Ways)</title>
       <link>https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/</link>
       <description>&lt;p&gt;Are you wondering what strategies your competitors are using to grow their organic traffic? Doing an SEO competitor analysis can uncover a world of information. Instead of guessing which keywords to target or links to build, you can see what your competition is doing and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/"&gt;How to Do an SEO Competitor Analysis in WordPress (2 Easy Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 19 Apr 2024 17:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pattern Directory updated, Faster Web w/ WordPress, and Interactivity API in the wild — Weekend Edition 292</title>
+      <link>https://gutenbergtimes.com/pattern-directory-updated-faster-web-w-wordpress-and-interactivity-api-in-the-wild-weekend-edition-292/</link>
+      <description>Howdy, Greetings from WordCamp Leipzig! I didn&amp;#8217;t get much time to work on this week&amp;#8217;s edition, but I didn&amp;#8217;t take a break either as I found some great articles, videos and tutorial, I wanted you to know about right away. WordCamp Leipzig was a great no-frills WordCamp. I arrived after a workday on Friday night,&amp;#8230;</description>
+      <pubDate>Sat, 20 Apr 2024 08:58:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
