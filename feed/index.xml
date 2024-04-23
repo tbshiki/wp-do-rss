@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Apr 2024 09:08:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:08:11 +0900</lastBuildDate>
     <item>
       <title>Quick Tip: How to use a classic menu in the navigation block of a block theme</title>
       <link>https://gutenbergtimes.com/quick-tip-how-to-use-a-classic-menu-in-the-navigation-block-of-a-block-theme/</link>
@@ -316,20 +316,6 @@
       <pubDate>Wed, 17 Apr 2024 15:34:52 +0000</pubDate>
     </item>
     <item>
-      <title>How to Display Most Popular Tags in WordPress (2 Easy Methods)</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to display the most popular tags used on your WordPress site? Tags and categories are the two default ways that you can use to sort your content in WordPress. However, categories often attract more attention due to their broader scope, leaving tags&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-display-most-popular-tags-in-wordpress/"&gt;How to Display Most Popular Tags in WordPress (2 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 18 Apr 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>7 Best WooCommerce Points and Rewards Plugins</title>
-      <link>https://www.wpbeginner.com/showcase/best-woocommerce-points-and-rewards-plugins/</link>
-      <description>&lt;p&gt;Are you looking for a points and rewards plugin for your WooCommerce store? Since there are hundreds of reward system plugins available on the market, choosing the right one for your needs can be intimidating. To help you easily choose the right one for your&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-woocommerce-points-and-rewards-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-woocommerce-points-and-rewards-plugins/"&gt;7 Best WooCommerce Points and Rewards Plugins&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Choosing the right hosting solution for your headless WordPress</title>
       <link>https://kinsta.com/blog/headless-wordpress-hosting/</link>
       <description>&lt;p&gt;Headless WordPress strips away the front-end layer from the content management system (CMS), so developers can use any technology stack for the front end. At the same time, WordPress powers ...&lt;/p&gt;
@@ -348,6 +334,20 @@
       <link>https://gutenbergtimes.com/pattern-directory-updated-faster-web-w-wordpress-and-interactivity-api-in-the-wild-weekend-edition-292/</link>
       <description>Howdy, Greetings from WordCamp Leipzig! I didn&amp;#8217;t get much time to work on this week&amp;#8217;s edition, but I didn&amp;#8217;t take a break either as I found some great articles, videos and tutorial, I wanted you to know about right away. WordCamp Leipzig was a great no-frills WordCamp. I arrived after a workday on Friday night,&amp;#8230;</description>
       <pubDate>Sat, 20 Apr 2024 08:58:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amazon FBA vs. Dropshipping: The Best Option for Online Stores</title>
+      <link>https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/</link>
+      <description>&lt;p&gt;Want to know the differences between Amazon FBA vs. dropshipping so that you can start your own online store? Fulfillment by Amazon (FBA) and dropshipping are two different options for delivering goods that your customers order online. Whether you are starting an online store from&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/"&gt;Amazon FBA vs. Dropshipping: The Best Option for Online Stores&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress Security Tip: Add Google Authenticator 2-Step Verification</title>
+      <link>https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/</link>
+      <description>&lt;p&gt;Do you want to add Google Authenticator 2-step verification to your WordPress site? Passwords alone aren&amp;#8217;t enough to ward off hackers and unauthorized users. Luckily, using Google Authenticator 2-step verification can add an extra layer of security to your website. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;WordPress Security Tip: Add Google Authenticator 2-Step Verification&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Apr 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
