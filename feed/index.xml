@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Apr 2024 09:08:11 +0900</lastBuildDate>
-    <item>
-      <title>Quick Tip: How to use a classic menu in the navigation block of a block theme</title>
-      <link>https://gutenbergtimes.com/quick-tip-how-to-use-a-classic-menu-in-the-navigation-block-of-a-block-theme/</link>
-      <description>There was a question in the forums, if one needs to rebuild all the menus when switching from a classic theme to a block theme. In other words, how can you add an existing menu to the Navigation block. If there is only one classic menu, it will be displayed in the navigation block. But&amp;#8230;</description>
-      <pubDate>Mon, 15 Jan 2024 12:13:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Apr 2024 09:07:20 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -296,13 +290,6 @@
       <pubDate>Sat, 13 Apr 2024 04:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to optimize your WordPress site environment with Kinsta API</title>
-      <link>https://kinsta.com/blog/optimize-wordpress-site-environment/</link>
-      <description>&lt;p&gt;If you’ve been using Kinsta for a while now, you’re likely more than familiar with MyKinsta. This helpful dashboard is available to all Kinsta users and ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/optimize-wordpress-site-environment/" rel="nofollow"&gt;How to optimize your WordPress site environment with Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Apr 2024 15:04:09 +0000</pubDate>
-    </item>
-    <item>
       <title>#116 – Jonathan Desrosiers on the Challenges and Rewards of Contributing to WordPress</title>
       <link>https://wptavern.com/podcast/116-jonathan-desrosiers-on-the-challenges-and-rewards-of-contributing-to-wordpress</link>
       <description>On the podcast today we have Jonathan Desrosier. Jonathan has been a contributor to WordPress Core for many years, and a WordPress Core committer since 2018. Jonathan currently works as a Senior Software Engineer at Bluehost, where he is sponsored full-time to contribute to WordPress Core through the Five for the Future program. We talk about the challenges that come with contributing to such a large and multi-faceted project, from the intricate process of decision-making, involving many stakeholders, to the occasional moments of feeling demoralised when contributions seem like a drop in the ocean. We discuss the importance of regular contributions, and about the sustainability of the open-source ecosystem, emphasising the critical role businesses need to play, and the potential risks when key contributors step back. If you’re curious about how you can contribute, what that looks likes, and where it can take you, this episode is for you.</description>
@@ -323,24 +310,17 @@
       <pubDate>Fri, 19 Apr 2024 16:44:52 +0000</pubDate>
     </item>
     <item>
-      <title>How to Do an SEO Competitor Analysis in WordPress (2 Easy Ways)</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/</link>
-      <description>&lt;p&gt;Are you wondering what strategies your competitors are using to grow their organic traffic? Doing an SEO competitor analysis can uncover a world of information. Instead of guessing which keywords to target or links to build, you can see what your competition is doing and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-do-an-seo-competitor-analysis-in-wordpress/"&gt;How to Do an SEO Competitor Analysis in WordPress (2 Easy Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Apr 2024 17:00:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Pattern Directory updated, Faster Web w/ WordPress, and Interactivity API in the wild — Weekend Edition 292</title>
       <link>https://gutenbergtimes.com/pattern-directory-updated-faster-web-w-wordpress-and-interactivity-api-in-the-wild-weekend-edition-292/</link>
       <description>Howdy, Greetings from WordCamp Leipzig! I didn&amp;#8217;t get much time to work on this week&amp;#8217;s edition, but I didn&amp;#8217;t take a break either as I found some great articles, videos and tutorial, I wanted you to know about right away. WordCamp Leipzig was a great no-frills WordCamp. I arrived after a workday on Friday night,&amp;#8230;</description>
       <pubDate>Sat, 20 Apr 2024 08:58:37 +0000</pubDate>
     </item>
     <item>
-      <title>Amazon FBA vs. Dropshipping: The Best Option for Online Stores</title>
-      <link>https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/</link>
-      <description>&lt;p&gt;Want to know the differences between Amazon FBA vs. dropshipping so that you can start your own online store? Fulfillment by Amazon (FBA) and dropshipping are two different options for delivering goods that your customers order online. Whether you are starting an online store from&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/amazon-fba-vs-dropshipping/"&gt;Amazon FBA vs. Dropshipping: The Best Option for Online Stores&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Apr 2024 10:00:00 +0000</pubDate>
+      <title>WooCommerce access control: tailoring user roles for optimal store performance</title>
+      <link>https://kinsta.com/blog/woocommerce-user-roles/</link>
+      <description>&lt;p&gt;In WooCommerce, user roles and permissions are essential to how you manage your ecommerce store — and how secure it is. With user roles, you can ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/woocommerce-user-roles/" rel="nofollow"&gt;WooCommerce access control: tailoring user roles for optimal store performance&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Apr 2024 15:43:35 +0000</pubDate>
     </item>
     <item>
       <title>WordPress Security Tip: Add Google Authenticator 2-Step Verification</title>
@@ -348,6 +328,26 @@
       <description>&lt;p&gt;Do you want to add Google Authenticator 2-step verification to your WordPress site? Passwords alone aren&amp;#8217;t enough to ward off hackers and unauthorized users. Luckily, using Google Authenticator 2-step verification can add an extra layer of security to your website. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;WordPress Security Tip: Add Google Authenticator 2-Step Verification&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Apr 2024 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Best WooCommerce Multi-Vendor Plugins (Compared)</title>
+      <link>https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/</link>
+      <description>&lt;p&gt;Are you looking for the best WooCommerce multi-vendor plugins? Creating your own online store is great, but you could potentially earn more money by letting other sellers rent a small part of the space. With multi-vendor plugins, you can turn your eCommerce site into a&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/"&gt;9 Best WooCommerce Multi-Vendor Plugins (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 23 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exploring the latest version of the Create Block Theme plugin</title>
+      <link>https://gutenbergtimes.com/exploring-the-latest-version-of-the-create-block-theme-plugin/</link>
+      <description>The Create Block Theme plugin was created to streamline block theme development by adding to the power of the Site Editor with theme specific goodies and workflows. The plugin aims to be a modern quick start tool for the world of block themes, allowing you to create your own or build upon existing themes without&amp;#8230;</description>
+      <pubDate>Tue, 23 Apr 2024 16:04:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Notify Users Only on Replies to Their WordPress Comments</title>
+      <link>https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/</link>
+      <description>&lt;p&gt;Do you want to notify users only on replies to their WordPress comments? By default, users won&amp;#8217;t know that someone has replied to their comment unless they come back to the comment section and see the response.&amp;#160;This makes it hard to generate in-depth discussions and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;How to Notify Users Only on Replies to Their WordPress Comments&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 23 Apr 2024 17:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
