@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 09:07:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 09:07:18 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -54,12 +54,6 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Automattic Faces Scrutiny Over AI Access Policy</title>
-      <link>https://wptavern.com/automattic-faces-scrutiny-over-ai-access-policy</link>
-      <description>This article is a joint effort by James Giroux &amp;#38; Jyolsna. After unconfirmed reports of [&amp;#8230;]</description>
-      <pubDate>Wed, 28 Feb 2024 19:11:40 +0000</pubDate>
     </item>
     <item>
       <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 3, Attendees</title>
@@ -323,20 +317,6 @@
       <pubDate>Mon, 22 Apr 2024 15:43:35 +0000</pubDate>
     </item>
     <item>
-      <title>WordPress Security Tip: Add Google Authenticator 2-Step Verification</title>
-      <link>https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/</link>
-      <description>&lt;p&gt;Do you want to add Google Authenticator 2-step verification to your WordPress site? Passwords alone aren&amp;#8217;t enough to ward off hackers and unauthorized users. Luckily, using Google Authenticator 2-step verification can add an extra layer of security to your website. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/improve-wordpress-security-with-google-authenticator/"&gt;WordPress Security Tip: Add Google Authenticator 2-Step Verification&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Apr 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>9 Best WooCommerce Multi-Vendor Plugins (Compared)</title>
-      <link>https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/</link>
-      <description>&lt;p&gt;Are you looking for the best WooCommerce multi-vendor plugins? Creating your own online store is great, but you could potentially earn more money by letting other sellers rent a small part of the space. With multi-vendor plugins, you can turn your eCommerce site into a&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/best-woocommerce-multi-vendor-plugins-compared/"&gt;9 Best WooCommerce Multi-Vendor Plugins (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 23 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Exploring the latest version of the Create Block Theme plugin</title>
       <link>https://gutenbergtimes.com/exploring-the-latest-version-of-the-create-block-theme-plugin/</link>
       <description>The Create Block Theme plugin was created to streamline block theme development by adding to the power of the Site Editor with theme specific goodies and workflows. The plugin aims to be a modern quick start tool for the world of block themes, allowing you to create your own or build upon existing themes without&amp;#8230;</description>
@@ -348,6 +328,26 @@
       <description>&lt;p&gt;Do you want to notify users only on replies to their WordPress comments? By default, users won&amp;#8217;t know that someone has replied to their comment unless they come back to the comment section and see the response.&amp;#160;This makes it hard to generate in-depth discussions and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;How to Notify Users Only on Replies to Their WordPress Comments&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 23 Apr 2024 17:01:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Sell Personal Training Services with WordPress</title>
+      <link>https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/</link>
+      <description>&lt;p&gt;Do you want to sell your personal training services online? Luckily, WordPress lets you create a simple payment form or even an entire membership site to sell your personal training services. This will allow clients to ask about your services and schedule training sessions directly&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/"&gt;How to Sell Personal Training Services with WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>117 – Maestro Stevens on Inclusivity in Website Design Decisions</title>
+      <link>https://wptavern.com/podcast/117-maestro-stevens-on-inclusivity-in-website-design-decisions</link>
+      <description>On the podcast today we have Maestro Stevens. Maestro is an international speaker and managing director of The Iconic Expressions. His areas of expertise include digital marketing, brand strategy, web development, and project leadership. In this episode Maestro lays out the case for how inclusivity is not just something that we need to be concerned about at things like events, but also in our WordPress website designs. If you're curious about the intersection of creativity, representation, and the WordPress ecosystem, this episode is for you.</description>
+      <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use SMTP Server to Send WordPress Emails</title>
+      <link>https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/</link>
+      <description>&lt;p&gt;Are you having trouble receiving or sending emails from your WordPress site? Email deliverability is one of the most important parts of running a website. From password reset emails to order confirmations, having a reliable email service is a must. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;How to Use SMTP Server to Send WordPress Emails&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Apr 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
