@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Apr 2024 09:07:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 09:07:33 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -290,13 +290,6 @@
       <pubDate>Wed, 17 Apr 2024 14:20:52 +0000</pubDate>
     </item>
     <item>
-      <title>The ultimate WooCommerce REST API handbook: practical examples included</title>
-      <link>https://kinsta.com/blog/woocommerce-api/</link>
-      <description>&lt;p&gt;Managing an online store is expensive, and owners often have to deal with many manual processes. The WooCommerce REST API simplifies this workflow, enabling you to ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/woocommerce-api/" rel="nofollow"&gt;The ultimate WooCommerce REST API handbook: practical examples included&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Apr 2024 15:34:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Choosing the right hosting solution for your headless WordPress</title>
       <link>https://kinsta.com/blog/headless-wordpress-hosting/</link>
       <description>&lt;p&gt;Headless WordPress strips away the front-end layer from the content management system (CMS), so developers can use any technology stack for the front end. At the same time, WordPress powers ...&lt;/p&gt;
@@ -323,24 +316,17 @@
       <pubDate>Tue, 23 Apr 2024 16:04:09 +0000</pubDate>
     </item>
     <item>
-      <title>How to Notify Users Only on Replies to Their WordPress Comments</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/</link>
-      <description>&lt;p&gt;Do you want to notify users only on replies to their WordPress comments? By default, users won&amp;#8217;t know that someone has replied to their comment unless they come back to the comment section and see the response.&amp;#160;This makes it hard to generate in-depth discussions and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-notify-users-only-on-replies-to-their-wordpress-comments/"&gt;How to Notify Users Only on Replies to Their WordPress Comments&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 23 Apr 2024 17:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Sell Personal Training Services with WordPress</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/</link>
-      <description>&lt;p&gt;Do you want to sell your personal training services online? Luckily, WordPress lets you create a simple payment form or even an entire membership site to sell your personal training services. This will allow clients to ask about your services and schedule training sessions directly&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-sell-personal-training-services-with-wordpress/"&gt;How to Sell Personal Training Services with WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>117 – Maestro Stevens on Inclusivity in Website Design Decisions</title>
       <link>https://wptavern.com/podcast/117-maestro-stevens-on-inclusivity-in-website-design-decisions</link>
       <description>On the podcast today we have Maestro Stevens. Maestro is an international speaker and managing director of The Iconic Expressions. His areas of expertise include digital marketing, brand strategy, web development, and project leadership. In this episode Maestro lays out the case for how inclusivity is not just something that we need to be concerned about at things like events, but also in our WordPress website designs. If you're curious about the intersection of creativity, representation, and the WordPress ecosystem, this episode is for you.</description>
       <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A step-by-step guide to connect your spreadsheets to a database in the cloud</title>
+      <link>https://kinsta.com/blog/cloud-spreadsheet-integration/</link>
+      <description>&lt;p&gt;Spreadsheets are valuable for organizing and managing customer data, especially for small-scale businesses handling small datasets with few complex relationships. As your data grows and becomes ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/cloud-spreadsheet-integration/" rel="nofollow"&gt;A step-by-step guide to connect your spreadsheets to a database in the cloud&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Apr 2024 14:27:31 +0000</pubDate>
     </item>
     <item>
       <title>How to Use SMTP Server to Send WordPress Emails</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Are you having trouble receiving or sending emails from your WordPress site? Email deliverability is one of the most important parts of running a website. From password reset emails to order confirmations, having a reliable email service is a must. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;How to Use SMTP Server to Send WordPress Emails&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 24 Apr 2024 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Are Popups Still Relevant? The Future of Popup Marketing Explored</title>
+      <link>https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/</link>
+      <description>&lt;p&gt;Popups are everywhere on the internet, but do they actually work or just annoy people? Popups are now much smarter and more common than ever before. However, despite their popularity, some website owners ask if popups still work. In this article, I will try to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/"&gt;Are Popups Still Relevant? The Future of Popup Marketing Explored&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>26 Best Beaver Builder Themes and Templates</title>
+      <link>https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/</link>
+      <description>&lt;p&gt;Are you looking for the best Beaver Builder themes and templates? There are many WordPress themes and templates built specifically for Beaver Builder to help you quickly create professional websites. Using such a theme or template makes the process a lot faster without compromising on&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/"&gt;26 Best Beaver Builder Themes and Templates&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Apr 2024 17:00:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
