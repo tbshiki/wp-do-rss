@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Apr 2024 09:07:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:08:04 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -329,25 +329,25 @@
       <pubDate>Wed, 24 Apr 2024 14:27:31 +0000</pubDate>
     </item>
     <item>
-      <title>How to Use SMTP Server to Send WordPress Emails</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/</link>
-      <description>&lt;p&gt;Are you having trouble receiving or sending emails from your WordPress site? Email deliverability is one of the most important parts of running a website. From password reset emails to order confirmations, having a reliable email service is a must. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-use-smtp-server-to-send-wordpress-emails/"&gt;How to Use SMTP Server to Send WordPress Emails&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Apr 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Are Popups Still Relevant? The Future of Popup Marketing Explored</title>
-      <link>https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/</link>
-      <description>&lt;p&gt;Popups are everywhere on the internet, but do they actually work or just annoy people? Popups are now much smarter and more common than ever before. However, despite their popularity, some website owners ask if popups still work. In this article, I will try to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/are-popups-still-relevant-the-future-of-popup-marketing-explored/"&gt;Are Popups Still Relevant? The Future of Popup Marketing Explored&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>26 Best Beaver Builder Themes and Templates</title>
-      <link>https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/</link>
-      <description>&lt;p&gt;Are you looking for the best Beaver Builder themes and templates? There are many WordPress themes and templates built specifically for Beaver Builder to help you quickly create professional websites. Using such a theme or template makes the process a lot faster without compromising on&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/beaver-builder-themes-and-templates/"&gt;26 Best Beaver Builder Themes and Templates&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <link>https://www.wpbeginner.com/showcase/beaver-builder-themes-and-templates/</link>
+      <description>&lt;p&gt;Are you looking for the best Beaver Builder themes and templates? There are many WordPress themes and templates built specifically for Beaver Builder to help you quickly create professional websites. Using such a theme or template makes the process a lot faster without compromising on&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/beaver-builder-themes-and-templates/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/beaver-builder-themes-and-templates/"&gt;26 Best Beaver Builder Themes and Templates&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 25 Apr 2024 17:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Analytics vs. Jetpack Stats: Which One Should You Use?</title>
+      <link>https://www.wpbeginner.com/opinion/google-analytics-vs-jetpack-stats/</link>
+      <description>&lt;p&gt;Are you debating whether to use Google Analytics or Jetpack Stats for your WordPress website? Both are popular analytics platforms, but you might be wondering which one is the better fit for you. Especially with changes to the Jetpack Stats pricing model, you may be&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/google-analytics-vs-jetpack-stats/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/google-analytics-vs-jetpack-stats/"&gt;Google Analytics vs. Jetpack Stats: Which One Should You Use?&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add Social Share Buttons in WordPress (Beginner’s Guide)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-add-social-share-buttons-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to add social share buttons in WordPress? People spend most of their time on different social media platforms across the internet, so sharing your content on these platforms can help you build user engagement and attract new visitors to your website. The&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-social-share-buttons-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-social-share-buttons-in-wordpress/"&gt;How to Add Social Share Buttons in WordPress (Beginner’s Guide)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Apr 2024 17:00:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
