@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Apr 2024 09:08:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 09:08:48 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -290,13 +290,6 @@
       <pubDate>Wed, 17 Apr 2024 14:20:52 +0000</pubDate>
     </item>
     <item>
-      <title>Choosing the right hosting solution for your headless WordPress</title>
-      <link>https://kinsta.com/blog/headless-wordpress-hosting/</link>
-      <description>&lt;p&gt;Headless WordPress strips away the front-end layer from the content management system (CMS), so developers can use any technology stack for the front end. At the same time, WordPress powers ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/headless-wordpress-hosting/" rel="nofollow"&gt;Choosing the right hosting solution for your headless WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Apr 2024 16:44:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Pattern Directory updated, Faster Web w/ WordPress, and Interactivity API in the wild — Weekend Edition 292</title>
       <link>https://gutenbergtimes.com/pattern-directory-updated-faster-web-w-wordpress-and-interactivity-api-in-the-wild-weekend-edition-292/</link>
       <description>Howdy, Greetings from WordCamp Leipzig! I didn&amp;#8217;t get much time to work on this week&amp;#8217;s edition, but I didn&amp;#8217;t take a break either as I found some great articles, videos and tutorial, I wanted you to know about right away. WordCamp Leipzig was a great no-frills WordCamp. I arrived after a workday on Friday night,&amp;#8230;</description>
@@ -341,6 +334,13 @@
       <description>&lt;p&gt;Are you debating whether to use Google Analytics or Jetpack Stats for your WordPress website? Both are popular analytics platforms, but you might be wondering which one is the better fit for you. Especially with changes to the Jetpack Stats pricing model, you may be&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/google-analytics-vs-jetpack-stats/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/google-analytics-vs-jetpack-stats/"&gt;Google Analytics vs. Jetpack Stats: Which One Should You Use?&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 26 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build WordPress web apps using a microservices architecture</title>
+      <link>https://kinsta.com/blog/wordpress-web-apps/</link>
+      <description>&lt;p&gt;WordPress is a powerful Content Management System (CMS) that can lay the foundation for different types of sites and apps. This uses a typical &amp;#8216;monolithic architecture,&amp;#8217; ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-web-apps/" rel="nofollow"&gt;How to build WordPress web apps using a microservices architecture&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Apr 2024 15:27:31 +0000</pubDate>
     </item>
     <item>
       <title>How to Add Social Share Buttons in WordPress (Beginner’s Guide)</title>
