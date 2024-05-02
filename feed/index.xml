@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 May 2024 09:08:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:07:47 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -54,12 +54,6 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 3, Attendees</title>
-      <link>https://wptavern.com/wordpress-photo-festival-2024-a-five-part-retrospective-part-3-attendees</link>
-      <description>In this episode of the International WPPhotos event we talk to attendees from three different continents about their various experiences.</description>
-      <pubDate>Wed, 28 Feb 2024 21:16:20 +0000</pubDate>
     </item>
     <item>
       <title>Data Liberation: Meet WordPress.org’s Ambitious Plan for 2024</title>
@@ -302,7 +296,7 @@
       <pubDate>Tue, 23 Apr 2024 16:04:09 +0000</pubDate>
     </item>
     <item>
-      <title>117 – Maestro Stevens on Inclusivity in Website Design Decisions</title>
+      <title>#117 – Maestro Stevens on Inclusivity in Website Design Decisions</title>
       <link>https://wptavern.com/podcast/117-maestro-stevens-on-inclusivity-in-website-design-decisions</link>
       <description>On the podcast today we have Maestro Stevens. Maestro is an international speaker and managing director of The Iconic Expressions. His areas of expertise include digital marketing, brand strategy, web development, and project leadership. In this episode Maestro lays out the case for how inclusivity is not just something that we need to be concerned about at things like events, but also in our WordPress website designs. If you're curious about the intersection of creativity, representation, and the WordPress ecosystem, this episode is for you.</description>
       <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
@@ -329,25 +323,31 @@
       <pubDate>Mon, 29 Apr 2024 15:38:10 +0000</pubDate>
     </item>
     <item>
-      <title>14 Best WordPress Membership Plugins (Compared) – 2024</title>
-      <link>https://www.wpbeginner.com/plugins/5-best-wordpress-membership-plugins-compared/</link>
-      <description>&lt;p&gt;Are you looking for the best WordPress membership plugin to build a website? Choosing the right plugin is very important for your membership business because a better platform means more growth opportunities. Luckily, we have made this super easy for you by testing the most&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/5-best-wordpress-membership-plugins-compared/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/5-best-wordpress-membership-plugins-compared/"&gt;14 Best WordPress Membership Plugins (Compared) – 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Apr 2024 17:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>13 Best Fun WordPress Plugins You’re Missing Out On</title>
-      <link>https://www.wpbeginner.com/showcase/best-fun-wordpress-plugins/</link>
-      <description>&lt;p&gt;Are you looking to find the best fun WordPress plugins for your website? Since there are thousands of plugins available on the market, it can be difficult to pick the ones that will actually add a fun and interactive element to your site while boosting&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-fun-wordpress-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-fun-wordpress-plugins/"&gt;13 Best Fun WordPress Plugins You’re Missing Out On&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 30 Apr 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Add a Simple User Ranking System for WordPress Comments</title>
       <link>https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/</link>
       <description>&lt;p&gt;Do you want to add a simple user ranking system for WordPress comments on your website? A ranking system can gamify your comments section and motivate more users to leave their thoughts and questions on your website. This can boost engagement and build a sense&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/"&gt;How to Add a Simple User Ranking System for WordPress Comments&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 30 Apr 2024 17:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing the Reimagined WP Charitable: Fundraising Has Got Easier Than Ever</title>
+      <link>https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/</link>
+      <description>&lt;p&gt;Have you ever wondered if there was an easy way to collect donations for non-profits and fundraisers? While there are several donation platforms on the market, most of them charge a heavy transaction / platform fee or come with limited functionalities, restricting your fundraising abilities.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/"&gt;Introducing the Reimagined WP Charitable: Fundraising Has Got Easier Than Ever&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#118 – Nahuai Badiola on Digital Sustainability Across the Whole WordPress Project</title>
+      <link>https://wptavern.com/podcast/118-nahuai-badiola-on-digital-sustainability-across-the-whole-wordpress-project</link>
+      <description>On the podcast today we have Nahuai Badiola. Nahuai is a freelance WordPress developer, theme, and plugin creator. He also writes WordPress code tutorials and enjoys sharing everything he learns about web sustainability in his blog, podcast, and at WordPress events. Nahuai’s life took an unexpected turn one day when he attended a 10-minute lightning talk at a WordCamp. The content of that talk was web sustainability and it profoundly changed his perspective on how we should view our use of the internet. Nahuai has since been a vocal advocate for sustainability within the WordPress community. Today, Nahuai and I discuss the nuances of the environmental impact of web development with a particular focus on WordPress. We discuss ideas like reducing code in plugins, and highlight the Performance Team's efforts to make WordPress more green. If you're curious about sustainability within WordPress web development, and the community more broadly, this episode is for you.</description>
+      <pubDate>Wed, 01 May 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Test Your WordPress Theme Against Latest Standards</title>
+      <link>https://www.wpbeginner.com/wp-themes/how-to-test-your-wordpress-theme-against-latest-standards/</link>
+      <description>&lt;p&gt;Do you want to see if your WordPress theme meets the latest standards? The WordPress theme review team has set high standards for free WordPress themes submitted to the official directory. These standards ensure the theme is safe, user-friendly, and accessible to WordPress users. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-test-your-wordpress-theme-against-latest-standards/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-test-your-wordpress-theme-against-latest-standards/"&gt;How to Test Your WordPress Theme Against Latest Standards&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 May 2024 17:00:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
