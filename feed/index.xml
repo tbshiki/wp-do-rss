@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 May 2024 09:07:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 09:08:21 +0900</lastBuildDate>
     <item>
       <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
       <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
@@ -302,13 +302,6 @@
       <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>A step-by-step guide to connect your spreadsheets to a database in the cloud</title>
-      <link>https://kinsta.com/blog/cloud-spreadsheet-integration/</link>
-      <description>&lt;p&gt;Spreadsheets are valuable for organizing and managing customer data, especially for small-scale businesses handling small datasets with few complex relationships. As your data grows and becomes ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/cloud-spreadsheet-integration/" rel="nofollow"&gt;A step-by-step guide to connect your spreadsheets to a database in the cloud&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Apr 2024 14:27:31 +0000</pubDate>
-    </item>
-    <item>
       <title>How to build WordPress web apps using a microservices architecture</title>
       <link>https://kinsta.com/blog/wordpress-web-apps/</link>
       <description>&lt;p&gt;WordPress is a powerful Content Management System (CMS) that can lay the foundation for different types of sites and apps. This uses a typical &amp;#8216;monolithic architecture,&amp;#8217; ...&lt;/p&gt;
@@ -323,24 +316,17 @@
       <pubDate>Mon, 29 Apr 2024 15:38:10 +0000</pubDate>
     </item>
     <item>
-      <title>How to Add a Simple User Ranking System for WordPress Comments</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/</link>
-      <description>&lt;p&gt;Do you want to add a simple user ranking system for WordPress comments on your website? A ranking system can gamify your comments section and motivate more users to leave their thoughts and questions on your website. This can boost engagement and build a sense&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-simple-user-ranking-system-for-wordpress-comments/"&gt;How to Add a Simple User Ranking System for WordPress Comments&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 30 Apr 2024 17:00:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Reimagined WP Charitable: Fundraising Has Got Easier Than Ever</title>
-      <link>https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/</link>
-      <description>&lt;p&gt;Have you ever wondered if there was an easy way to collect donations for non-profits and fundraisers? While there are several donation platforms on the market, most of them charge a heavy transaction / platform fee or come with limited functionalities, restricting your fundraising abilities.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/introducing-the-reimagined-wp-charitable-fundraising-has-got-easier-than-ever/"&gt;Introducing the Reimagined WP Charitable: Fundraising Has Got Easier Than Ever&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>#118 – Nahuai Badiola on Digital Sustainability Across the Whole WordPress Project</title>
       <link>https://wptavern.com/podcast/118-nahuai-badiola-on-digital-sustainability-across-the-whole-wordpress-project</link>
       <description>On the podcast today we have Nahuai Badiola. Nahuai is a freelance WordPress developer, theme, and plugin creator. He also writes WordPress code tutorials and enjoys sharing everything he learns about web sustainability in his blog, podcast, and at WordPress events. Nahuai’s life took an unexpected turn one day when he attended a 10-minute lightning talk at a WordCamp. The content of that talk was web sustainability and it profoundly changed his perspective on how we should view our use of the internet. Nahuai has since been a vocal advocate for sustainability within the WordPress community. Today, Nahuai and I discuss the nuances of the environmental impact of web development with a particular focus on WordPress. We discuss ideas like reducing code in plugins, and highlight the Performance Team's efforts to make WordPress more green. If you're curious about sustainability within WordPress web development, and the community more broadly, this episode is for you.</description>
       <pubDate>Wed, 01 May 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restricting IPs and monitoring activity using the Kinsta API</title>
+      <link>https://kinsta.com/blog/restricting-ips/</link>
+      <description>&lt;p&gt;We talk a lot about how your WordPress website’s security is not a set-and-forget task. It needs constant and vigilant monitoring from you, and the job ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/restricting-ips/" rel="nofollow"&gt;Restricting IPs and monitoring activity using the Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 May 2024 15:59:57 +0000</pubDate>
     </item>
     <item>
       <title>How to Test Your WordPress Theme Against Latest Standards</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Do you want to see if your WordPress theme meets the latest standards? The WordPress theme review team has set high standards for free WordPress themes submitted to the official directory. These standards ensure the theme is safe, user-friendly, and accessible to WordPress users. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-test-your-wordpress-theme-against-latest-standards/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-test-your-wordpress-theme-against-latest-standards/"&gt;How to Test Your WordPress Theme Against Latest Standards&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 01 May 2024 17:00:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create an Effective Content Plan in WordPress (9 Expert Tips)</title>
+      <link>https://www.wpbeginner.com/opinion/create-an-effective-content-plan-in-wordpress/</link>
+      <description>&lt;p&gt;Are you hitting a brick wall trying to plan upcoming content for your blog or business website? A WordPress website is a powerful tool. But so many business owners waste their potential by not being intentional about the content they create. The right content will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/create-an-effective-content-plan-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/create-an-effective-content-plan-in-wordpress/"&gt;How to Create an Effective Content Plan in WordPress (9 Expert Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add Categories and Tags to WordPress Media Library</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/</link>
+      <description>&lt;p&gt;Do you want to add categories and tags to images in your WordPress media library? Tags and categories can help you organize media files in a way that makes sense to you. This can make it easier to find images when you need them. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/"&gt;How to Add Categories and Tags to WordPress Media Library&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 May 2024 17:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
