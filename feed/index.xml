@@ -6,19 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 May 2024 09:07:51 +0900</lastBuildDate>
-    <item>
-      <title>Media Experiments, WordPress 6.5, Gutenberg 17.5 and block building tutorials — Weekend Edition 281</title>
-      <link>https://gutenbergtimes.com/media-experiments-wordpress-6-5-gutenberg-17-5-and-block-building-updates-weekend-edition-218/</link>
-      <description>Howdy, Work on the next major WordPress release, 6.5 is in full swing. Two more Gutenberg plugin releases and Beta 1 will be upon us. You&amp;#8217;ll find more information below, including additional resources. It&amp;#8217;s the first release since 6.0 that I won&amp;#8217;t be on the release squad, by choice. I will, of course, support it&amp;#8230;</description>
-      <pubDate>Sat, 20 Jan 2024 10:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gutenberg Changelog #95 – Gutenberg 17.5, Early Testing of WordPress 6.5 and Block Themes</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-95-gutenberg-17-5-early-testing-of-wordpress-6-5-and-block-themes/</link>
-      <description>In this episode, Carolina Nymark and Birgit Pauli-Haack discuss Gutenberg 17.5, early testing of WordPress 6.5 and block themes Show Notes / Transcript Show Notes Special Guest: Carolina Nymark Live Q &amp;#38; As with Carolina Nymark Questions Quick Tip: How to use a classic menu in the navigation block of a block theme Upcoming Events&amp;#8230;</description>
-      <pubDate>Sun, 21 Jan 2024 13:34:09 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 May 2024 09:08:19 +0900</lastBuildDate>
     <item>
       <title>Dynamic Blocks, WordPress for Enterprise and Attachment Templates — Weekend Edition 282</title>
       <link>https://gutenbergtimes.com/dynamic-blocks-wordpress-for-enterprise-and-attachment-templates-weekend-edition-282/</link>
@@ -302,13 +290,6 @@
       <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to build WordPress web apps using a microservices architecture</title>
-      <link>https://kinsta.com/blog/wordpress-web-apps/</link>
-      <description>&lt;p&gt;WordPress is a powerful Content Management System (CMS) that can lay the foundation for different types of sites and apps. This uses a typical &amp;#8216;monolithic architecture,&amp;#8217; ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-web-apps/" rel="nofollow"&gt;How to build WordPress web apps using a microservices architecture&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Apr 2024 15:27:31 +0000</pubDate>
-    </item>
-    <item>
       <title>An introduction to WordPress coding standards</title>
       <link>https://kinsta.com/blog/wordpress-coding-standards/</link>
       <description>&lt;p&gt;Coding standards in WordPress development are pivotal for a robust and sustainable codebase. They serve as guidelines and conventions that developers adhere to when writing code, ...&lt;/p&gt;
@@ -343,11 +324,30 @@
       <pubDate>Fri, 03 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>How Speculative Loading can boost your WordPress site’s page speed</title>
+      <link>https://kinsta.com/blog/speculative-loading/</link>
+      <description>&lt;p&gt;Today, web pages are packed with images, videos, and interactive elements that aim to enhance the user experience. However, these elements can slow down your page&amp;#8217;s ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/speculative-loading/" rel="nofollow"&gt;How Speculative Loading can boost your WordPress site&amp;#8217;s page speed&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 03 May 2024 15:31:44 +0000</pubDate>
+    </item>
+    <item>
       <title>How to Add a Mortgage Calculator in WordPress (Step by Step)</title>
       <link>https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/</link>
       <description>&lt;p&gt;Do you want to add a mortgage calculator in WordPress? If you have a real estate or finance website, then a mortgage calculator can help visitors see whether they can afford the properties you are promoting. This can keep people on your website for longer&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/"&gt;How to Add a Mortgage Calculator in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 03 May 2024 17:00:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress 6.6 Roadmap + demos, what’s next for Meta boxes, Pattern tutorials  — Weekend Edition 293</title>
+      <link>https://gutenbergtimes.com/wordpress-6-6-roadmap-demos-whats-next-for-meta-boxes-pattern-tutorials-weekend-edition-293/</link>
+      <description>Howdy, Well, this week there has been plenty of information about what WordPress 6.6 might bring. It&amp;#8217;s scheduled to be released in mid-July and will be fully packed with awesome features. The designer tools set for nocode site builders gets massively bigger with Pattern overrides, Grid Layout. Section Styles and Block Style variations. There are&amp;#8230;</description>
+      <pubDate>Sat, 04 May 2024 04:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gutenberg Changelog #99 – WordPress 6.6 + 6.5.3, Gutenberg 18.1 + 18.2, and Create Block Theme Updates</title>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-99-wordpress-6-6-create-block-theme-updates/</link>
+      <description>In this episode, Sarah Norris and Birgit Pauli-Haack discuss WordPress 6.6 and 6.5.3, Gutenberg 18.1 + 18.2 and Create Block Theme Updates Show Notes / Transcript Show Notes Special Guest:&amp;#160;Sarah Norris JavaScript Developer 6.4 editor tech co-lead / Core team rep Announcements Create Block Theme plugin WordPress WordPress 6.5.3 RC1 is now available Gutenberg Interactivity&amp;#8230;</description>
+      <pubDate>Sat, 04 May 2024 11:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
