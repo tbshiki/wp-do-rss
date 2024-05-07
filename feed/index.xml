@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 May 2024 09:08:07 +0900</lastBuildDate>
-    <item>
-      <title>Dynamic Blocks, WordPress for Enterprise and Attachment Templates — Weekend Edition 282</title>
-      <link>https://gutenbergtimes.com/dynamic-blocks-wordpress-for-enterprise-and-attachment-templates-weekend-edition-282/</link>
-      <description>Howdy, Part of life is change and adjustment to new situations, and being adaptive is a skill that needs to be practiced. It&amp;#8217;s never easy. For my personal life as well as for web development, when I am entrenched in the minutia of change, and it drags me down, I stop and get to a&amp;#8230;</description>
-      <pubDate>Sat, 27 Jan 2024 09:31:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 May 2024 09:07:34 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -310,20 +304,6 @@
       <pubDate>Wed, 01 May 2024 15:59:57 +0000</pubDate>
     </item>
     <item>
-      <title>How to Add Categories and Tags to WordPress Media Library</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/</link>
-      <description>&lt;p&gt;Do you want to add categories and tags to images in your WordPress media library? Tags and categories can help you organize media files in a way that makes sense to you. This can make it easier to find images when you need them. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-categories-and-tags-to-wordpress-media-library/"&gt;How to Add Categories and Tags to WordPress Media Library&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 02 May 2024 17:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>What is a Web Safe Font + 19 Best Web Safe Fonts (Beginner’s Guide)</title>
-      <link>https://www.wpbeginner.com/showcase/best-web-safe-fonts/</link>
-      <description>&lt;p&gt;Are you wondering what a web-safe font is and what the best web-safe fonts are to use for WordPress? Imagine pouring weeks or months into designing a beautiful website. You&amp;#8217;ve checked all the boxes, paying attention to details like choosing the right website theme and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-web-safe-fonts/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-web-safe-fonts/"&gt;What is a Web Safe Font + 19 Best Web Safe Fonts (Beginner’s Guide)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How Speculative Loading can boost your WordPress site’s page speed</title>
       <link>https://kinsta.com/blog/speculative-loading/</link>
       <description>&lt;p&gt;Today, web pages are packed with images, videos, and interactive elements that aim to enhance the user experience. However, these elements can slow down your page&amp;#8217;s ...&lt;/p&gt;
@@ -348,6 +328,26 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-99-wordpress-6-6-create-block-theme-updates/</link>
       <description>In this episode, Sarah Norris and Birgit Pauli-Haack discuss WordPress 6.6 and 6.5.3, Gutenberg 18.1 + 18.2 and Create Block Theme Updates Show Notes / Transcript Show Notes Special Guest:&amp;#160;Sarah Norris JavaScript Developer 6.4 editor tech co-lead / Core team rep Announcements Create Block Theme plugin WordPress WordPress 6.5.3 RC1 is now available Gutenberg Interactivity&amp;#8230;</description>
       <pubDate>Sat, 04 May 2024 11:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seven talks about blocks, block themes and beyond at WordCamp Europe 2024</title>
+      <link>https://gutenbergtimes.com/seven-talks-about-blocks-block-themes-and-beyond-at-wordcamp-europe-2024/</link>
+      <description>A curated list of block related talks at WordCamp Europe 2024</description>
+      <pubDate>Mon, 06 May 2024 03:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a One-Click Checkout in WordPress (5 Ways)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking to learn how to create a one-click checkout in WordPress? Optimizing checkout for a smoother experience for customers is one of the highest priorities when running an eCommerce site. Specifically, adding a one-click checkout in WordPress helps users complete transactions faster, which&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/"&gt;How to Create a One-Click Checkout in WordPress (5 Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 06 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7+ Best WordPress Accordion Plugins (2024)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/</link>
+      <description>&lt;p&gt;Are you looking for the best WordPress accordion plugins? An accordion is a helpful web design element that allows you to display content in a collapsible tab layout. It’s often used to display frequently asked questions or product details without taking up so much of&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;7+ Best WordPress Accordion Plugins (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 06 May 2024 17:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
