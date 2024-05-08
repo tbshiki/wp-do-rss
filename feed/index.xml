@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 May 2024 09:07:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:07:06 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -284,13 +284,6 @@
       <pubDate>Wed, 24 Apr 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>An introduction to WordPress coding standards</title>
-      <link>https://kinsta.com/blog/wordpress-coding-standards/</link>
-      <description>&lt;p&gt;Coding standards in WordPress development are pivotal for a robust and sustainable codebase. They serve as guidelines and conventions that developers adhere to when writing code, ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-coding-standards/" rel="nofollow"&gt;An introduction to WordPress coding standards&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Apr 2024 15:38:10 +0000</pubDate>
-    </item>
-    <item>
       <title>#118 – Nahuai Badiola on Digital Sustainability Across the Whole WordPress Project</title>
       <link>https://wptavern.com/podcast/118-nahuai-badiola-on-digital-sustainability-across-the-whole-wordpress-project</link>
       <description>On the podcast today we have Nahuai Badiola. Nahuai is a freelance WordPress developer, theme, and plugin creator. He also writes WordPress code tutorials and enjoys sharing everything he learns about web sustainability in his blog, podcast, and at WordPress events. Nahuai’s life took an unexpected turn one day when he attended a 10-minute lightning talk at a WordCamp. The content of that talk was web sustainability and it profoundly changed his perspective on how we should view our use of the internet. Nahuai has since been a vocal advocate for sustainability within the WordPress community. Today, Nahuai and I discuss the nuances of the environmental impact of web development with a particular focus on WordPress. We discuss ideas like reducing code in plugins, and highlight the Performance Team's efforts to make WordPress more green. If you're curious about sustainability within WordPress web development, and the community more broadly, this episode is for you.</description>
@@ -311,13 +304,6 @@
       <pubDate>Fri, 03 May 2024 15:31:44 +0000</pubDate>
     </item>
     <item>
-      <title>How to Add a Mortgage Calculator in WordPress (Step by Step)</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to add a mortgage calculator in WordPress? If you have a real estate or finance website, then a mortgage calculator can help visitors see whether they can afford the properties you are promoting. This can keep people on your website for longer&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-mortgage-calculator-in-wordpress/"&gt;How to Add a Mortgage Calculator in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 May 2024 17:00:37 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.6 Roadmap + demos, what’s next for Meta boxes, Pattern tutorials  — Weekend Edition 293</title>
       <link>https://gutenbergtimes.com/wordpress-6-6-roadmap-demos-whats-next-for-meta-boxes-pattern-tutorials-weekend-edition-293/</link>
       <description>Howdy, Well, this week there has been plenty of information about what WordPress 6.6 might bring. It&amp;#8217;s scheduled to be released in mid-July and will be fully packed with awesome features. The designer tools set for nocode site builders gets massively bigger with Pattern overrides, Grid Layout. Section Styles and Block Style variations. There are&amp;#8230;</description>
@@ -336,11 +322,11 @@
       <pubDate>Mon, 06 May 2024 03:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create a One-Click Checkout in WordPress (5 Ways)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking to learn how to create a one-click checkout in WordPress? Optimizing checkout for a smoother experience for customers is one of the highest priorities when running an eCommerce site. Specifically, adding a one-click checkout in WordPress helps users complete transactions faster, which&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-one-click-checkout-in-wordpress/"&gt;How to Create a One-Click Checkout in WordPress (5 Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 06 May 2024 10:00:00 +0000</pubDate>
+      <title>How to build a WordPress theme with React</title>
+      <link>https://kinsta.com/blog/wordpress-react-theme/</link>
+      <description>&lt;p&gt;This hands-on article harnesses WordPress’s flexibility and React&amp;#8216;s powerful user interface (UI) for theme development. It demonstrates how integrating WordPress and React elevates your WordPress projects by walking you through ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-react-theme/" rel="nofollow"&gt;How to build a WordPress theme with React&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 06 May 2024 15:58:49 +0000</pubDate>
     </item>
     <item>
       <title>7+ Best WordPress Accordion Plugins (2024)</title>
@@ -348,6 +334,20 @@
       <description>&lt;p&gt;Are you looking for the best WordPress accordion plugins? An accordion is a helpful web design element that allows you to display content in a collapsible tab layout. It’s often used to display frequently asked questions or product details without taking up so much of&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;7+ Best WordPress Accordion Plugins (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 06 May 2024 17:00:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Prevent WordPress SQL Injection Attacks (7 Tips)</title>
+      <link>https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/</link>
+      <description>&lt;p&gt;Do you want to prevent WordPress SQL injection attacks? SQL injection is a security vulnerability that hackers can use to attack your website database. Once they do that, an attacker can read your sensitive data, modify it, and take control of your entire database. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/"&gt;How to Prevent WordPress SQL Injection Attacks (7 Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add a PDF Download for Posts in WordPress (Easy Method)</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/</link>
+      <description>&lt;p&gt;Sometimes, it is just easier to download an article to read later than to print it out or save the post as a bookmark in the browser. One easy way to do this is using the Save as PDF option, which appears when you try&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;How to Add a PDF Download for Posts in WordPress (Easy Method)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 May 2024 17:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
