@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 May 2024 09:07:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:07:55 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -36,12 +36,6 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Data Liberation: Meet WordPress.org’s Ambitious Plan for 2024</title>
-      <link>https://wptavern.com/data-liberation-meet-wordpress-orgs-ambitious-plan-for-2024</link>
-      <description>The open web is under threat. WordPress.org wants to protect it</description>
-      <pubDate>Wed, 28 Feb 2024 22:27:37 +0000</pubDate>
     </item>
     <item>
       <title>Avada WordPress Theme Patches Arbitrary File Upload Vulnerability</title>
@@ -329,25 +323,39 @@
       <pubDate>Mon, 06 May 2024 15:58:49 +0000</pubDate>
     </item>
     <item>
-      <title>7+ Best WordPress Accordion Plugins (2024)</title>
-      <link>https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/</link>
-      <description>&lt;p&gt;Are you looking for the best WordPress accordion plugins? An accordion is a helpful web design element that allows you to display content in a collapsible tab layout. It’s often used to display frequently asked questions or product details without taking up so much of&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-accordion-plugins/"&gt;7+ Best WordPress Accordion Plugins (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 06 May 2024 17:00:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Prevent WordPress SQL Injection Attacks (7 Tips)</title>
-      <link>https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/</link>
-      <description>&lt;p&gt;Do you want to prevent WordPress SQL injection attacks? SQL injection is a security vulnerability that hackers can use to attack your website database. Once they do that, an attacker can read your sensitive data, modify it, and take control of your entire database. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-prevent-wordpress-sql-injection-attacks/"&gt;How to Prevent WordPress SQL Injection Attacks (7 Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Add a PDF Download for Posts in WordPress (Easy Method)</title>
       <link>https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/</link>
       <description>&lt;p&gt;Sometimes, it is just easier to download an article to read later than to print it out or save the post as a bookmark in the browser. One easy way to do this is using the Save as PDF option, which appears when you try&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;How to Add a PDF Download for Posts in WordPress (Easy Method)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 07 May 2024 17:00:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>302 Redirect vs 301 Redirect – Best Practices (Explained)</title>
+      <link>https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/</link>
+      <description>&lt;p&gt;Are you wondering what&amp;#8217;s the different between 302 vs 301 redirects? Redirects are important for providing a great user experience and helping search engines better understand your site. 302 and 301 are types of redirects you can use for different situations. In this article, we&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/"&gt;302 Redirect vs 301 Redirect – Best Practices (Explained)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#119 – Paolo Belcastro on How AI Is Shaping WordPress Wordflows</title>
+      <link>https://wptavern.com/podcast/119-paolo-belcastro-on-how-ai-is-shaping-wordpress-wordflows</link>
+      <description>On the podcast today we have Paolo Belcastro.
+
+Paolo works at Automattic, where he’s focused on Jetpack and .blog products. He’s been working remotely since 1994 and managing distributed teams since 1998.
+
+He’s on the podcast today to talk about AI, and he certainly brings a wealth of knowledge and experience in integrating AI with web development.
+
+With Paolo’s insights into the recent advancements in open source AI models and the collaborative efforts within the AI community to keep platforms accessible but innovative, you’ll gain a comprehensive view of where AI in web development stands today and where it might head tomorrow.
+
+If you're a developer, a tech enthusiast, or anyone interested in the intersection of AI and creative processes, this episode is for you.</description>
+      <pubDate>Wed, 08 May 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Affiliate Marketing Tools and Plugins for WordPress</title>
+      <link>https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/</link>
+      <description>&lt;p&gt;Are you looking for the best affiliate marketing tools and plugins for WordPress? You can find hundreds of affiliate marketing tools on the market, and it can be difficult to choose the right one. To help you, we have tested some of the most popular&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/"&gt;10 Best Affiliate Marketing Tools and Plugins for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 May 2024 17:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
