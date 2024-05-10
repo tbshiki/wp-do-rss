@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 May 2024 09:07:55 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:08:00 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -284,13 +284,6 @@
       <pubDate>Wed, 01 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Restricting IPs and monitoring activity using the Kinsta API</title>
-      <link>https://kinsta.com/blog/restricting-ips/</link>
-      <description>&lt;p&gt;We talk a lot about how your WordPress website’s security is not a set-and-forget task. It needs constant and vigilant monitoring from you, and the job ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/restricting-ips/" rel="nofollow"&gt;Restricting IPs and monitoring activity using the Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 May 2024 15:59:57 +0000</pubDate>
-    </item>
-    <item>
       <title>How Speculative Loading can boost your WordPress site’s page speed</title>
       <link>https://kinsta.com/blog/speculative-loading/</link>
       <description>&lt;p&gt;Today, web pages are packed with images, videos, and interactive elements that aim to enhance the user experience. However, these elements can slow down your page&amp;#8217;s ...&lt;/p&gt;
@@ -323,20 +316,6 @@
       <pubDate>Mon, 06 May 2024 15:58:49 +0000</pubDate>
     </item>
     <item>
-      <title>How to Add a PDF Download for Posts in WordPress (Easy Method)</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/</link>
-      <description>&lt;p&gt;Sometimes, it is just easier to download an article to read later than to print it out or save the post as a bookmark in the browser. One easy way to do this is using the Save as PDF option, which appears when you try&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-a-pdf-download-for-posts-in-wordpress/"&gt;How to Add a PDF Download for Posts in WordPress (Easy Method)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 May 2024 17:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>302 Redirect vs 301 Redirect – Best Practices (Explained)</title>
-      <link>https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/</link>
-      <description>&lt;p&gt;Are you wondering what&amp;#8217;s the different between 302 vs 301 redirects? Redirects are important for providing a great user experience and helping search engines better understand your site. 302 and 301 are types of redirects you can use for different situations. In this article, we&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/302-vs-301-redirect-best-practices/"&gt;302 Redirect vs 301 Redirect – Best Practices (Explained)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>#119 – Paolo Belcastro on How AI Is Shaping WordPress Wordflows</title>
       <link>https://wptavern.com/podcast/119-paolo-belcastro-on-how-ai-is-shaping-wordpress-wordflows</link>
       <description>On the podcast today we have Paolo Belcastro.
@@ -351,11 +330,32 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 08 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Integrating SvelteKit with headless WordPress</title>
+      <link>https://kinsta.com/blog/wordpress-sveltekit/</link>
+      <description>&lt;p&gt;Headless WordPress has been a big trend in web dev spheres for a while now. Decoupling the front end and back end can lead to a ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-sveltekit/" rel="nofollow"&gt;Integrating SvelteKit with headless WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 May 2024 16:11:06 +0000</pubDate>
+    </item>
+    <item>
       <title>10 Best Affiliate Marketing Tools and Plugins for WordPress</title>
       <link>https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/</link>
       <description>&lt;p&gt;Are you looking for the best affiliate marketing tools and plugins for WordPress? You can find hundreds of affiliate marketing tools on the market, and it can be difficult to choose the right one. To help you, we have tested some of the most popular&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/10-best-affiliate-marketing-tools-and-plugins-for-wordpress/"&gt;10 Best Affiliate Marketing Tools and Plugins for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 08 May 2024 17:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Tips to Create More Interactive Forms in WordPress and Increase Conversions</title>
+      <link>https://www.wpbeginner.com/opinion/create-more-interactive-forms-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to make your forms more interactive and boost their conversions? In my experience, the difference between a website that converts and one that doesn&amp;#8217;t often lies in how users interact with elements like forms. Today, I am going to share six easy-to-implement&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/create-more-interactive-forms-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/create-more-interactive-forms-in-wordpress/"&gt;6 Tips to Create More Interactive Forms in WordPress and Increase Conversions&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a WordPress Child Theme (Beginner’s Guide)</title>
+      <link>https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/</link>
+      <description>&lt;p&gt;Do you want to create a child theme in WordPress? A child theme is a WordPress theme that inherits the functionality of another WordPress theme. Many users create a child for their current theme so that they can safely customize their website design without losing&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/"&gt;How to Create a WordPress Child Theme (Beginner’s Guide)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 May 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
