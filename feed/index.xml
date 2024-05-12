@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 May 2024 09:07:58 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 09:08:32 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -284,13 +284,6 @@
       <pubDate>Wed, 01 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How Speculative Loading can boost your WordPress site’s page speed</title>
-      <link>https://kinsta.com/blog/speculative-loading/</link>
-      <description>&lt;p&gt;Today, web pages are packed with images, videos, and interactive elements that aim to enhance the user experience. However, these elements can slow down your page&amp;#8217;s ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/speculative-loading/" rel="nofollow"&gt;How Speculative Loading can boost your WordPress site&amp;#8217;s page speed&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 May 2024 15:31:44 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.6 Roadmap + demos, what’s next for Meta boxes, Pattern tutorials  — Weekend Edition 293</title>
       <link>https://gutenbergtimes.com/wordpress-6-6-roadmap-demos-whats-next-for-meta-boxes-pattern-tutorials-weekend-edition-293/</link>
       <description>Howdy, Well, this week there has been plenty of information about what WordPress 6.6 might bring. It&amp;#8217;s scheduled to be released in mid-July and will be fully packed with awesome features. The designer tools set for nocode site builders gets massively bigger with Pattern overrides, Grid Layout. Section Styles and Block Style variations. There are&amp;#8230;</description>
@@ -349,6 +342,13 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you a digital agency owner looking for a white-label WordPress development service? Running an agency and managing your clients is tough work. That&amp;#8217;s why many agency owners choose to work with white-label partners for their WordPress website projects. Since we have plenty of WordPress&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-white-label-wordpress-development-for-digital-agencies/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-white-label-wordpress-development-for-digital-agencies/"&gt;How to White Label WordPress Development for Digital Agencies (8 Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 10 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build a Chrome extension to manage your site’s plugins with Kinsta API and React</title>
+      <link>https://kinsta.com/blog/build-chrome-extension/</link>
+      <description>&lt;p&gt;As a Google Chrome user, you&amp;#8217;ve probably used some extensions in that browser. Have you ever wondered how they are built or if you could build one? ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/build-chrome-extension/" rel="nofollow"&gt;How to build a Chrome extension to manage your site&amp;#8217;s plugins with Kinsta API and React&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 10 May 2024 15:31:41 +0000</pubDate>
     </item>
     <item>
       <title>60 Best Landing Page Templates for WordPress (2024)</title>
