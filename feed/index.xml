@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 May 2024 09:07:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 09:08:04 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -330,20 +330,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 08 May 2024 16:11:06 +0000</pubDate>
     </item>
     <item>
-      <title>How to Create a WordPress Child Theme (Beginner’s Guide)</title>
-      <link>https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/</link>
-      <description>&lt;p&gt;Do you want to create a child theme in WordPress? A child theme is a WordPress theme that inherits the functionality of another WordPress theme. Many users create a child for their current theme so that they can safely customize their website design without losing&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/"&gt;How to Create a WordPress Child Theme (Beginner’s Guide)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 09 May 2024 17:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to White Label WordPress Development for Digital Agencies (8 Tips)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-white-label-wordpress-development-for-digital-agencies/</link>
-      <description>&lt;p&gt;Are you a digital agency owner looking for a white-label WordPress development service? Running an agency and managing your clients is tough work. That&amp;#8217;s why many agency owners choose to work with white-label partners for their WordPress website projects. Since we have plenty of WordPress&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-white-label-wordpress-development-for-digital-agencies/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-white-label-wordpress-development-for-digital-agencies/"&gt;How to White Label WordPress Development for Digital Agencies (8 Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 10 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to build a Chrome extension to manage your site’s plugins with Kinsta API and React</title>
       <link>https://kinsta.com/blog/build-chrome-extension/</link>
       <description>&lt;p&gt;As a Google Chrome user, you&amp;#8217;ve probably used some extensions in that browser. Have you ever wondered how they are built or if you could build one? ...&lt;/p&gt;
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you looking for the best landing page templates for WordPress? Landing pages help you get more leads and increase conversions. They are designed to guide users toward taking the required actions on your website. In this article, we will share the best landing page&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/landing-page-templates/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/landing-page-templates/"&gt;60 Best Landing Page Templates for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 10 May 2024 17:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix Featured Image Not Showing in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking for ways to fix your featured image not showing in WordPress? Featured images give visitors a glimpse of what&amp;#8217;s to come in your blog posts and pages. So, when they don&amp;#8217;t appear on your site, it can be frustrating and immediately hurt&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/"&gt;How to Fix Featured Image Not Showing in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Best Podcast Hosting for 2024 Compared (Many Are Free)</title>
+      <link>https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/</link>
+      <description>&lt;p&gt;Several of our readers have asked us about finding the best podcast hosting service. Podcast hosting is different than website hosting because it offers specific tools built to optimize the subscriber experience (we will explain more about this later in the article). Choosing a reliable&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;7 Best Podcast Hosting for 2024 Compared (Many Are Free)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 May 2024 17:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
