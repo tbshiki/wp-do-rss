@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 May 2024 09:08:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 09:08:16 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -302,13 +302,6 @@
       <pubDate>Mon, 06 May 2024 03:47:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to build a WordPress theme with React</title>
-      <link>https://kinsta.com/blog/wordpress-react-theme/</link>
-      <description>&lt;p&gt;This hands-on article harnesses WordPress’s flexibility and React&amp;#8216;s powerful user interface (UI) for theme development. It demonstrates how integrating WordPress and React elevates your WordPress projects by walking you through ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-react-theme/" rel="nofollow"&gt;How to build a WordPress theme with React&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 06 May 2024 15:58:49 +0000</pubDate>
-    </item>
-    <item>
       <title>#119 – Paolo Belcastro on How AI Is Shaping WordPress Wordflows</title>
       <link>https://wptavern.com/podcast/119-paolo-belcastro-on-how-ai-is-shaping-wordpress-wordflows</link>
       <description>On the podcast today we have Paolo Belcastro.
@@ -337,18 +330,11 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 10 May 2024 15:31:41 +0000</pubDate>
     </item>
     <item>
-      <title>60 Best Landing Page Templates for WordPress (2024)</title>
-      <link>https://www.wpbeginner.com/showcase/landing-page-templates/</link>
-      <description>&lt;p&gt;Are you looking for the best landing page templates for WordPress? Landing pages help you get more leads and increase conversions. They are designed to guide users toward taking the required actions on your website. In this article, we will share the best landing page&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/landing-page-templates/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/landing-page-templates/"&gt;60 Best Landing Page Templates for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 10 May 2024 17:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Fix Featured Image Not Showing in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking for ways to fix your featured image not showing in WordPress? Featured images give visitors a glimpse of what&amp;#8217;s to come in your blog posts and pages. So, when they don&amp;#8217;t appear on your site, it can be frustrating and immediately hurt&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-featured-image-not-showing-in-wordpress/"&gt;How to Fix Featured Image Not Showing in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 13 May 2024 10:00:00 +0000</pubDate>
+      <title>Tested: Google’s C3D, C2, and N2 virtual machines for Kinsta customers</title>
+      <link>https://kinsta.com/blog/google-c3d-speed-testing/</link>
+      <description>&lt;p&gt;Kinsta is a well-known, highly performant hosting platform built on top of the Google Cloud. While we’re not the only hosting provider leveraging Google’s infrastructure, we’re ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/google-c3d-speed-testing/" rel="nofollow"&gt;Tested: Google’s C3D, C2, and N2 virtual machines for Kinsta customers&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 May 2024 15:22:24 +0000</pubDate>
     </item>
     <item>
       <title>7 Best Podcast Hosting for 2024 Compared (Many Are Free)</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Several of our readers have asked us about finding the best podcast hosting service. Podcast hosting is different than website hosting because it offers specific tools built to optimize the subscriber experience (we will explain more about this later in the article). Choosing a reliable&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;7 Best Podcast Hosting for 2024 Compared (Many Are Free)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 13 May 2024 17:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Best Zendesk Alternatives for Small Businesses</title>
+      <link>https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/</link>
+      <description>&lt;p&gt;Are you looking for Zendesk alternatives for your small business&amp;#8217;s customer support? You’re not alone. While Zendesk is a popular choice, many users have complained about its high costs, complex interface, and limited support. These factors are important for small businesses, where every penny and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/"&gt;9 Best Zendesk Alternatives for Small Businesses&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Generate More Leads with Free Online Calculators (Pro Tips)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/</link>
+      <description>&lt;p&gt;Do you want to generate more leads on your website? Online calculators are a great way to get a visitor&amp;#8217;s contact information so you can reach out to them with personalized ads, emails, newsletters, and other forms of online marketing. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/"&gt;How to Generate More Leads with Free Online Calculators (Pro Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 May 2024 17:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
