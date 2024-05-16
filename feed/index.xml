@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 May 2024 09:08:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 09:07:45 +0900</lastBuildDate>
     <item>
       <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
       <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
@@ -36,12 +36,6 @@
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avada WordPress Theme Patches Arbitrary File Upload Vulnerability</title>
-      <link>https://wptavern.com/avada-wordpress-theme-patches-arbitrary-file-upload-vulnerability</link>
-      <description>ThemeFusion’s multipurpose WordPress theme Avada has patched an Arbitrary File Upload Vulnerability. Avada is one [&amp;#8230;]</description>
-      <pubDate>Thu, 29 Feb 2024 13:14:12 +0000</pubDate>
     </item>
     <item>
       <title>You Don’t Need to Know Code to Build a Successful WP Plugin Business.</title>
@@ -337,25 +331,31 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 13 May 2024 15:22:24 +0000</pubDate>
     </item>
     <item>
-      <title>7 Best Podcast Hosting for 2024 Compared (Many Are Free)</title>
-      <link>https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/</link>
-      <description>&lt;p&gt;Several of our readers have asked us about finding the best podcast hosting service. Podcast hosting is different than website hosting because it offers specific tools built to optimize the subscriber experience (we will explain more about this later in the article). Choosing a reliable&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-podcast-hosting-compared-most-are-free/"&gt;7 Best Podcast Hosting for 2024 Compared (Many Are Free)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 13 May 2024 17:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>9 Best Zendesk Alternatives for Small Businesses</title>
-      <link>https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/</link>
-      <description>&lt;p&gt;Are you looking for Zendesk alternatives for your small business&amp;#8217;s customer support? You’re not alone. While Zendesk is a popular choice, many users have complained about its high costs, complex interface, and limited support. These factors are important for small businesses, where every penny and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-zendesk-alternatives-for-small-businesses/"&gt;9 Best Zendesk Alternatives for Small Businesses&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 14 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Generate More Leads with Free Online Calculators (Pro Tips)</title>
       <link>https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/</link>
       <description>&lt;p&gt;Do you want to generate more leads on your website? Online calculators are a great way to get a visitor&amp;#8217;s contact information so you can reach out to them with personalized ads, emails, newsletters, and other forms of online marketing. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-generate-more-leads-with-free-online-calculators/"&gt;How to Generate More Leads with Free Online Calculators (Pro Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 14 May 2024 17:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Sell Fonts Online with WordPress (Step by Step)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-sell-fonts-online-with-wordpress-step-by-step/</link>
+      <description>&lt;p&gt;Are you looking for a way to sell fonts online using WordPress? Fonts play a crucial role in graphic designing, branding, website building, and other creative tasks. Selling fonts is a great way to make money online, as you can create your own website and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-sell-fonts-online-with-wordpress-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-sell-fonts-online-with-wordpress-step-by-step/"&gt;How to Sell Fonts Online with WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#120 – Alexander Gilmanov on Transitioning From Developer to Entrepreneur</title>
+      <link>https://wptavern.com/podcast/120-alexander-gilmanov-on-transitioning-from-developer-to-entrepreneur</link>
+      <description>On the podcast today we have Alexander Gilmanov. Alex comes to us today from Belgrade, Serbia. He’s a full-stack developer with a rich heritage of freelance and agency work. His company officially launched in 2014, and they’ve continued work with clients, as well as creating a range of WordPress plugins, and their own SaaS apps, mainly in the online booking space. If you’re a developer and are in the weeds of writing code, perhaps you’ve thought about a change of direction. We explore Alexander’s transition from hands-on coding to strategic management. It’s a fascinating conversation, and if you’ve wanted to start an agency but have concerns about what that might bring, this episode is for you.</description>
+      <pubDate>Wed, 15 May 2024 15:37:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Redirect Your User’s Attention with Comment Redirect</title>
+      <link>https://www.wpbeginner.com/plugins/redirect-your-users-attention-with-comment-redirect/</link>
+      <description>&lt;p&gt;Are you looking to engage new users by redirecting them to a different page after they first leave a comment? Comments are a great way to keep your users engaged and build a strong community around your content. Tiny hacks like automatically redirecting first-time commenters&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/redirect-your-users-attention-with-comment-redirect/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/redirect-your-users-attention-with-comment-redirect/"&gt;How to Redirect Your User’s Attention with Comment Redirect&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 May 2024 17:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
