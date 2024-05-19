@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 May 2024 09:07:39 +0900</lastBuildDate>
-    <item>
-      <title>Outreach program, WordPress 6.5 testing, Gutenberg 17.6, Starter Patterns — Weekend Edition #283</title>
-      <link>https://gutenbergtimes.com/outreach-program-wordpress-6-5-testing-gutenberg-17-6-starter-patterns-weekend-edition-283/</link>
-      <description>Howdy, We are almost there, Gutenberg 17.6 is the second to last plugin release that will make it into the WordPress 6.5. If you haven&amp;#8217;t explored the new features, I recommend reviewing the post Early Opportunities to Test WordPress 6.5 and get acquainted and at the same time contribute to testing the new version, and&amp;#8230;</description>
-      <pubDate>Sat, 03 Feb 2024 05:43:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 May 2024 09:08:34 +0900</lastBuildDate>
     <item>
       <title>Using Grid Support, Pattern overrides, Power in the Details, Interactions are coming — Weekend Edition 284</title>
       <link>https://gutenbergtimes.com/using-grid-support-pattern-overrides-power-in-the-details-interactions-are-coming-weekend-edition-284/</link>
@@ -356,6 +350,12 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;We&amp;#8217;ve been working with the Gutenberg block editor for a long time across multiple websites, so we know that it can feel restrictive by default. WordPress offers a set of essential content blocks like Paragraph, Image, Button, List, and more. However, you can extend these&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-gutenberg-blocks-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-gutenberg-blocks-plugins-for-wordpress/"&gt;17 Best Gutenberg Blocks Plugins for WordPress (Super Useful)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 17 May 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Site builders showing off, Gutenberg 18.3, Alternatives to Meta boxes, Blueprint gallery — Weekend Edition 294</title>
+      <link>https://gutenbergtimes.com/site-builders-showing-off-gutenberg-18-3-alternatives-to-meta-boxes-blueprint-gallery-weekend-edition-294/</link>
+      <description>Howdy, It&amp;#8217;s really fascinating that Germany has four bank holidays in the month of May, all close to the weekends. So we got to make some nice weekend trips. The latest to Venice, Italy visiting the exhibition space of Biennale Arte 20224, with the &amp;#8220;Foreigners Everywhere&amp;#8221;. We saw incredible creative work from many countries around&amp;#8230;</description>
+      <pubDate>Sat, 18 May 2024 03:37:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
