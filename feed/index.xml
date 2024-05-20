@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 May 2024 09:08:34 +0900</lastBuildDate>
-    <item>
-      <title>Using Grid Support, Pattern overrides, Power in the Details, Interactions are coming — Weekend Edition 284</title>
-      <link>https://gutenbergtimes.com/using-grid-support-pattern-overrides-power-in-the-details-interactions-are-coming-weekend-edition-284/</link>
-      <description>Howdy, Justin Tadlock wrote: &amp;#8220;WordPress 6.5 is just a month and a half away, and that means all cylinders are firing.&amp;#160;&amp;#8221; Beta 1 will arrive on February 13, 2024, and that comes with a feature freeze.  Gutenberg 17.7 is available as Release candidate 1, which is the last plugin release to make it into WordPress&amp;#8230;</description>
-      <pubDate>Sat, 10 Feb 2024 11:07:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 May 2024 09:07:54 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -356,6 +350,12 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <link>https://gutenbergtimes.com/site-builders-showing-off-gutenberg-18-3-alternatives-to-meta-boxes-blueprint-gallery-weekend-edition-294/</link>
       <description>Howdy, It&amp;#8217;s really fascinating that Germany has four bank holidays in the month of May, all close to the weekends. So we got to make some nice weekend trips. The latest to Venice, Italy visiting the exhibition space of Biennale Arte 20224, with the &amp;#8220;Foreigners Everywhere&amp;#8221;. We saw incredible creative work from many countries around&amp;#8230;</description>
       <pubDate>Sat, 18 May 2024 03:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gutenberg Changelog #100 – NASA’s New Website – the Switch to WordPress and Block Editor</title>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-100-nasa-wordpress-block-editor/</link>
+      <description>In this episode, Stacy Holtz, Gary Kovar and Birgit Pauli-Haack discuss NASA’s new website &amp;#8211; the switch to WordPress and Block Editor, the scale of the project, the block and theme development, design and migration. Show Notes / Transcript Show Notes Transcript The transcript is in the works.</description>
+      <pubDate>Sun, 19 May 2024 21:59:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
