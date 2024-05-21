@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 May 2024 09:07:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 09:07:57 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -298,13 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 08 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tested: Google’s C3D, C2, and N2 virtual machines for Kinsta customers</title>
-      <link>https://kinsta.com/blog/google-c3d-speed-testing/</link>
-      <description>&lt;p&gt;Kinsta is a well-known, highly performant hosting platform built on top of the Google Cloud. While we’re not the only hosting provider leveraging Google’s infrastructure, we’re ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/google-c3d-speed-testing/" rel="nofollow"&gt;Tested: Google’s C3D, C2, and N2 virtual machines for Kinsta customers&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 13 May 2024 15:22:24 +0000</pubDate>
-    </item>
-    <item>
       <title>#120 – Alexander Gilmanov on Transitioning From Developer to Entrepreneur</title>
       <link>https://wptavern.com/podcast/120-alexander-gilmanov-on-transitioning-from-developer-to-entrepreneur</link>
       <description>On the podcast today we have Alexander Gilmanov. Alex comes to us today from Belgrade, Serbia. He’s a full-stack developer with a rich heritage of freelance and agency work. His company officially launched in 2014, and they’ve continued work with clients, as well as creating a range of WordPress plugins, and their own SaaS apps, mainly in the online booking space. If you’re a developer and are in the weeds of writing code, perhaps you’ve thought about a change of direction. We explore Alexander’s transition from hands-on coding to strategic management. It’s a fascinating conversation, and if you’ve wanted to start an agency but have concerns about what that might bring, this episode is for you.</description>
@@ -316,20 +309,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;The Kinsta API isn’t only for monitoring your site’s security or fetching environment information. In fact, part of our philosophy here is to help you streamline ...&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/kinsta-api-endpoints/" rel="nofollow"&gt;Pushing a WordPress site through development using Kinsta API endpoints&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 15 May 2024 16:24:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Fix 503 Service Unavailable Error in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-503-service-unavailable-error-in-wordpress/</link>
-      <description>&lt;p&gt;Are you seeing a 503 service unavailable error on your WordPress website? The problem with the 503 error is that it gives you no clues about what&amp;#8217;s causing it, which makes it extremely frustrating for beginners. In this article, we will show you how to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-503-service-unavailable-error-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-503-service-unavailable-error-in-wordpress/"&gt;How to Fix 503 Service Unavailable Error in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 16 May 2024 17:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Remove a Block in WordPress (4 Easy Methods)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-remove-a-block-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking to remove blocks in WordPress? Removing, hiding, or deleting unnecessary blocks that are part of the content editor can clean up your block menu. It also helps you be more focused by making it easier to find the specific blocks you need&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-remove-a-block-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-remove-a-block-in-wordpress/"&gt;How to Remove a Block in WordPress (4 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Why Matomo is the WordPress Analytics upgrade you need over GA4</title>
@@ -356,6 +335,27 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-100-nasa-wordpress-block-editor/</link>
       <description>In this episode, Stacy Holtz, Gary Kovar and Birgit Pauli-Haack discuss NASA’s new website &amp;#8211; the switch to WordPress and Block Editor, the scale of the project, the block and theme development, design and migration. Show Notes / Transcript Show Notes Transcript The transcript is in the works.</description>
       <pubDate>Sun, 19 May 2024 21:59:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Best WordPress Paywall Plugins (Free and Paid Options)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-paywall-plugins-free-and-paid/</link>
+      <description>&lt;p&gt;At WPBeginner, we&amp;#8217;ve had a lot of experience working with different website monetization tools, including paywall plugins, membership software, and more. We&amp;#8217;ve tested everything from simple plugins to complex solutions, learning that there&amp;#8217;s no one-size-fits-all answer when it comes to paywalls. The right paywall plugin&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-paywall-plugins-free-and-paid/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-paywall-plugins-free-and-paid/"&gt;11 Best WordPress Paywall Plugins (Free and Paid Options)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to build a WordPress site using Bricks Builder: the ultimate guide</title>
+      <link>https://kinsta.com/blog/wordpress-bricks-builder/</link>
+      <description>&lt;p&gt;Creating a WordPress site doesn&amp;#8217;t have to be daunting, even if you&amp;#8217;re a beginner. With the right tools and guidance, you can have a sleek, fully ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-bricks-builder/" rel="nofollow"&gt;How to build a WordPress site using Bricks Builder: the ultimate guide&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 May 2024 15:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add an Admin User in WordPress Using FTP (Easy Tutorial)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-add-an-admin-user-in-wordpress-using-ftp/</link>
+      <description>&lt;p&gt;Do you need to add an admin user in WordPress but don&amp;#8217;t have access to the dashboard? At WPBeginner, we often help users who get locked out of their WordPress admin area and need to find a way back in. One easy fix is to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-an-admin-user-in-wordpress-using-ftp/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-an-admin-user-in-wordpress-using-ftp/"&gt;How to Add an Admin User in WordPress Using FTP (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 May 2024 17:00:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
