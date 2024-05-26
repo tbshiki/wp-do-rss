@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 09:07:47 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 09:08:41 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -298,13 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 15 May 2024 15:37:11 +0000</pubDate>
     </item>
     <item>
-      <title>Why Matomo is the WordPress Analytics upgrade you need over GA4</title>
-      <link>https://kinsta.com/blog/matomo-analytics/</link>
-      <description>&lt;p&gt;Google Analytics 4 (GA4), the latest iteration in Google’s suite of analytics tools, has been met with mixed reactions due to its revamped interface and features. ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/matomo-analytics/" rel="nofollow"&gt;Why Matomo is the WordPress Analytics upgrade you need over GA4&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 May 2024 15:47:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Site builders showing off, Gutenberg 18.3, Alternatives to Meta boxes, Blueprint gallery — Weekend Edition 294</title>
       <link>https://gutenbergtimes.com/site-builders-showing-off-gutenberg-18-3-alternatives-to-meta-boxes-blueprint-gallery-weekend-edition-294/</link>
       <description>Howdy, It&amp;#8217;s really fascinating that Germany has four bank holidays in the month of May, all close to the weekends. So we got to make some nice weekend trips. The latest to Venice, Italy visiting the exhibition space of Biennale Arte 20224, with the &amp;#8220;Foreigners Everywhere&amp;#8221;. We saw incredible creative work from many countries around&amp;#8230;</description>
@@ -315,13 +308,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-100-nasa-wordpress-block-editor/</link>
       <description>In this episode, Stacy Holtz, Gary Kovar and Birgit Pauli-Haack discuss NASA’s new website &amp;#8211; the switch to WordPress and Block Editor, the scale of the project, the block and theme development, design and migration. Show Notes / Transcript Show Notes Transcript Birgit Pauli-Haack: Hello, and welcome to our hundredth episode of the Gutenberg Changelog&amp;#8230;</description>
       <pubDate>Sun, 19 May 2024 21:59:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to build a WordPress site using Bricks Builder: the ultimate guide</title>
-      <link>https://kinsta.com/blog/wordpress-bricks-builder/</link>
-      <description>&lt;p&gt;Creating a WordPress site doesn&amp;#8217;t have to be daunting, even if you&amp;#8217;re a beginner. With the right tools and guidance, you can have a sleek, fully ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-bricks-builder/" rel="nofollow"&gt;How to build a WordPress site using Bricks Builder: the ultimate guide&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 20 May 2024 15:04:30 +0000</pubDate>
     </item>
     <item>
       <title>#121 – Alexander Gilmanov on Transitioning From Developer to Entrepreneur. Part 2.</title>
@@ -344,11 +330,25 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Thu, 23 May 2024 17:00:40 +0000</pubDate>
     </item>
     <item>
+      <title>Meet Kinsta at WordCamp Europe 2024 in Turin, Italy</title>
+      <link>https://kinsta.com/blog/wordcamp-europe-turin/</link>
+      <description>&lt;p&gt;Join Kinsta at WordCamp Europe 2024 on June 12-13. Meet our team, win prizes, and stay connected with #KinstaWCEU for updates and exclusive swag!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordcamp-europe-turin/" rel="nofollow"&gt;Meet Kinsta at WordCamp Europe 2024 in Turin, Italy&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 May 2024 04:50:24 +0000</pubDate>
+    </item>
+    <item>
       <title>29 Best Business Tools for Small Business (Expert Pick for 2024)</title>
       <link>https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/</link>
       <description>&lt;p&gt;Over our years of helping small websites and companies grow and compete with the big guys, we&amp;#8217;ve learned that the right business tools can make a huge difference in their success. Whether you are looking for something to help you with email marketing, customer support,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/"&gt;29 Best Business Tools for Small Business (Expert Pick for 2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 24 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plausible Analytics: A privacy-focused GA4 alternative for WordPress</title>
+      <link>https://kinsta.com/blog/plausible-analytics/</link>
+      <description>&lt;p&gt;With the rollout of Google Analytics 4 (GA4), many people have grappled with its increased complexity. With privacy considerations also on the table, this shift has ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/plausible-analytics/" rel="nofollow"&gt;Plausible Analytics: A privacy-focused GA4 alternative for WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 May 2024 16:37:40 +0000</pubDate>
     </item>
     <item>
       <title>How to Properly Add Your Business Address in WordPress</title>
