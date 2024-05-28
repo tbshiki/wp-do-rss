@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 09:08:15 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 09:08:20 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -316,32 +316,11 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Node.js clustering is key for optimized applications</title>
-      <link>https://kinsta.com/blog/node-js-clustering/</link>
-      <description>&lt;p&gt;Node.js is a server-side JavaScript runtime that uses an event-driven, non-blocking input-output (I/O) model. It&amp;#8217;s widely recognized for building fast and scalable web apps. It also has a ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/node-js-clustering/" rel="nofollow"&gt;Why Node.js clustering is key for optimized applications&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 May 2024 16:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Drive 10,000 Extra Site Visitors a Month (Case Study)</title>
-      <link>https://www.wpbeginner.com/opinion/how-wpbeginner-uses-push-notifications-to-grow-return-traffic/</link>
-      <description>&lt;p&gt;Looking to drive tons of traffic to your site? What if I told you that you can EASILY drive hundreds if not thousands of additional repeat visitors to your site… every month? It might sound too good to be true, especially when ‘reliable’ traffic sources&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-wpbeginner-uses-push-notifications-to-grow-return-traffic/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-wpbeginner-uses-push-notifications-to-grow-return-traffic/"&gt;How to Drive 10,000 Extra Site Visitors a Month (Case Study)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 23 May 2024 17:00:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Meet Kinsta at WordCamp Europe 2024 in Turin, Italy</title>
       <link>https://kinsta.com/blog/wordcamp-europe-turin/</link>
       <description>&lt;p&gt;Join Kinsta at WordCamp Europe 2024 on June 12-13. Meet our team, win prizes, and stay connected with #KinstaWCEU for updates and exclusive swag!&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordcamp-europe-turin/" rel="nofollow"&gt;Meet Kinsta at WordCamp Europe 2024 in Turin, Italy&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 24 May 2024 04:50:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>29 Best Business Tools for Small Business (Expert Pick for 2024)</title>
-      <link>https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/</link>
-      <description>&lt;p&gt;Over our years of helping small websites and companies grow and compete with the big guys, we&amp;#8217;ve learned that the right business tools can make a huge difference in their success. Whether you are looking for something to help you with email marketing, customer support,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-business-tools-for-small-business/"&gt;29 Best Business Tools for Small Business (Expert Pick for 2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Plausible Analytics: A privacy-focused GA4 alternative for WordPress</title>
@@ -356,6 +335,27 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you looking for the best way to add your business address in WordPress? You can add the address on your contact page or sidebar widget to provide an easy way for users to approach you. This improves customer trust and boosts your SEO. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-properly-add-your-business-address-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-properly-add-your-business-address-in-wordpress/"&gt;How to Properly Add Your Business Address in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 24 May 2024 17:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create a Squeeze Page in WordPress That Converts</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/</link>
+      <description>&lt;p&gt;Are you looking for a way to collect email addresses from your visitors? Adding a squeeze page is an easy way to narrow down your users&amp;#8217; attention and build an email list. It helps convert your audience by offering incentives in exchange for their email&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/"&gt;How to Create a Squeeze Page in WordPress That Converts&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to prevent DDoS attacks: tips from security experts</title>
+      <link>https://kinsta.com/blog/prevent-ddos-attacks/</link>
+      <description>&lt;p&gt;Distributed Denial-of-Service (DDoS) attacks are one of a website&amp;#8217;s most challenging threats. The number of DDoS attacks continues to rise every year. The Q4 2023 DDoS ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/prevent-ddos-attacks/" rel="nofollow"&gt;How to prevent DDoS attacks: tips from security experts&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 May 2024 15:18:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>19 Best WordPress Starter Themes for Developers in 2024</title>
+      <link>https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/</link>
+      <description>&lt;p&gt;Are you looking for the best WordPress starter theme for developers? A WordPress starter theme helps programmers start with a solid foundation. It can become the base for your theme development process and give you a good head start. In this article, we have handpicked&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;19 Best WordPress Starter Themes for Developers in 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 May 2024 17:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
