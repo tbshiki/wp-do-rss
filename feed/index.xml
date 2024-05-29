@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 09:08:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 09:08:42 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -330,20 +330,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 24 May 2024 16:37:40 +0000</pubDate>
     </item>
     <item>
-      <title>How to Properly Add Your Business Address in WordPress</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-properly-add-your-business-address-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking for the best way to add your business address in WordPress? You can add the address on your contact page or sidebar widget to provide an easy way for users to approach you. This improves customer trust and boosts your SEO. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-properly-add-your-business-address-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-properly-add-your-business-address-in-wordpress/"&gt;How to Properly Add Your Business Address in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 May 2024 17:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Create a Squeeze Page in WordPress That Converts</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/</link>
-      <description>&lt;p&gt;Are you looking for a way to collect email addresses from your visitors? Adding a squeeze page is an easy way to narrow down your users&amp;#8217; attention and build an email list. It helps convert your audience by offering incentives in exchange for their email&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-a-squeeze-page-in-wordpress-that-converts/"&gt;How to Create a Squeeze Page in WordPress That Converts&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to prevent DDoS attacks: tips from security experts</title>
       <link>https://kinsta.com/blog/prevent-ddos-attacks/</link>
       <description>&lt;p&gt;Distributed Denial-of-Service (DDoS) attacks are one of a website&amp;#8217;s most challenging threats. The number of DDoS attacks continues to rise every year. The Q4 2023 DDoS ...&lt;/p&gt;
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you looking for the best WordPress starter theme for developers? A WordPress starter theme helps programmers start with a solid foundation. It can become the base for your theme development process and give you a good head start. In this article, we have handpicked&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;19 Best WordPress Starter Themes for Developers in 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 27 May 2024 17:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix “PHP Missing MySQL Extension” Error in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/</link>
+      <description>&lt;p&gt;Recently, a user encountered the &amp;#8216;your PHP installation appears to be missing the MySQL extension which is required by WordPress&amp;#8217; error and asked us if there was a way to fix it. When this error appears, it prevents users from viewing your website. If it&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/"&gt;How to Fix “PHP Missing MySQL Extension” Error in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 28 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Website Maintenance Services for WordPress</title>
+      <link>https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/</link>
+      <description>&lt;p&gt;Our readers often ask us if there is a WordPress maintenance service that we can recommend. We&amp;#8217;ve been running websites for 16+ years and have done everything from handling our own maintenance to contracting third-party companies. We know the choice can be tricky, which is&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;6 Best Website Maintenance Services for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 28 May 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
