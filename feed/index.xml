@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 09:08:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 09:08:36 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -21,15 +21,9 @@
     </item>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
+      <link>https://gutenbergtimes.com/?p=27679</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 4, Next Generation Events</title>
-      <link>https://wptavern.com/wordpress-photo-festival-2024-a-five-part-retrospective-part-4-next-generation-events</link>
-      <description>In the penultimate episode of this series I talk with Julia Golomb from the WordPress Community Team about Next Generation WordPress Events.  We'll include how the WPPhotos Event was a great template, and other ideas that could come.</description>
-      <pubDate>Thu, 29 Feb 2024 16:24:58 +0000</pubDate>
     </item>
     <item>
       <title>The Block Bindings API Brings Dynamic Data to Blocks</title>
@@ -165,7 +159,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #97 – WordPress 6.5, Gutenberg 17.8 and 17.9</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-97-wordpress-6-5/</link>
+      <link>https://gutenbergtimes.com/?p=27884</link>
       <description>In this episode, Joni Halabi and Birgit Pauli-Haack discuss WordPress 6.5, Gutenberg 17.8 and 17.9 Show Notes / Transcript Show Notes Joni Halabi, senior developer at Georgetown University What’s new for developers? (March 2024) Developer Hours: Exploring Block Hooks in WordPress 6.5 WordPress 6.5 Gutenberg plugin What’s new in Gutenberg 17.8? (28 February) What’s new&amp;#8230;</description>
       <pubDate>Sun, 17 Mar 2024 11:19:45 +0000</pubDate>
     </item>
@@ -195,7 +189,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #98 – WordPress 6.5, Gutenberg 18.0 Community Theme Project and the Contributor Mentorship Program</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-98/</link>
+      <link>https://gutenbergtimes.com/?p=28067</link>
       <description>In this episode, Maggie Cabrera and Birgit Pauli-Haack discuss WordPress 6.5, Gutenberg 18.0, Community Theme Project and the Contributor Mentorship Program. Show Notes / Transcript Show Notes Maggie Cabrera Announcements Developer Blog updates What’s new in Gutenberg 18.0? (27 March). Story Dataviews Component Design Share: Mar 11-Mar 22 Transcript Birgit Pauli-Haack: Hello, and welcome to&amp;#8230;</description>
       <pubDate>Sat, 30 Mar 2024 19:57:25 +0000</pubDate>
     </item>
@@ -267,7 +261,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #99 – WordPress 6.6 + 6.5.3, Gutenberg 18.1 + 18.2, and Create Block Theme Updates</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-99-wordpress-6-6-create-block-theme-updates/</link>
+      <link>https://gutenbergtimes.com/?p=28444</link>
       <description>In this episode, Sarah Norris and Birgit Pauli-Haack discuss WordPress 6.6 and 6.5.3, Gutenberg 18.1 + 18.2 and Create Block Theme Updates Show Notes / Transcript Show Notes Special Guest:&amp;#160;Sarah Norris JavaScript Developer 6.4 editor tech co-lead / Core team rep Announcements Create Block Theme plugin WordPress WordPress 6.5.3 RC1 is now available Gutenberg Interactivity&amp;#8230;</description>
       <pubDate>Sat, 04 May 2024 11:13:50 +0000</pubDate>
     </item>
@@ -305,7 +299,7 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
     </item>
     <item>
       <title>Gutenberg Changelog #100 – NASA’s New Website – the Switch to WordPress and Block Editor</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-100-nasa-wordpress-block-editor/</link>
+      <link>https://gutenbergtimes.com/?p=28669</link>
       <description>In this episode, Stacy Holtz, Gary Kovar and Birgit Pauli-Haack discuss NASA’s new website &amp;#8211; the switch to WordPress and Block Editor, the scale of the project, the block and theme development, design and migration. Show Notes / Transcript Show Notes Transcript Birgit Pauli-Haack: Hello, and welcome to our hundredth episode of the Gutenberg Changelog&amp;#8230;</description>
       <pubDate>Sun, 19 May 2024 21:59:53 +0000</pubDate>
     </item>
@@ -337,25 +331,31 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 27 May 2024 15:18:53 +0000</pubDate>
     </item>
     <item>
-      <title>19 Best WordPress Starter Themes for Developers in 2024</title>
-      <link>https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/</link>
-      <description>&lt;p&gt;Are you looking for the best WordPress starter theme for developers? A WordPress starter theme helps programmers start with a solid foundation. It can become the base for your theme development process and give you a good head start. In this article, we have handpicked&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/21-best-wordpress-starter-themes-for-developers/"&gt;19 Best WordPress Starter Themes for Developers in 2024&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 May 2024 17:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Fix “PHP Missing MySQL Extension” Error in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/</link>
-      <description>&lt;p&gt;Recently, a user encountered the &amp;#8216;your PHP installation appears to be missing the MySQL extension which is required by WordPress&amp;#8217; error and asked us if there was a way to fix it. When this error appears, it prevents users from viewing your website. If it&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-php-missing-mysql-extension-error-in-wordpress/"&gt;How to Fix “PHP Missing MySQL Extension” Error in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>6 Best Website Maintenance Services for WordPress</title>
       <link>https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/</link>
       <description>&lt;p&gt;Our readers often ask us if there is a WordPress maintenance service that we can recommend. We&amp;#8217;ve been running websites for 16+ years and have done everything from handling our own maintenance to contracting third-party companies. We know the choice can be tricky, which is&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;6 Best Website Maintenance Services for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 28 May 2024 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Make Recipe Cards in WordPress (Step by Step)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking to add recipe cards to your WordPress content? Millions of people online are searching for recipes every single day. Whether it&amp;#8217;s for whipping up a quick weekday dinner or impressing guests with a show-stopping dessert, recipe cards with easy-to-follow instructions can guide&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/"&gt;How to Make Recipe Cards in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 29 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#122 – Adam Zielinski on How Playground Is Transforming WordPress Website Creation</title>
+      <link>https://wptavern.com/podcast/122-adam-zielinski-on-how-playground-is-transforming-wordpress-website-creation</link>
+      <description>On the podcast today we have Adam Zielinski. He works as a WordPress developer at Automattic and in this episode, we talk about Playground, a groundbreaking project that is redefined the way we interact with WordPress. Adam's visionary approach to creating a seamless WordPress experience within a web browser has revolutionised how easy it is to access WordPress. This project really does change the way that WordPress can be used, and there’s so many exciting prospects for how it might shape the future of website design and development. If you're interested in hearing about cutting-edge advancements reshaping the WordPress landscape, this episode is for you.</description>
+      <pubDate>Wed, 29 May 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Build an Auction Site Like eBay Using WordPress</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-build-an-online-auction-site-using-wordpress/</link>
+      <description>&lt;p&gt;Do you want to build an auction site like eBay using WordPress? An auction website allows users to bid on products to purchase them. This allows you to maximize profits while selling unique items. In this article, we will show you how to easily build&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-build-an-online-auction-site-using-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-build-an-online-auction-site-using-wordpress/"&gt;How to Build an Auction Site Like eBay Using WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 29 May 2024 17:00:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
