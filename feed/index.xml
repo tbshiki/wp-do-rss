@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 May 2024 09:08:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 09:08:00 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -310,13 +310,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Meet Kinsta at WordCamp Europe 2024 in Turin, Italy</title>
-      <link>https://kinsta.com/blog/wordcamp-europe-turin/</link>
-      <description>&lt;p&gt;Join Kinsta at WordCamp Europe 2024 on June 12-13. Meet our team, win prizes, and stay connected with #KinstaWCEU for updates and exclusive swag!&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordcamp-europe-turin/" rel="nofollow"&gt;Meet Kinsta at WordCamp Europe 2024 in Turin, Italy&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 May 2024 04:50:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Plausible Analytics: A privacy-focused GA4 alternative for WordPress</title>
       <link>https://kinsta.com/blog/plausible-analytics/</link>
       <description>&lt;p&gt;With the rollout of Google Analytics 4 (GA4), many people have grappled with its increased complexity. With privacy considerations also on the table, this shift has ...&lt;/p&gt;
@@ -331,24 +324,17 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 27 May 2024 15:18:53 +0000</pubDate>
     </item>
     <item>
-      <title>6 Best Website Maintenance Services for WordPress</title>
-      <link>https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/</link>
-      <description>&lt;p&gt;Our readers often ask us if there is a WordPress maintenance service that we can recommend. We&amp;#8217;ve been running websites for 16+ years and have done everything from handling our own maintenance to contracting third-party companies. We know the choice can be tricky, which is&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-website-maintenance-services-for-wordpress/"&gt;6 Best Website Maintenance Services for WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 May 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Make Recipe Cards in WordPress (Step by Step)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking to add recipe cards to your WordPress content? Millions of people online are searching for recipes every single day. Whether it&amp;#8217;s for whipping up a quick weekday dinner or impressing guests with a show-stopping dessert, recipe cards with easy-to-follow instructions can guide&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-make-recipe-cards-in-wordpress/"&gt;How to Make Recipe Cards in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>#122 – Adam Zielinski on How Playground Is Transforming WordPress Website Creation</title>
       <link>https://wptavern.com/podcast/122-adam-zielinski-on-how-playground-is-transforming-wordpress-website-creation</link>
       <description>On the podcast today we have Adam Zielinski. He works as a WordPress developer at Automattic and in this episode, we talk about Playground, a groundbreaking project that is redefined the way we interact with WordPress. Adam's visionary approach to creating a seamless WordPress experience within a web browser has revolutionised how easy it is to access WordPress. This project really does change the way that WordPress can be used, and there’s so many exciting prospects for how it might shape the future of website design and development. If you're interested in hearing about cutting-edge advancements reshaping the WordPress landscape, this episode is for you.</description>
       <pubDate>Wed, 29 May 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to leverage the Kinsta API for predictive resource scaling and anomaly detection</title>
+      <link>https://kinsta.com/blog/kinsta-api-resource-scaling/</link>
+      <description>&lt;p&gt;Managing your resources is crucial for optimizing your site’s performance and stability. A WordPress site has to be able to handle traffic surges, scale resources when ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/kinsta-api-resource-scaling/" rel="nofollow"&gt;How to leverage the Kinsta API for predictive resource scaling and anomaly detection&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 29 May 2024 15:17:52 +0000</pubDate>
     </item>
     <item>
       <title>How to Build an Auction Site Like eBay Using WordPress</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Do you want to build an auction site like eBay using WordPress? An auction website allows users to bid on products to purchase them. This allows you to maximize profits while selling unique items. In this article, we will show you how to easily build&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-build-an-online-auction-site-using-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-build-an-online-auction-site-using-wordpress/"&gt;How to Build an Auction Site Like eBay Using WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 29 May 2024 17:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate WordPress SEO Migration Checklist (For Beginners)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/the-ultimate-wordpress-seo-migration-checklist-for-beginners/</link>
+      <description>&lt;p&gt;Many of our readers are worried that moving a WordPress website or switching to a different SEO plugin will affect their website search rankings. Search is the primary traffic source for most websites, so you want to be extremely careful when migrating. In this tutorial,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/the-ultimate-wordpress-seo-migration-checklist-for-beginners/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/the-ultimate-wordpress-seo-migration-checklist-for-beginners/"&gt;The Ultimate WordPress SEO Migration Checklist (For Beginners)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How I Run Giveaways to 2x Traffic &amp; Conversions (Case Study)</title>
+      <link>https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/</link>
+      <description>&lt;p&gt;When WPBeginner turned 14 years old in 2023, we threw a giveaway to celebrate, which is a long-standing tradition we&amp;#8217;ve been following for over a decade now. One of the questions I often get asked is why we run giveaways on WPBeginner. With the giveaway,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/"&gt;How I Run Giveaways to 2x Traffic &amp; Conversions (Case Study)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 May 2024 17:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
