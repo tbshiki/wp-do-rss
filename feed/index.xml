@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 09:08:34 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 09:08:48 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -310,13 +310,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Plausible Analytics: A privacy-focused GA4 alternative for WordPress</title>
-      <link>https://kinsta.com/blog/plausible-analytics/</link>
-      <description>&lt;p&gt;With the rollout of Google Analytics 4 (GA4), many people have grappled with its increased complexity. With privacy considerations also on the table, this shift has ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/plausible-analytics/" rel="nofollow"&gt;Plausible Analytics: A privacy-focused GA4 alternative for WordPress&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 May 2024 16:37:40 +0000</pubDate>
-    </item>
-    <item>
       <title>How to prevent DDoS attacks: tips from security experts</title>
       <link>https://kinsta.com/blog/prevent-ddos-attacks/</link>
       <description>&lt;p&gt;Distributed Denial-of-Service (DDoS) attacks are one of a website&amp;#8217;s most challenging threats. The number of DDoS attacks continues to rise every year. The Q4 2023 DDoS ...&lt;/p&gt;
@@ -349,6 +342,13 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you curious about the latest AI statistics and how they might affect your online business? Artificial intelligence (AI) is impacting everything from how we shop to how we receive medical care. Even for small business owners and website owners, AI has become a powerful&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/research/surprising-ai-statistics/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/research/surprising-ai-statistics/"&gt;60+ Surprising AI Statistics for 2024 – Everything You Need to Know&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 31 May 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to create and manage databases using the Kinsta API</title>
+      <link>https://kinsta.com/blog/databases-kinsta-api/</link>
+      <description>&lt;p&gt;At Kinsta, we help to support thousands of websites of all sizes. One thing that unites them all is the need for a database. Regardless of ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/databases-kinsta-api/" rel="nofollow"&gt;How to create and manage databases using the Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 31 May 2024 15:31:29 +0000</pubDate>
     </item>
     <item>
       <title>9 Best Twitter Plugins for WordPress in 2024 (Compared)</title>
