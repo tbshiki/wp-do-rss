@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 09:08:15 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 09:08:03 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -310,13 +310,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 22 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to prevent DDoS attacks: tips from security experts</title>
-      <link>https://kinsta.com/blog/prevent-ddos-attacks/</link>
-      <description>&lt;p&gt;Distributed Denial-of-Service (DDoS) attacks are one of a website&amp;#8217;s most challenging threats. The number of DDoS attacks continues to rise every year. The Q4 2023 DDoS ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/prevent-ddos-attacks/" rel="nofollow"&gt;How to prevent DDoS attacks: tips from security experts&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 May 2024 15:18:53 +0000</pubDate>
-    </item>
-    <item>
       <title>#122 – Adam Zielinski on How Playground Is Transforming WordPress Website Creation</title>
       <link>https://wptavern.com/podcast/122-adam-zielinski-on-how-playground-is-transforming-wordpress-website-creation</link>
       <description>On the podcast today we have Adam Zielinski. He works as a WordPress developer at Automattic and in this episode, we talk about Playground, a groundbreaking project that is redefined the way we interact with WordPress. Adam's visionary approach to creating a seamless WordPress experience within a web browser has revolutionised how easy it is to access WordPress. This project really does change the way that WordPress can be used, and there’s so many exciting prospects for how it might shape the future of website design and development. If you're interested in hearing about cutting-edge advancements reshaping the WordPress landscape, this episode is for you.</description>
@@ -328,20 +321,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Managing your resources is crucial for optimizing your site’s performance and stability. A WordPress site has to be able to handle traffic surges, scale resources when ...&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/kinsta-api-resource-scaling/" rel="nofollow"&gt;How to leverage the Kinsta API for predictive resource scaling and anomaly detection&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 29 May 2024 15:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>How I Run Giveaways to 2x Traffic &amp; Conversions (Case Study)</title>
-      <link>https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/</link>
-      <description>&lt;p&gt;When WPBeginner turned 14 years old in 2023, we threw a giveaway to celebrate, which is a long-standing tradition we&amp;#8217;ve been following for over a decade now. One of the questions I often get asked is why we run giveaways on WPBeginner. With the giveaway,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/tips-to-run-successful-giveaway/"&gt;How I Run Giveaways to 2x Traffic &amp; Conversions (Case Study)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 30 May 2024 17:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>60+ Surprising AI Statistics for 2024 – Everything You Need to Know</title>
-      <link>https://www.wpbeginner.com/research/surprising-ai-statistics/</link>
-      <description>&lt;p&gt;Are you curious about the latest AI statistics and how they might affect your online business? Artificial intelligence (AI) is impacting everything from how we shop to how we receive medical care. Even for small business owners and website owners, AI has become a powerful&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/research/surprising-ai-statistics/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/research/surprising-ai-statistics/"&gt;60+ Surprising AI Statistics for 2024 – Everything You Need to Know&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 31 May 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>How to create and manage databases using the Kinsta API</title>
@@ -356,6 +335,27 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;We&amp;#8217;ve been promoting our brands across social media platforms like Twitter for several years now, so we know how useful plugins can be for increasing followers, traffic, and shares. However, not every Twitter plugin can handle every use case that your business might have. That&amp;#8217;s&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-twitter-plugins-for-wordpress-easy-and-powerful/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-twitter-plugins-for-wordpress-easy-and-powerful/"&gt;9 Best Twitter Plugins for WordPress in 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 31 May 2024 17:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Show Product Recommendations in WordPress (7 Easy Ways)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to show product recommendations in WordPress? Displaying product recommendations can encourage users to make additional purchases, boosting your sales and revenue. It can also improve user engagement by convincing visitors to stay longer on your site. In this article, we will show&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/"&gt;How to Show Product Recommendations in WordPress (7 Easy Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Achieving continuous security monitoring and compliance for WordPress sites with the Kinsta API</title>
+      <link>https://kinsta.com/blog/kinsta-api-security-monitoring/</link>
+      <description>&lt;p&gt;Securing your WordPress website is an aspect you can’t ignore unless you want to expose your customers&amp;#8217; data and online safety. What’s more, compliance maintenance regarding ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/kinsta-api-security-monitoring/" rel="nofollow"&gt;Achieving continuous security monitoring and compliance for WordPress sites with the Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Jun 2024 15:53:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add Attachment File Type Icons in WordPress (Easy Tutorial)</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-add-attachment-file-icons-in-wordpress/</link>
+      <description>&lt;p&gt;Have you ever seen websites that show file icons next to the download links? Recently, one of our readers asked if it was possible to display attachment file icons in WordPress. You can easily show different icons so that users know which type of file&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-attachment-file-icons-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-attachment-file-icons-in-wordpress/"&gt;How to Add Attachment File Type Icons in WordPress (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Jun 2024 17:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
