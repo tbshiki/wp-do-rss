@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 09:08:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 09:08:05 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -21,7 +21,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
-      <link>https://gutenbergtimes.com/?p=27679</link>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
     </item>
@@ -159,7 +159,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #97 – WordPress 6.5, Gutenberg 17.8 and 17.9</title>
-      <link>https://gutenbergtimes.com/?p=27884</link>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-97-wordpress-6-5/</link>
       <description>In this episode, Joni Halabi and Birgit Pauli-Haack discuss WordPress 6.5, Gutenberg 17.8 and 17.9 Show Notes / Transcript Show Notes Joni Halabi, senior developer at Georgetown University What’s new for developers? (March 2024) Developer Hours: Exploring Block Hooks in WordPress 6.5 WordPress 6.5 Gutenberg plugin What’s new in Gutenberg 17.8? (28 February) What’s new&amp;#8230;</description>
       <pubDate>Sun, 17 Mar 2024 11:19:45 +0000</pubDate>
     </item>
@@ -189,7 +189,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #98 – WordPress 6.5, Gutenberg 18.0 Community Theme Project and the Contributor Mentorship Program</title>
-      <link>https://gutenbergtimes.com/?p=28067</link>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-98/</link>
       <description>In this episode, Maggie Cabrera and Birgit Pauli-Haack discuss WordPress 6.5, Gutenberg 18.0, Community Theme Project and the Contributor Mentorship Program. Show Notes / Transcript Show Notes Maggie Cabrera Announcements Developer Blog updates What’s new in Gutenberg 18.0? (27 March). Story Dataviews Component Design Share: Mar 11-Mar 22 Transcript Birgit Pauli-Haack: Hello, and welcome to&amp;#8230;</description>
       <pubDate>Sat, 30 Mar 2024 19:57:25 +0000</pubDate>
     </item>
@@ -261,7 +261,7 @@
     </item>
     <item>
       <title>Gutenberg Changelog #99 – WordPress 6.6 + 6.5.3, Gutenberg 18.1 + 18.2, and Create Block Theme Updates</title>
-      <link>https://gutenbergtimes.com/?p=28444</link>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-99-wordpress-6-6-create-block-theme-updates/</link>
       <description>In this episode, Sarah Norris and Birgit Pauli-Haack discuss WordPress 6.6 and 6.5.3, Gutenberg 18.1 + 18.2 and Create Block Theme Updates Show Notes / Transcript Show Notes Special Guest:&amp;#160;Sarah Norris JavaScript Developer 6.4 editor tech co-lead / Core team rep Announcements Create Block Theme plugin WordPress WordPress 6.5.3 RC1 is now available Gutenberg Interactivity&amp;#8230;</description>
       <pubDate>Sat, 04 May 2024 11:13:50 +0000</pubDate>
     </item>
@@ -299,7 +299,7 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
     </item>
     <item>
       <title>Gutenberg Changelog #100 – NASA’s New Website – the Switch to WordPress and Block Editor</title>
-      <link>https://gutenbergtimes.com/?p=28669</link>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-100-nasa-wordpress-block-editor/</link>
       <description>In this episode, Stacy Holtz, Gary Kovar and Birgit Pauli-Haack discuss NASA’s new website &amp;#8211; the switch to WordPress and Block Editor, the scale of the project, the block and theme development, design and migration. Show Notes / Transcript Show Notes Transcript Birgit Pauli-Haack: Hello, and welcome to our hundredth episode of the Gutenberg Changelog&amp;#8230;</description>
       <pubDate>Sun, 19 May 2024 21:59:53 +0000</pubDate>
     </item>
@@ -330,20 +330,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 31 May 2024 15:31:29 +0000</pubDate>
     </item>
     <item>
-      <title>9 Best Twitter Plugins for WordPress in 2024 (Compared)</title>
-      <link>https://www.wpbeginner.com/showcase/best-twitter-plugins-for-wordpress-easy-and-powerful/</link>
-      <description>&lt;p&gt;We&amp;#8217;ve been promoting our brands across social media platforms like Twitter for several years now, so we know how useful plugins can be for increasing followers, traffic, and shares. However, not every Twitter plugin can handle every use case that your business might have. That&amp;#8217;s&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-twitter-plugins-for-wordpress-easy-and-powerful/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-twitter-plugins-for-wordpress-easy-and-powerful/"&gt;9 Best Twitter Plugins for WordPress in 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 31 May 2024 17:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Show Product Recommendations in WordPress (7 Easy Ways)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/</link>
-      <description>&lt;p&gt;Do you want to show product recommendations in WordPress? Displaying product recommendations can encourage users to make additional purchases, boosting your sales and revenue. It can also improve user engagement by convincing visitors to stay longer on your site. In this article, we will show&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-show-product-recommendations-in-wordpress/"&gt;How to Show Product Recommendations in WordPress (7 Easy Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Achieving continuous security monitoring and compliance for WordPress sites with the Kinsta API</title>
       <link>https://kinsta.com/blog/kinsta-api-security-monitoring/</link>
       <description>&lt;p&gt;Securing your WordPress website is an aspect you can’t ignore unless you want to expose your customers&amp;#8217; data and online safety. What’s more, compliance maintenance regarding ...&lt;/p&gt;
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Have you ever seen websites that show file icons next to the download links? Recently, one of our readers asked if it was possible to display attachment file icons in WordPress. You can easily show different icons so that users know which type of file&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-add-attachment-file-icons-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-add-attachment-file-icons-in-wordpress/"&gt;How to Add Attachment File Type Icons in WordPress (Easy Tutorial)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 03 Jun 2024 17:00:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Best WordPress Development Tools (Free + Paid)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-development-tools/</link>
+      <description>&lt;p&gt;We’ve developed and launched many successful websites from the ground up. So we know that whether you&amp;#8217;re an experienced WordPress developer or a beginner, having the right development tool helps you customize your site and add different functionality. From our years of experience, some of&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-development-tools/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-development-tools/"&gt;8 Best WordPress Development Tools (Free + Paid)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 04 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add Captions to Featured Images in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/</link>
+      <description>&lt;p&gt;Do you need to add captions to your featured images in WordPress? Captions are a great way to add context and background information, but many WordPress themes don’t display them properly. This can leave your images looking bare and your visitors missing out on valuable&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/"&gt;How to Add Captions to Featured Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 04 Jun 2024 17:00:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
