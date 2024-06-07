@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 09:08:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 09:08:24 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -310,13 +310,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 29 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to leverage the Kinsta API for predictive resource scaling and anomaly detection</title>
-      <link>https://kinsta.com/blog/kinsta-api-resource-scaling/</link>
-      <description>&lt;p&gt;Managing your resources is crucial for optimizing your site’s performance and stability. A WordPress site has to be able to handle traffic surges, scale resources when ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/kinsta-api-resource-scaling/" rel="nofollow"&gt;How to leverage the Kinsta API for predictive resource scaling and anomaly detection&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 May 2024 15:17:52 +0000</pubDate>
-    </item>
-    <item>
       <title>How to create and manage databases using the Kinsta API</title>
       <link>https://kinsta.com/blog/databases-kinsta-api/</link>
       <description>&lt;p&gt;At Kinsta, we help to support thousands of websites of all sizes. One thing that unites them all is the need for a database. Regardless of ...&lt;/p&gt;
@@ -331,18 +324,11 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 03 Jun 2024 15:53:23 +0000</pubDate>
     </item>
     <item>
-      <title>How to Add Captions to Featured Images in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/</link>
-      <description>&lt;p&gt;Do you need to add captions to your featured images in WordPress? Captions are a great way to add context and background information, but many WordPress themes don’t display them properly. This can leave your images looking bare and your visitors missing out on valuable&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-display-wordpress-post-thumbnails-with-captions/"&gt;How to Add Captions to Featured Images in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 04 Jun 2024 17:00:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Redirect a Page or URL in WordPress (2 Methods)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/redirect-a-page-or-url-in-wordpress/</link>
-      <description>&lt;p&gt;Do you need to redirect a page or URL in WordPress? When a user follows a link to your website that leads to a page that doesn’t exist, they will see an error message. This poor user experience can be frustrating for your visitors and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/redirect-a-page-or-url-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/redirect-a-page-or-url-in-wordpress/"&gt;How to Redirect a Page or URL in WordPress (2 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 05 Jun 2024 10:00:00 +0000</pubDate>
+      <title>​​How to set up sales tax on your WooCommerce site</title>
+      <link>https://kinsta.com/blog/woocommerce-tax/</link>
+      <description>&lt;p&gt;Setting up a WooCommerce site in WordPress is an interesting process, with many page builders, themes, and blocks available. You must pay attention to designing your ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/woocommerce-tax/" rel="nofollow"&gt;​​How to set up sales tax on your WooCommerce site&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 05 Jun 2024 13:30:04 +0000</pubDate>
     </item>
     <item>
       <title>#123 – Jamie Marsland on the WordCamp Europe Speed Building Challenge</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Do you want to show content only to RSS subscribers in WordPress? RSS (Really Simple Syndication) may not be as popular as social media, but some people still use it to stay up-to-date on their favorite blogs. If you have RSS subscribers, then you can&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-feed-only-content-in-wordpress-with-shortcode/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-feed-only-content-in-wordpress-with-shortcode/"&gt;How to Show Content Only to RSS Subscribers in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 05 Jun 2024 17:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Get More Global Visitors (WordPress International SEO Tips)</title>
+      <link>https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/</link>
+      <description>&lt;p&gt;Wouldn&amp;#8217;t it be great if you could attract more visitors from around the world to your website and increase traffic? As the president of a popular WordPress SEO plugin, I&amp;#8217;ve seen a growing trend toward the need for localization (adapting your content to a specific&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/"&gt;How to Get More Global Visitors (WordPress International SEO Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 Best Help Desk Software for Small Businesses 2024 (Compared)</title>
+      <link>https://www.wpbeginner.com/showcase/best-helpdesk-software/</link>
+      <description>&lt;p&gt;We handle thousands of support queries every day across all of our businesses, and we&amp;#8217;ve used a bunch of different help desk software to do it. Although we are now using Groove and are happy with our experience, we also know that there are plenty&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;10 Best Help Desk Software for Small Businesses 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Jun 2024 17:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
