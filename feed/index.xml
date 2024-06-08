@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 09:08:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 09:08:48 +0900</lastBuildDate>
     <item>
       <title>Vids on data views, image aspect ratio and synched pattern overrides, modern JS and more — Weekend Edition 285</title>
       <link>https://gutenbergtimes.com/vids-on-data-views-image-aspect-ratio-and-synched-pattern-overrides-modern-js-and-more-weekend-edition-285/</link>
@@ -310,13 +310,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 29 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to create and manage databases using the Kinsta API</title>
-      <link>https://kinsta.com/blog/databases-kinsta-api/</link>
-      <description>&lt;p&gt;At Kinsta, we help to support thousands of websites of all sizes. One thing that unites them all is the need for a database. Regardless of ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/databases-kinsta-api/" rel="nofollow"&gt;How to create and manage databases using the Kinsta API&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 31 May 2024 15:31:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Achieving continuous security monitoring and compliance for WordPress sites with the Kinsta API</title>
       <link>https://kinsta.com/blog/kinsta-api-security-monitoring/</link>
       <description>&lt;p&gt;Securing your WordPress website is an aspect you can’t ignore unless you want to expose your customers&amp;#8217; data and online safety. What’s more, compliance maintenance regarding ...&lt;/p&gt;
@@ -337,25 +330,32 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>How to Show Content Only to RSS Subscribers in WordPress</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-feed-only-content-in-wordpress-with-shortcode/</link>
-      <description>&lt;p&gt;Do you want to show content only to RSS subscribers in WordPress? RSS (Really Simple Syndication) may not be as popular as social media, but some people still use it to stay up-to-date on their favorite blogs. If you have RSS subscribers, then you can&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-feed-only-content-in-wordpress-with-shortcode/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-feed-only-content-in-wordpress-with-shortcode/"&gt;How to Show Content Only to RSS Subscribers in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 05 Jun 2024 17:00:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Get More Global Visitors (WordPress International SEO Tips)</title>
-      <link>https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/</link>
-      <description>&lt;p&gt;Wouldn&amp;#8217;t it be great if you could attract more visitors from around the world to your website and increase traffic? As the president of a popular WordPress SEO plugin, I&amp;#8217;ve seen a growing trend toward the need for localization (adapting your content to a specific&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/how-to-get-more-global-visitors-wordpress-international-seo-tips/"&gt;How to Get More Global Visitors (WordPress International SEO Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 06 Jun 2024 10:00:00 +0000</pubDate>
+      <title>Your essential guide to thriving at WordCamps: tips, tricks, and must-haves</title>
+      <link>https://kinsta.com/blog/wordcamp-guide/</link>
+      <description>&lt;p&gt;WordCamps are organized by WordPress users for the WordPress community. Whether you’re a WordPress hobbyist, a marketer, or a developer, there are surely activities for you ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordcamp-guide/" rel="nofollow"&gt;Your essential guide to thriving at WordCamps: tips, tricks, and must-haves&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Jun 2024 15:30:12 +0000</pubDate>
     </item>
     <item>
       <title>10 Best Help Desk Software for Small Businesses 2024 (Compared)</title>
       <link>https://www.wpbeginner.com/showcase/best-helpdesk-software/</link>
-      <description>&lt;p&gt;We handle thousands of support queries every day across all of our businesses, and we&amp;#8217;ve used a bunch of different help desk software to do it. Although we are now using Groove and are happy with our experience, we also know that there are plenty&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We handle thousands of support queries every day across all of our partner companies, and we&amp;#8217;ve used a bunch of different help desk software to do it. While we have first-hand experience with support tools like Groove, Heroic Inbox, and Help Scout, we know that&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;10 Best Help Desk Software for Small Businesses 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 06 Jun 2024 17:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Write an Affiliate Product Review (Expert Tips)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/</link>
+      <description>&lt;p&gt;Do you want to learn how to write a product review for your affiliate products? Writing affiliate product reviews on your WordPress site allows you to earn money online. It can also help your audience make an informed decision about the product that you are&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/"&gt;How to Write an Affiliate Product Review (Expert Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Increase Ad Impressions in WordPress with Ad Refresh (2 Ways)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/</link>
+      <description>&lt;p&gt;Are you wondering how to increase ad impressions in WordPress? Many WPBeginner readers have asked us how to maximize ad income while keeping their sites user-friendly. With ad refresh, you can rotate different advertisements in the same spot, boosting ad impressions and ad revenue. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/"&gt;How to Increase Ad Impressions in WordPress with Ad Refresh (2 Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 07 Jun 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
