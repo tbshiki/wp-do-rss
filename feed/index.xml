@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Jun 2024 09:08:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 09:08:03 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -318,20 +318,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Thu, 06 Jun 2024 15:30:12 +0000</pubDate>
     </item>
     <item>
-      <title>10 Best Help Desk Software for Small Businesses 2024 (Compared)</title>
-      <link>https://www.wpbeginner.com/showcase/best-helpdesk-software/</link>
-      <description>&lt;p&gt;We handle thousands of support queries every day across all of our partner companies, and we&amp;#8217;ve used a bunch of different help desk software to do it. While we have first-hand experience with support tools like Groove, Heroic Inbox, and Help Scout, we know that&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-helpdesk-software/"&gt;10 Best Help Desk Software for Small Businesses 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 06 Jun 2024 17:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Write an Affiliate Product Review (Expert Tips)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/</link>
-      <description>&lt;p&gt;Do you want to learn how to write a product review for your affiliate products? Writing affiliate product reviews on your WordPress site allows you to earn money online. It can also help your audience make an informed decision about the product that you are&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-write-an-affiliate-product-review/"&gt;How to Write an Affiliate Product Review (Expert Tips)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 07 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Piwik PRO is a great GA4 alternative for WordPress users</title>
       <link>https://kinsta.com/blog/piwik-analytics/</link>
       <description>&lt;p&gt;As Google Analytics 4 (GA4) presents challenges with its new data model and reporting limitations, many WordPress users have explored alternatives. One such alternative we think ...&lt;/p&gt;
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-101-wordpress-6-6/</link>
       <description>In this episode, Magdalena Paciorek and Birgit Pauli-Haack discuss WordPress 6.6 Beta 1, Gutenberg releases 18.3, 18.4, 18.5 and WordCamp Europe Show Notes / Transcript Show Notes Special Guest: Magdalena Paciorek Upcoming Events WordPress 6.6 Gutenberg Releases Transcript The transcript is in the works.</description>
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Is theme.json File in WordPress and How to Use It</title>
+      <link>https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/</link>
+      <description>&lt;p&gt;Are you using a block theme and seeing the theme.json file in WordPress? Maybe you are wondering what the purpose of this file is and whether you should edit it. The theme.json file is a crucial part of the full site editing experience in WordPress.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/"&gt;What Is theme.json File in WordPress and How to Use It&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 10 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Organize or Reorder WordPress Pages with Drag &amp; Drop</title>
+      <link>https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/</link>
+      <description>&lt;p&gt;Do you want to organize or reorder WordPress pages with drag and drop? By default, WordPress lists your pages in alphabetical order, both in the back-end admin and on the front-end of your website. But if you want them in a different order, then you&amp;#8217;ll&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;How to Organize or Reorder WordPress Pages with Drag &amp; Drop&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 10 Jun 2024 17:00:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
