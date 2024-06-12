@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 09:08:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 09:08:08 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -298,13 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 29 May 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>​​How to set up sales tax on your WooCommerce site</title>
-      <link>https://kinsta.com/blog/woocommerce-tax/</link>
-      <description>&lt;p&gt;Setting up a WooCommerce site in WordPress is an interesting process, with many page builders, themes, and blocks available. You must pay attention to designing your ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/woocommerce-tax/" rel="nofollow"&gt;​​How to set up sales tax on your WooCommerce site&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 05 Jun 2024 13:30:04 +0000</pubDate>
-    </item>
-    <item>
       <title>#123 – Jamie Marsland on the WordCamp Europe Speed Building Challenge</title>
       <link>https://wptavern.com/podcast/123-jamie-marsland-on-the-wordcamp-europe-speed-building-challenge</link>
       <description>On the podcast today we have Jamie Marsland. Jamie runs a WordPress plugin business and has recently become a full-time content creator on YouTube. You might know Jamie from his popular WordPress speed builds on that channel, where contestants have just 30 minutes to build a website from scratch. In this episode, we dive into Jamie’s involvement with WordCamp Europe, where he will be bringing this speed build format to the live stage. Contestants will race against the clock to recreate a pre-built website, all while being interrupted with questions from Jamie and the audience. If you're attending WordCamp Europe or you're just curious about how WordPress can be made fun and engaging, this episode is for you.</description>
@@ -325,13 +318,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 07 Jun 2024 14:12:31 +0000</pubDate>
     </item>
     <item>
-      <title>How to Increase Ad Impressions in WordPress with Ad Refresh (2 Ways)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/</link>
-      <description>&lt;p&gt;Are you wondering how to increase ad impressions in WordPress? Many WPBeginner readers have asked us how to maximize ad income while keeping their sites user-friendly. With ad refresh, you can rotate different advertisements in the same spot, boosting ad impressions and ad revenue. In&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-increase-ad-impressions-in-wordpress-with-ad-refresh/"&gt;How to Increase Ad Impressions in WordPress with Ad Refresh (2 Ways)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 07 Jun 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.6 Beta 1, Blueprints to power Playground, Block Bindings API tutorial and so much more —  Weekend Edition 295</title>
       <link>https://gutenbergtimes.com/wordpress-6-6-beta-1-blueprints-to-powered-playground-block-bindings-api-tutorial-and-so-much-more-weekend-edition-295/</link>
       <description>This weekend, my husband I are traveling to Torino, Italy for work. We&amp;#8217;ll do some sightseeing over the weekend, during the week we&amp;#8217;ll start work as early as possible so we can explore the city some more in the afternoon and evening. On Wednesday, I start first meetings around WordCamp Europe. Thursday is Contributor Day&amp;#8230;</description>
@@ -340,15 +326,15 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
     <item>
       <title>Gutenberg Changelog #101 – WordPress 6.6 Beta 1, Gutenberg 18.3, 18.4, 18.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-101-wordpress-6-6/</link>
-      <description>In this episode, Magdalena Paciorek and Birgit Pauli-Haack discuss WordPress 6.6 Beta 1, Gutenberg releases 18.3, 18.4, 18.5 and WordCamp Europe Show Notes / Transcript Show Notes Special Guest: Magdalena Paciorek Upcoming Events WordPress 6.6 Gutenberg Releases Transcript The transcript is in the works.</description>
+      <description>In this episode, Magdalena Paciorek and Birgit Pauli-Haack discuss WordPress 6.6 Beta 1, Gutenberg releases 18.3, 18.4, 18.5 and WordCamp Europe Show Notes / Transcript Show Notes Special Guest: Magdalena Paciorek Upcoming Events WordPress 6.6 Gutenberg Releases Transcript Birgit Pauli-Haack: Hello and welcome to the 101st episode of the Gutenberg Changelog podcast. In today&amp;#8217;s episode,&amp;#8230;</description>
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>What Is theme.json File in WordPress and How to Use It</title>
-      <link>https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/</link>
-      <description>&lt;p&gt;Are you using a block theme and seeing the theme.json file in WordPress? Maybe you are wondering what the purpose of this file is and whether you should edit it. The theme.json file is a crucial part of the full site editing experience in WordPress.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/what-is-theme-json-file-in-wordpress-and-how-to-use-it/"&gt;What Is theme.json File in WordPress and How to Use It&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Jun 2024 10:00:00 +0000</pubDate>
+      <title>How to make a WordPress plugin extensible with PHP classes</title>
+      <link>https://kinsta.com/blog/wordpress-plugin-extensible/</link>
+      <description>&lt;p&gt;WordPress plugins can be extended with additional functionality, as demonstrated by popular plugins like WooCommerce and Gravity Forms. In the article &amp;#8220;Architecting a WordPress plugin to ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-plugin-extensible/" rel="nofollow"&gt;How to make a WordPress plugin extensible with PHP classes&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 10 Jun 2024 15:57:18 +0000</pubDate>
     </item>
     <item>
       <title>How to Organize or Reorder WordPress Pages with Drag &amp; Drop</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Do you want to organize or reorder WordPress pages with drag and drop? By default, WordPress lists your pages in alphabetical order, both in the back-end admin and on the front-end of your website. But if you want them in a different order, then you&amp;#8217;ll&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;How to Organize or Reorder WordPress Pages with Drag &amp; Drop&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 10 Jun 2024 17:00:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Create Peer-to-Peer Fundraising in WordPress (Step by Step)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/</link>
+      <description>&lt;p&gt;Are you looking to create peer-to-peer fundraising in WordPress? If you have a charity organization, then you can allow your supporters to create their own fundraising campaigns on your website and raise money for the cause. This allows users to play an active role and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/"&gt;How to Create Peer-to-Peer Fundraising in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 11 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Connect Your WordPress Site With ActiveCampaign (5 Methods)</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/</link>
+      <description>&lt;p&gt;Do you want to connect your WordPress site with ActiveCampaign? ActiveCampaign is a popular email marketing service that allows you to send marketing emails from your WordPress website. It helps you capture leads and boost conversions. In this article, we will show you how to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;How to Connect Your WordPress Site With ActiveCampaign (5 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 11 Jun 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
