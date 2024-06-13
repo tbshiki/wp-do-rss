@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 09:08:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 09:08:30 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -304,13 +304,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Your essential guide to thriving at WordCamps: tips, tricks, and must-haves</title>
-      <link>https://kinsta.com/blog/wordcamp-guide/</link>
-      <description>&lt;p&gt;WordCamps are organized by WordPress users for the WordPress community. Whether you’re a WordPress hobbyist, a marketer, or a developer, there are surely activities for you ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordcamp-guide/" rel="nofollow"&gt;Your essential guide to thriving at WordCamps: tips, tricks, and must-haves&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 06 Jun 2024 15:30:12 +0000</pubDate>
-    </item>
-    <item>
       <title>Why Piwik PRO is a great GA4 alternative for WordPress users</title>
       <link>https://kinsta.com/blog/piwik-analytics/</link>
       <description>&lt;p&gt;As Google Analytics 4 (GA4) presents challenges with its new data model and reporting limitations, many WordPress users have explored alternatives. One such alternative we think ...&lt;/p&gt;
@@ -337,25 +330,32 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 10 Jun 2024 15:57:18 +0000</pubDate>
     </item>
     <item>
-      <title>How to Organize or Reorder WordPress Pages with Drag &amp; Drop</title>
-      <link>https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/</link>
-      <description>&lt;p&gt;Do you want to organize or reorder WordPress pages with drag and drop? By default, WordPress lists your pages in alphabetical order, both in the back-end admin and on the front-end of your website. But if you want them in a different order, then you&amp;#8217;ll&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/simple-page-ordering-how-to-organize-wordpress-pages-with-drag-drop/"&gt;How to Organize or Reorder WordPress Pages with Drag &amp; Drop&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Jun 2024 17:00:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Create Peer-to-Peer Fundraising in WordPress (Step by Step)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/</link>
-      <description>&lt;p&gt;Are you looking to create peer-to-peer fundraising in WordPress? If you have a charity organization, then you can allow your supporters to create their own fundraising campaigns on your website and raise money for the cause. This allows users to play an active role and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-create-peer-to-peer-fundraising-in-wordpress/"&gt;How to Create Peer-to-Peer Fundraising in WordPress (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Connect Your WordPress Site With ActiveCampaign (5 Methods)</title>
       <link>https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/</link>
       <description>&lt;p&gt;Do you want to connect your WordPress site with ActiveCampaign? ActiveCampaign is a popular email marketing service that allows you to send marketing emails from your WordPress website. It helps you capture leads and boost conversions. In this article, we will show you how to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;How to Connect Your WordPress Site With ActiveCampaign (5 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 11 Jun 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Best Shared Inbox Tools to Help Manage Team Emails (Expert Pick)</title>
+      <link>https://www.wpbeginner.com/showcase/best-shared-inbox-tools/</link>
+      <description>&lt;p&gt;At WPBeginner, we manage a lot of customer and team emails across different projects and websites. Along the way, we&amp;#8217;ve tried many shared inbox tools to find the best ones for ourselves and small businesses in general. Keeping track of your team&amp;#8217;s communication can be&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-shared-inbox-tools/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-shared-inbox-tools/"&gt;11 Best Shared Inbox Tools to Help Manage Team Emails (Expert Pick)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to unpublish your WordPress site</title>
+      <link>https://kinsta.com/blog/unpublish-wordpress-site/</link>
+      <description>&lt;p&gt;As a WordPress site user or maintainer, there may be times when you want to temporarily or permanently remove your site from the public eye. Whether ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/unpublish-wordpress-site/" rel="nofollow"&gt;How to unpublish your WordPress site&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Jun 2024 14:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Best News Aggregator Websites (+ How to Build Your Own)</title>
+      <link>https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/</link>
+      <description>&lt;p&gt;Do you want to read the latest news and updates from your favorite blogs all in one place? If so, then news aggregator websites are the best option for you. These websites automatically show your favorite websites&amp;#8217; latest content on one page. This way, you&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;9 Best News Aggregator Websites (+ How to Build Your Own)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 12 Jun 2024 17:00:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
