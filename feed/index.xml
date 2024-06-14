@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 09:08:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:08:05 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -330,20 +330,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 10 Jun 2024 15:57:18 +0000</pubDate>
     </item>
     <item>
-      <title>How to Connect Your WordPress Site With ActiveCampaign (5 Methods)</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/</link>
-      <description>&lt;p&gt;Do you want to connect your WordPress site with ActiveCampaign? ActiveCampaign is a popular email marketing service that allows you to send marketing emails from your WordPress website. It helps you capture leads and boost conversions. In this article, we will show you how to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-connect-your-wordpress-site-with-activecampaign/"&gt;How to Connect Your WordPress Site With ActiveCampaign (5 Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Jun 2024 17:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>11 Best Shared Inbox Tools to Help Manage Team Emails (Expert Pick)</title>
-      <link>https://www.wpbeginner.com/showcase/best-shared-inbox-tools/</link>
-      <description>&lt;p&gt;At WPBeginner, we manage a lot of customer and team emails across different projects and websites. Along the way, we&amp;#8217;ve tried many shared inbox tools to find the best ones for ourselves and small businesses in general. Keeping track of your team&amp;#8217;s communication can be&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-shared-inbox-tools/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-shared-inbox-tools/"&gt;11 Best Shared Inbox Tools to Help Manage Team Emails (Expert Pick)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 12 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to unpublish your WordPress site</title>
       <link>https://kinsta.com/blog/unpublish-wordpress-site/</link>
       <description>&lt;p&gt;As a WordPress site user or maintainer, there may be times when you want to temporarily or permanently remove your site from the public eye. Whether ...&lt;/p&gt;
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Do you want to read the latest news and updates from your favorite blogs all in one place? If so, then news aggregator websites are the best option for you. These websites automatically show your favorite websites&amp;#8217; latest content on one page. This way, you&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;9 Best News Aggregator Websites (+ How to Build Your Own)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 12 Jun 2024 17:00:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 Advanced Landing Page Tips to Skyrocket WordPress Conversions</title>
+      <link>https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/</link>
+      <description>&lt;p&gt;Getting people to visit your website&amp;#8217;s landing page is just half the battle. Once people are on your site, you&amp;#8217;ll want them to actually convert. In my years of experience building landing pages, I have learned that intelligent landing page optimization makes a real difference.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/"&gt;8 Advanced Landing Page Tips to Skyrocket WordPress Conversions&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Best Online Grammar Checker Tools for WordPress (2024)</title>
+      <link>https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/</link>
+      <description>&lt;p&gt;We&amp;#8217;ve been blogging for a long time, so we know how important it is to write content that is both helpful and sounds good. That&amp;#8217;s why we frequently use grammar checker tools to help us out. Most web browsers have a built-in spellcheck tool. However,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/"&gt;6 Best Online Grammar Checker Tools for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 13 Jun 2024 17:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
