@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 09:08:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 09:08:00 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -304,13 +304,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 05 Jun 2024 14:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Why Piwik PRO is a great GA4 alternative for WordPress users</title>
-      <link>https://kinsta.com/blog/piwik-analytics/</link>
-      <description>&lt;p&gt;As Google Analytics 4 (GA4) presents challenges with its new data model and reporting limitations, many WordPress users have explored alternatives. One such alternative we think ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/piwik-analytics/" rel="nofollow"&gt;Why Piwik PRO is a great GA4 alternative for WordPress users&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 07 Jun 2024 14:12:31 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.6 Beta 1, Blueprints to power Playground, Block Bindings API tutorial and so much more —  Weekend Edition 295</title>
       <link>https://gutenbergtimes.com/wordpress-6-6-beta-1-blueprints-to-powered-playground-block-bindings-api-tutorial-and-so-much-more-weekend-edition-295/</link>
       <description>This weekend, my husband I are traveling to Torino, Italy for work. We&amp;#8217;ll do some sightseeing over the weekend, during the week we&amp;#8217;ll start work as early as possible so we can explore the city some more in the afternoon and evening. On Wednesday, I start first meetings around WordCamp Europe. Thursday is Contributor Day&amp;#8230;</description>
@@ -337,25 +330,32 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 12 Jun 2024 14:14:37 +0000</pubDate>
     </item>
     <item>
-      <title>9 Best News Aggregator Websites (+ How to Build Your Own)</title>
-      <link>https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/</link>
-      <description>&lt;p&gt;Do you want to read the latest news and updates from your favorite blogs all in one place? If so, then news aggregator websites are the best option for you. These websites automatically show your favorite websites&amp;#8217; latest content on one page. This way, you&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-news-aggregator-websites-how-to-build-your-own/"&gt;9 Best News Aggregator Websites (+ How to Build Your Own)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 12 Jun 2024 17:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>8 Advanced Landing Page Tips to Skyrocket WordPress Conversions</title>
-      <link>https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/</link>
-      <description>&lt;p&gt;Getting people to visit your website&amp;#8217;s landing page is just half the battle. Once people are on your site, you&amp;#8217;ll want them to actually convert. In my years of experience building landing pages, I have learned that intelligent landing page optimization makes a real difference.&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/get-more-conversions-with-advanced-landing-page-tips/"&gt;8 Advanced Landing Page Tips to Skyrocket WordPress Conversions&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 13 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>6 Best Online Grammar Checker Tools for WordPress (2024)</title>
       <link>https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/</link>
       <description>&lt;p&gt;We&amp;#8217;ve been blogging for a long time, so we know how important it is to write content that is both helpful and sounds good. That&amp;#8217;s why we frequently use grammar checker tools to help us out. Most web browsers have a built-in spellcheck tool. However,&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-online-grammar-checker-tools-for-wordpress-2018/"&gt;6 Best Online Grammar Checker Tools for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 13 Jun 2024 17:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Add the Ultimate SEO Dashboard in WordPress</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-add-the-ultimate-seo-dashboard-in-wordpress/</link>
+      <description>&lt;p&gt;Do you want to add an SEO dashboard to your WordPress admin area? An SEO dashboard acts like your personal command center, giving you a clear view of your website&amp;#8217;s SEO health. It allows you to track your SEO progress, identify areas for improvement, and&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-ultimate-seo-dashboard-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-add-the-ultimate-seo-dashboard-in-wordpress/"&gt;How to Add the Ultimate SEO Dashboard in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Jun 2024 12:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP orkers vs PHP memory limit: understand the difference</title>
+      <link>https://kinsta.com/blog/php-workers-vs-php-memory-limit/</link>
+      <description>&lt;p&gt;Running a WordPress site smoothly and efficiently involves understanding technical elements- like PHP memory limits and PHP workers. But what exactly do these terms mean, and how ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/php-workers-vs-php-memory-limit/" rel="nofollow"&gt;PHP orkers vs PHP memory limit: understand the difference&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Jun 2024 14:45:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace vs Office 365 Comparison – Which One Is Better?</title>
+      <link>https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/</link>
+      <description>&lt;p&gt;Trying to decide between Google Workspace vs. Office 365 for your business email and productivity suite? Google Workspace and Office 365 both offer impressive suites of productivity software and services. If you are not experienced with either side, then you might be looking at the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/"&gt;Google Workspace vs Office 365 Comparison – Which One Is Better?&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Jun 2024 17:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
