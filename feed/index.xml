@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 09:08:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 09:08:49 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -344,10 +344,10 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 14 Jun 2024 12:30:14 +0000</pubDate>
     </item>
     <item>
-      <title>PHP orkers vs PHP memory limit: understand the difference</title>
+      <title>PHP workers vs PHP memory limit: understand the difference</title>
       <link>https://kinsta.com/blog/php-workers-vs-php-memory-limit/</link>
       <description>&lt;p&gt;Running a WordPress site smoothly and efficiently involves understanding technical elements- like PHP memory limits and PHP workers. But what exactly do these terms mean, and how ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/php-workers-vs-php-memory-limit/" rel="nofollow"&gt;PHP orkers vs PHP memory limit: understand the difference&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/php-workers-vs-php-memory-limit/" rel="nofollow"&gt;PHP workers vs PHP memory limit: understand the difference&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 14 Jun 2024 14:45:45 +0000</pubDate>
     </item>
     <item>
