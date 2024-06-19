@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 09:08:31 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 09:08:03 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -316,13 +316,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>How to make a WordPress plugin extensible with PHP classes</title>
-      <link>https://kinsta.com/blog/wordpress-plugin-extensible/</link>
-      <description>&lt;p&gt;WordPress plugins can be extended with additional functionality, as demonstrated by popular plugins like WooCommerce and Gravity Forms. In the article &amp;#8220;Architecting a WordPress plugin to ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-plugin-extensible/" rel="nofollow"&gt;How to make a WordPress plugin extensible with PHP classes&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Jun 2024 15:57:18 +0000</pubDate>
-    </item>
-    <item>
       <title>How to unpublish your WordPress site</title>
       <link>https://kinsta.com/blog/unpublish-wordpress-site/</link>
       <description>&lt;p&gt;As a WordPress site user or maintainer, there may be times when you want to temporarily or permanently remove your site from the public eye. Whether ...&lt;/p&gt;
@@ -337,18 +330,11 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Fri, 14 Jun 2024 14:45:45 +0000</pubDate>
     </item>
     <item>
-      <title>Google Workspace vs Office 365 Comparison – Which One Is Better?</title>
-      <link>https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/</link>
-      <description>&lt;p&gt;Trying to decide between Google Workspace vs. Office 365 for your business email and productivity suite? Google Workspace and Office 365 both offer impressive suites of productivity software and services. If you are not experienced with either side, then you might be looking at the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/g-suite-vs-office-365-comparison-which-one-is-better/"&gt;Google Workspace vs Office 365 Comparison – Which One Is Better?&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Jun 2024 17:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s Coming in WordPress 6.6 (Features and Screenshots)</title>
-      <link>https://www.wpbeginner.com/news/whats-coming-in-wordpress-6-6-features-and-screenshots/</link>
-      <description>&lt;p&gt;WordPress has already rolled out the beta for version 6.6 for testing. As the second major WordPress update of 2024, it involves a lot of hard work from many contributors. We&amp;#8217;ve been closely following its development and are excited to share all the new features&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/whats-coming-in-wordpress-6-6-features-and-screenshots/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/whats-coming-in-wordpress-6-6-features-and-screenshots/"&gt;What’s Coming in WordPress 6.6 (Features and Screenshots)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 17 Jun 2024 10:00:00 +0000</pubDate>
+      <title>How AI and ChatGPT enhance WordPress functionality</title>
+      <link>https://kinsta.com/blog/chatgpt-wordpress/</link>
+      <description>&lt;p&gt;Today, Artificial Intelligence (AI) is emerging as a game-changer and reshaping how content is created, and how websites are built, including WordPress websites. It&amp;#8217;s making it ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/chatgpt-wordpress/" rel="nofollow"&gt;How AI and ChatGPT enhance WordPress functionality&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Jun 2024 15:21:25 +0000</pubDate>
     </item>
     <item>
       <title>6+ Best Product Review Plugins for WordPress (2024)</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Our readers often ask us if there are any WordPress product review plugins that we recommend. During our 16+ years of blogging, we&amp;#8217;ve reviewed and written about a lot of different products that we recommend to our readers. We have also collected and displayed different&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-product-review-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-product-review-plugins-for-wordpress/"&gt;6+ Best Product Review Plugins for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 17 Jun 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix Plugins Disappearing From WordPress Dashboard</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/</link>
+      <description>&lt;p&gt;Have you ever logged into your WordPress dashboard and noticed some of your plugins are randomly missing? This is a common issue that many users face, and it can have several causes. There could be a conflict between plugins or themes, user roles and permissions&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/"&gt;How to Fix Plugins Disappearing From WordPress Dashboard&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy</title>
+      <link>https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/</link>
+      <description>&lt;p&gt;Do you want to automatically deploy WordPress theme changes to your website? Most professional web developers use a version control system like GitHub or Bitbucket and automatically deploy their changes to staging or live sites. You can use a deployment system such as DeployHQ to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Jun 2024 17:00:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
