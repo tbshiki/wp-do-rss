@@ -6,18 +6,12 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 09:08:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 09:08:12 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
       <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
       <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acquisition Alert: Kestrel Acquires Seven Barn2 Plugins</title>
-      <link>https://wptavern.com/acquisition-alert-kestrel-acquires-seven-barn2-plugins</link>
-      <description>Katie Keith, CEO of Barn2, announced that Kestrel has acquired seven plugins from her company [&amp;#8230;]</description>
-      <pubDate>Fri, 01 Mar 2024 19:13:33 +0000</pubDate>
     </item>
     <item>
       <title>Reflecting on WordCamp Phoenix 2024: Struggles, Successes, and the Road Ahead</title>
@@ -248,12 +242,6 @@
       <pubDate>Sat, 04 May 2024 11:13:50 +0000</pubDate>
     </item>
     <item>
-      <title>Seven talks about blocks, block themes and beyond at WordCamp Europe 2024</title>
-      <link>https://gutenbergtimes.com/seven-talks-about-blocks-block-themes-and-beyond-at-wordcamp-europe-2024/</link>
-      <description>A curated list of block related talks at WordCamp Europe 2024</description>
-      <pubDate>Mon, 06 May 2024 03:47:00 +0000</pubDate>
-    </item>
-    <item>
       <title>#119 – Paolo Belcastro on How AI Is Shaping WordPress Wordflows</title>
       <link>https://wptavern.com/podcast/119-paolo-belcastro-on-how-ai-is-shaping-wordpress-wordflows</link>
       <description>On the podcast today we have Paolo Belcastro.
@@ -337,25 +325,37 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 17 Jun 2024 15:21:25 +0000</pubDate>
     </item>
     <item>
-      <title>6+ Best Product Review Plugins for WordPress (2024)</title>
-      <link>https://www.wpbeginner.com/plugins/best-product-review-plugins-for-wordpress/</link>
-      <description>&lt;p&gt;Our readers often ask us if there are any WordPress product review plugins that we recommend. During our 16+ years of blogging, we&amp;#8217;ve reviewed and written about a lot of different products that we recommend to our readers. We have also collected and displayed different&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/best-product-review-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/best-product-review-plugins-for-wordpress/"&gt;6+ Best Product Review Plugins for WordPress (2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 17 Jun 2024 17:00:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Fix Plugins Disappearing From WordPress Dashboard</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/</link>
-      <description>&lt;p&gt;Have you ever logged into your WordPress dashboard and noticed some of your plugins are randomly missing? This is a common issue that many users face, and it can have several causes. There could be a conflict between plugins or themes, user roles and permissions&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-plugins-disappearing-from-wordpress-dashboard/"&gt;How to Fix Plugins Disappearing From WordPress Dashboard&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy</title>
       <link>https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/</link>
       <description>&lt;p&gt;Do you want to automatically deploy WordPress theme changes to your website? Most professional web developers use a version control system like GitHub or Bitbucket and automatically deploy their changes to staging or live sites. You can use a deployment system such as DeployHQ to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 18 Jun 2024 17:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seven talks about blocks, block themes and beyond at WordCamp Europe 2024</title>
+      <link>https://gutenbergtimes.com/seven-talks-about-blocks-block-themes-and-beyond-at-wordcamp-europe-2024/</link>
+      <description>A curated list of block related talks at WordCamp Europe 2024</description>
+      <pubDate>Wed, 19 Jun 2024 03:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Fix the “WordPress Database Error Disk Full” Error</title>
+      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/</link>
+      <description>&lt;p&gt;Are you looking to fix the &amp;#8216;WordPress database error disk full&amp;#8217; error? The &amp;#8216;WordPress database error disk full&amp;#8217; message is shown when your web hosting server&amp;#8217;s storage space is running out. This can cause problems and slow down your site. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/"&gt;How to Fix the “WordPress Database Error Disk Full” Error&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#124 – Mina Tamang on SEO Techniques That Prioritise the User Experience</title>
+      <link>https://wptavern.com/podcast/124-mina-tamang-on-seo-techniques-that-prioritise-the-user-experience</link>
+      <description>On the podcast today we have Mina Tamang, who is an SEO expert at Codewing Solutions. Mina advocates for prioritising user needs over traditional SEO tactics that emphasise keyword ranking. She stresses the importance of integrating user-centric content with core SEO principles, technical optimisations, as well the utility of WordPress plugins. The discussion also addresses the growing role of AI in content creation, and the need to maintain human elements for relatability and accuracy. If you're looking to refine your SEO strategies with a focus on long-term, user-oriented growth, while also navigating the complexities of modern tools and techniques, this episode is for you.</description>
+      <pubDate>Wed, 19 Jun 2024 13:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Best WordPress CDN Services in 2024 (Compared)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/</link>
+      <description>&lt;p&gt;We get thousands of global visitors every day on WPBeginner, so we know how important content delivery networks are for website performance. A CDN is a service that can significantly speed up your website. It works by caching and serving your website content from the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;7 Best WordPress CDN Services in 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Jun 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
