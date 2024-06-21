@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 09:08:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 09:08:02 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -304,13 +304,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>How to unpublish your WordPress site</title>
-      <link>https://kinsta.com/blog/unpublish-wordpress-site/</link>
-      <description>&lt;p&gt;As a WordPress site user or maintainer, there may be times when you want to temporarily or permanently remove your site from the public eye. Whether ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/unpublish-wordpress-site/" rel="nofollow"&gt;How to unpublish your WordPress site&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 12 Jun 2024 14:14:37 +0000</pubDate>
-    </item>
-    <item>
       <title>PHP workers vs PHP memory limit: understand the difference</title>
       <link>https://kinsta.com/blog/php-workers-vs-php-memory-limit/</link>
       <description>&lt;p&gt;Running a WordPress site smoothly and efficiently involves understanding technical elements- like PHP memory limits and PHP workers. But what exactly do these terms mean, and how ...&lt;/p&gt;
@@ -325,24 +318,10 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Mon, 17 Jun 2024 15:21:25 +0000</pubDate>
     </item>
     <item>
-      <title>How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy</title>
-      <link>https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/</link>
-      <description>&lt;p&gt;Do you want to automatically deploy WordPress theme changes to your website? Most professional web developers use a version control system like GitHub or Bitbucket and automatically deploy their changes to staging or live sites. You can use a deployment system such as DeployHQ to&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-themes/how-to-automatically-deploy-wordpress-theme-changes-using-github-and-dploy-io/"&gt;How to Automatically Deploy WordPress Theme Changes Using GitHub and Deploy&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Jun 2024 17:00:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Seven talks about blocks, block themes and beyond at WordCamp Europe 2024</title>
       <link>https://gutenbergtimes.com/seven-talks-about-blocks-block-themes-and-beyond-at-wordcamp-europe-2024/</link>
       <description>A curated list of block related talks at WordCamp Europe 2024</description>
       <pubDate>Wed, 19 Jun 2024 03:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Fix the “WordPress Database Error Disk Full” Error</title>
-      <link>https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/</link>
-      <description>&lt;p&gt;Are you looking to fix the &amp;#8216;WordPress database error disk full&amp;#8217; error? The &amp;#8216;WordPress database error disk full&amp;#8217; message is shown when your web hosting server&amp;#8217;s storage space is running out. This can cause problems and slow down your site. In this article, we will&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-wordpress-database-error-disk-full-error/"&gt;How to Fix the “WordPress Database Error Disk Full” Error&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 19 Jun 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>#124 – Mina Tamang on SEO Techniques That Prioritise the User Experience</title>
@@ -351,11 +330,32 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 19 Jun 2024 13:39:48 +0000</pubDate>
     </item>
     <item>
+      <title>A complete guide to building WordPress post templates: Block Editor, Elementor, and more</title>
+      <link>https://kinsta.com/blog/wordpress-post-templates/</link>
+      <description>&lt;p&gt;If you want to create truly custom content on your WordPress site, using custom post templates is a great way to ensure that everything you publish ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-post-templates/" rel="nofollow"&gt;A complete guide to building WordPress post templates: Block Editor, Elementor, and more&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Jun 2024 14:38:15 +0000</pubDate>
+    </item>
+    <item>
       <title>7 Best WordPress CDN Services in 2024 (Compared)</title>
       <link>https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/</link>
       <description>&lt;p&gt;We get thousands of global visitors every day on WPBeginner, so we know how important content delivery networks are for website performance. A CDN is a service that can significantly speed up your website. It works by caching and serving your website content from the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;7 Best WordPress CDN Services in 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 19 Jun 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Search &amp; Replace Everything by WPCode: Bulk Editing in WordPress Made Easy</title>
+      <link>https://www.wpbeginner.com/news/introducing-search-and-replace-by-wpcode-wordpress-bulk-editing-made-easy/</link>
+      <description>&lt;p&gt;Have you ever wanted to make bulk updates to your WordPress site? Wouldn’t it be nice if you could update hundreds of posts with a single click… without having to update them manually? If you’re like me and most other smart website owners, then you&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/introducing-search-and-replace-by-wpcode-wordpress-bulk-editing-made-easy/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/introducing-search-and-replace-by-wpcode-wordpress-bulk-editing-made-easy/"&gt;Introducing Search &amp; Replace Everything by WPCode: Bulk Editing in WordPress Made Easy&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Send WordPress Emails Using Amazon SES (Step by Step)</title>
+      <link>https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/</link>
+      <description>&lt;p&gt;Are you having trouble sending emails from your WordPress site? One easy way to improve WordPress email reliability is by using the Amazon Simple Email Service, which is also known as Amazon SES. In this article, we will show you how to send emails from&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;How to Send WordPress Emails Using Amazon SES (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Jun 2024 17:00:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
