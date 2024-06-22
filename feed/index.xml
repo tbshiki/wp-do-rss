@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 09:08:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 09:08:22 +0900</lastBuildDate>
     <item>
       <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
       <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
@@ -337,13 +337,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 19 Jun 2024 14:38:15 +0000</pubDate>
     </item>
     <item>
-      <title>7 Best WordPress CDN Services in 2024 (Compared)</title>
-      <link>https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/</link>
-      <description>&lt;p&gt;We get thousands of global visitors every day on WPBeginner, so we know how important content delivery networks are for website performance. A CDN is a service that can significantly speed up your website. It works by caching and serving your website content from the&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-cdn-services/"&gt;7 Best WordPress CDN Services in 2024 (Compared)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 19 Jun 2024 17:00:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Introducing Search &amp; Replace Everything by WPCode: Bulk Editing in WordPress Made Easy</title>
       <link>https://www.wpbeginner.com/news/introducing-search-and-replace-by-wpcode-wordpress-bulk-editing-made-easy/</link>
       <description>&lt;p&gt;Have you ever wanted to make bulk updates to your WordPress site? Wouldn’t it be nice if you could update hundreds of posts with a single click… without having to update them manually? If you’re like me and most other smart website owners, then you&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/introducing-search-and-replace-by-wpcode-wordpress-bulk-editing-made-easy/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -356,6 +349,13 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Are you having trouble sending emails from your WordPress site? One easy way to improve WordPress email reliability is by using the Amazon Simple Email Service, which is also known as Amazon SES. In this article, we will show you how to send emails from&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;How to Send WordPress Emails Using Amazon SES (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 20 Jun 2024 17:00:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Repair WordPress Database (6 Easy Methods)</title>
+      <link>https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/</link>
+      <description>&lt;p&gt;Over the years, many users have reached out to us and our partner companies to ask about fixing broken WordPress databases. Keeping your WordPress website running smoothly requires a healthy database. If your database gets corrupted, then it can lead to many problems, including error&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;How to Repair WordPress Database (6 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Jun 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
