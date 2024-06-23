@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 09:08:22 +0900</lastBuildDate>
-    <item>
-      <title>Gutenberg Changelog #96 – Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5</title>
-      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-96/</link>
-      <description>In this episode, Tammie Lister and Birgit Pauli-Haack discuss Gutenberg Changelog #96 &amp;#8211; Gutenberg plugins versions 17.6 and 17.7, Mega Menus, Interactivity API and WordPress 6.5 Show Notes / Transcript Show Notes Special Guest: Tammie Lister Community Contributions What&amp;#8217;s Released: What’s in active development or discussed Section Styling, Colorways, and Typesets for WP 6.6 Meetup:&amp;#160;How&amp;#8230;</description>
-      <pubDate>Mon, 26 Feb 2024 14:35:01 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 23 Jun 2024 09:08:50 +0900</lastBuildDate>
     <item>
       <title>Reflecting on WordCamp Phoenix 2024: Struggles, Successes, and the Road Ahead</title>
       <link>https://wptavern.com/reflecting-on-wordcamp-phoenix-2024-struggles-successes-and-the-road-ahead</link>
@@ -304,13 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>PHP workers vs PHP memory limit: understand the difference</title>
-      <link>https://kinsta.com/blog/php-workers-vs-php-memory-limit/</link>
-      <description>&lt;p&gt;Running a WordPress site smoothly and efficiently involves understanding technical elements- like PHP memory limits and PHP workers. But what exactly do these terms mean, and how ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/php-workers-vs-php-memory-limit/" rel="nofollow"&gt;PHP workers vs PHP memory limit: understand the difference&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Jun 2024 14:45:45 +0000</pubDate>
-    </item>
-    <item>
       <title>How AI and ChatGPT enhance WordPress functionality</title>
       <link>https://kinsta.com/blog/chatgpt-wordpress/</link>
       <description>&lt;p&gt;Today, Artificial Intelligence (AI) is emerging as a game-changer and reshaping how content is created, and how websites are built, including WordPress websites. It&amp;#8217;s making it ...&lt;/p&gt;
@@ -356,6 +343,19 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Over the years, many users have reached out to us and our partner companies to ask about fixing broken WordPress databases. Keeping your WordPress website running smoothly requires a healthy database. If your database gets corrupted, then it can lead to many problems, including error&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;How to Repair WordPress Database (6 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Fri, 21 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Streamline your WordPress analytics with Fathom Analytics: A step-by-step guide</title>
+      <link>https://kinsta.com/blog/fathom-analytics/</link>
+      <description>&lt;p&gt;If you&amp;#8217;ve been wrestling with the complexities of Google Analytics 4 (GA4), you&amp;#8217;re not alone. Many find its dense interface a bit much, especially when you&amp;#8217;re ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/fathom-analytics/" rel="nofollow"&gt;Streamline your WordPress analytics with Fathom Analytics: A step-by-step guide&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Jun 2024 13:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>WordPress 6.6 Dev Notes, Theme building workflow, Section Styles, dynamic tokens #WCEU — Weekend Edition 296</title>
+      <link>https://gutenbergtimes.com/wordpress-6-6-dev-notes-theme-building-workflow-section-styles-dynamic-tokens-wceu-weekend-edition-296/</link>
+      <description>Howdy, it&amp;#8217;s been a week that I returned from WordCamp Europe, and I am still looking at photos of Torino, and my notes. There were so wonderful conversations in Torino with colleagues, long-time friends, I made new friends again. You can follow along via my Twitter (now X) feed #WCEU to get a tiny glimpse.&amp;#8230;</description>
+      <pubDate>Sat, 22 Jun 2024 02:06:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
