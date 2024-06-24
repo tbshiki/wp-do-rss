@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Jun 2024 09:08:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 09:09:01 +0900</lastBuildDate>
     <item>
       <title>Reflecting on WordCamp Phoenix 2024: Struggles, Successes, and the Road Ahead</title>
       <link>https://wptavern.com/reflecting-on-wordcamp-phoenix-2024-struggles-successes-and-the-road-ahead</link>
@@ -90,12 +90,6 @@
       <link>https://wptavern.com/the-wordpress-training-teams-big-changes-learning-pathways-and-website-redesign</link>
       <description>The WordPress Training team is rethinking- and redesigning- how Users, Designers, and Developers can Learn WordPress.</description>
       <pubDate>Tue, 12 Mar 2024 17:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Block Bindings and Custom Fields –  an (almost) no-code example</title>
-      <link>https://gutenbergtimes.com/block-bindings-and-custom-fields-an-almost-no-code-example/</link>
-      <description>This article received two updates today, March 13, 2024: With the upcoming release of version 6.5, WordPress will receive the first iteration of Block Bindings API, a way to bind content of blocks to data stored in custom fields. Custom fields have been around for a long time. What wasn&amp;#8217;t available was a way for&amp;#8230;</description>
-      <pubDate>Wed, 13 Mar 2024 01:31:00 +0000</pubDate>
     </item>
     <item>
       <title>Synced Pattern Overrides – an early review</title>
@@ -356,6 +350,12 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <link>https://gutenbergtimes.com/wordpress-6-6-dev-notes-theme-building-workflow-section-styles-dynamic-tokens-wceu-weekend-edition-296/</link>
       <description>Howdy, it&amp;#8217;s been a week that I returned from WordCamp Europe, and I am still looking at photos of Torino, and my notes. There were so wonderful conversations in Torino with colleagues, long-time friends, I made new friends again. You can follow along via my Twitter (now X) feed #WCEU to get a tiny glimpse.&amp;#8230;</description>
       <pubDate>Sat, 22 Jun 2024 02:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gutenberg Changelog #102 – WordCamp Europe, WordPress 6.6 and Gutenberg 18.6</title>
+      <link>https://gutenbergtimes.com/podcast/gutenberg-changelog-102-wordcamp-europe-wordpress-6-6-and-gutenberg-18-6/</link>
+      <description>In this episode, Jessica Lyschik and Birgit Pauli-Haack discuss WordCamp Europe, WordPress 6.6 and Gutenberg 18.6. Add a summary/excerpt here Show Notes / Transcript Show Notes Special guest: Jessica Lyschik WordCamp Europe Upcoming events WordPress 6.6 Gutenberg 18.6 What’s new in Gutenberg 18.6 What&amp;#8217;s in the works Transcript Birgit Pauli-Haack: Hello and welcome to our&amp;#8230;</description>
+      <pubDate>Sun, 23 Jun 2024 02:36:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
