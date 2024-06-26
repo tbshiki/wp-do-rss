@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 09:07:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 09:08:05 +0900</lastBuildDate>
     <item>
       <title>Reflecting on WordCamp Phoenix 2024: Struggles, Successes, and the Road Ahead</title>
       <link>https://wptavern.com/reflecting-on-wordcamp-phoenix-2024-struggles-successes-and-the-road-ahead</link>
@@ -292,13 +292,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Sun, 09 Jun 2024 14:13:21 +0000</pubDate>
     </item>
     <item>
-      <title>How AI and ChatGPT enhance WordPress functionality</title>
-      <link>https://kinsta.com/blog/chatgpt-wordpress/</link>
-      <description>&lt;p&gt;Today, Artificial Intelligence (AI) is emerging as a game-changer and reshaping how content is created, and how websites are built, including WordPress websites. It&amp;#8217;s making it ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/chatgpt-wordpress/" rel="nofollow"&gt;How AI and ChatGPT enhance WordPress functionality&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 17 Jun 2024 15:21:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Seven talks about blocks, block themes and beyond at WordCamp Europe 2024</title>
       <link>https://gutenbergtimes.com/seven-talks-about-blocks-block-themes-and-beyond-at-wordcamp-europe-2024/</link>
       <description>A curated list of block related talks at WordCamp Europe 2024</description>
@@ -316,13 +309,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;If you want to create truly custom content on your WordPress site, using custom post templates is a great way to ensure that everything you publish ...&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-post-templates/" rel="nofollow"&gt;A complete guide to building WordPress post templates: Block Editor, Elementor, and more&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 19 Jun 2024 14:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Send WordPress Emails Using Amazon SES (Step by Step)</title>
-      <link>https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/</link>
-      <description>&lt;p&gt;Are you having trouble sending emails from your WordPress site? One easy way to improve WordPress email reliability is by using the Amazon Simple Email Service, which is also known as Amazon SES. In this article, we will show you how to send emails from&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/plugins/how-to-send-wordpress-emails-using-amazon-ses-step-by-step/"&gt;How to Send WordPress Emails Using Amazon SES (Step by Step)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Thu, 20 Jun 2024 17:00:29 +0000</pubDate>
     </item>
     <item>
       <title>How to Repair WordPress Database (6 Easy Methods)</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;One of the questions we often receive from our readers is if there is a TikTok plugin that we recommend for WordPress users. We know firsthand how helpful TikTok can be for growing a social media audience and increasing brand awareness. But to integrate TikTok&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-tiktok-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-tiktok-plugins-for-wordpress/"&gt;8 Best TikTok Plugins for WordPress (Expert Pick in 2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 24 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to leverage the WordPress API for machine learning innovations</title>
+      <link>https://kinsta.com/blog/wordpress-api-machine-learning/</link>
+      <description>&lt;p&gt;Integrating Artificial Intelligence (AI) and Machine Learning (ML) models into your WordPress website isn’t just about keeping up with the latest tech advancements and trends. It’s ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-api-machine-learning/" rel="nofollow"&gt;How to leverage the WordPress API for machine learning innovations&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Jun 2024 15:57:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Top Donation Form Best Practices to Boost Donations in WordPress</title>
+      <link>https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/</link>
+      <description>&lt;p&gt;When it comes to getting more online donations through your WordPress website, I&amp;#8217;ve found that it all comes down to a few best practices. By giving potential donors the information they need and removing potential roadblocks, you can easily raise more money from donations. This&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;9 Top Donation Form Best Practices to Boost Donations in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Jun 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
