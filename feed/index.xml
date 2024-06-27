@@ -6,13 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jun 2024 09:08:05 +0900</lastBuildDate>
-    <item>
-      <title>Reflecting on WordCamp Phoenix 2024: Struggles, Successes, and the Road Ahead</title>
-      <link>https://wptavern.com/reflecting-on-wordcamp-phoenix-2024-struggles-successes-and-the-road-ahead</link>
-      <description>Seven months ago I registered for &amp;#38; scheduled a trip to Phoenix Arizona for a [&amp;#8230;]</description>
-      <pubDate>Fri, 01 Mar 2024 20:15:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jun 2024 09:08:15 +0900</lastBuildDate>
     <item>
       <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 5, What We Learned, Where We’re Going</title>
       <link>https://wptavern.com/wordpress-photo-festival-2024-a-five-part-retrospective-part-5-what-we-learned-where-were-going</link>
@@ -304,20 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 19 Jun 2024 13:39:48 +0000</pubDate>
     </item>
     <item>
-      <title>A complete guide to building WordPress post templates: Block Editor, Elementor, and more</title>
-      <link>https://kinsta.com/blog/wordpress-post-templates/</link>
-      <description>&lt;p&gt;If you want to create truly custom content on your WordPress site, using custom post templates is a great way to ensure that everything you publish ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-post-templates/" rel="nofollow"&gt;A complete guide to building WordPress post templates: Block Editor, Elementor, and more&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Wed, 19 Jun 2024 14:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Repair WordPress Database (6 Easy Methods)</title>
-      <link>https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/</link>
-      <description>&lt;p&gt;Over the years, many users have reached out to us and our partner companies to ask about fixing broken WordPress databases. Keeping your WordPress website running smoothly requires a healthy database. If your database gets corrupted, then it can lead to many problems, including error&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/beginners-guide/how-to-repair-wordpress-database/"&gt;How to Repair WordPress Database (6 Easy Methods)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 21 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Streamline your WordPress analytics with Fathom Analytics: A step-by-step guide</title>
       <link>https://kinsta.com/blog/fathom-analytics/</link>
       <description>&lt;p&gt;If you&amp;#8217;ve been wrestling with the complexities of Google Analytics 4 (GA4), you&amp;#8217;re not alone. Many find its dense interface a bit much, especially when you&amp;#8217;re ...&lt;/p&gt;
@@ -356,6 +336,26 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;When it comes to getting more online donations through your WordPress website, I&amp;#8217;ve found that it all comes down to a few best practices. By giving potential donors the information they need and removing potential roadblocks, you can easily raise more money from donations. This&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;9 Top Donation Form Best Practices to Boost Donations in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Tue, 25 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7 Best WordPress Support Agencies for 2024 (Expert Pick)</title>
+      <link>https://www.wpbeginner.com/showcase/best-wordpress-support-agencies/</link>
+      <description>&lt;p&gt;At WPBeginner, we receive many requests from readers asking us if we recommend any support agencies for WordPress maintenance and management services. From our own experience of running multiple WordPress websites, we know that it can be tricky to handle everything behind the scenes. This&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-support-agencies/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-wordpress-support-agencies/"&gt;7 Best WordPress Support Agencies for 2024 (Expert Pick)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>#125 – Davinder Singh Kainth on Content Creation and Business Strategy in WordPress</title>
+      <link>https://wptavern.com/podcast/125-davinder-singh-kainth-on-content-creation-and-business-strategy-in-wordpress</link>
+      <description>On the podcast today we have Davinder Singh Kainth, a veteran in the WordPress community. We discuss navigating the WordPress ecosystem, highlighting opportunities in plugin and theme development, SEO, and hosting. Key topics include building trust, diversifying revenue, and the importance of community engagement, especially at WordCamp events.</description>
+      <pubDate>Wed, 26 Jun 2024 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Decentralizing WordPress: Blockchain as a solution for data sovereignty and security</title>
+      <link>https://kinsta.com/blog/blockchain-wordpress/</link>
+      <description>&lt;p&gt;Blockchain technology powers applications far beyond cryptocurrencies and NFTs. It is transforming data storage and management across various industries through decentralization. The underlying principle of blockchain ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/blockchain-wordpress/" rel="nofollow"&gt;Decentralizing WordPress: Blockchain as a solution for data sovereignty and security&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Jun 2024 15:22:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
