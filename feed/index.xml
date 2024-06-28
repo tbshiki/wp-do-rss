@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 09:08:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 09:08:06 +0900</lastBuildDate>
     <item>
       <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 5, What We Learned, Where We’re Going</title>
       <link>https://wptavern.com/wordpress-photo-festival-2024-a-five-part-retrospective-part-5-what-we-learned-where-were-going</link>
@@ -317,13 +317,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Sun, 23 Jun 2024 02:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>8 Best TikTok Plugins for WordPress (Expert Pick in 2024)</title>
-      <link>https://www.wpbeginner.com/showcase/best-tiktok-plugins-for-wordpress/</link>
-      <description>&lt;p&gt;One of the questions we often receive from our readers is if there is a TikTok plugin that we recommend for WordPress users. We know firsthand how helpful TikTok can be for growing a social media audience and increasing brand awareness. But to integrate TikTok&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/showcase/best-tiktok-plugins-for-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/showcase/best-tiktok-plugins-for-wordpress/"&gt;8 Best TikTok Plugins for WordPress (Expert Pick in 2024)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Mon, 24 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to leverage the WordPress API for machine learning innovations</title>
       <link>https://kinsta.com/blog/wordpress-api-machine-learning/</link>
       <description>&lt;p&gt;Integrating Artificial Intelligence (AI) and Machine Learning (ML) models into your WordPress website isn’t just about keeping up with the latest tech advancements and trends. It’s ...&lt;/p&gt;
@@ -356,6 +349,13 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Blockchain technology powers applications far beyond cryptocurrencies and NFTs. It is transforming data storage and management across various industries through decentralization. The underlying principle of blockchain ...&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/blockchain-wordpress/" rel="nofollow"&gt;Decentralizing WordPress: Blockchain as a solution for data sovereignty and security&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Wed, 26 Jun 2024 15:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>WPBeginner Spotlight 01 – Plugin Acquisitions, New Features + More WordPress News</title>
+      <link>https://www.wpbeginner.com/news/wpbeginner-spotlight-01-plugin-acquisitions-new-features-more-wordpress-news/</link>
+      <description>&lt;p&gt;In the month of June 2024, we&amp;#8217;ve seen a lot of exciting developments in the WordPress community. From AIOSEO plugin acquiring the LowFruits keyword tool to the WordPress core team releasing the beta version of WordPress 6.6, the list goes on. And that&amp;#8217;s just a&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/wpbeginner-spotlight-01-plugin-acquisitions-new-features-more-wordpress-news/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/wpbeginner-spotlight-01-plugin-acquisitions-new-features-more-wordpress-news/"&gt;WPBeginner Spotlight 01 – Plugin Acquisitions, New Features + More WordPress News&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Jun 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
