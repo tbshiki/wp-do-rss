@@ -6,7 +6,7 @@
     <description>WP do RSS feed</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 09:08:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 09:08:02 +0900</lastBuildDate>
     <item>
       <title>WordPress Photo Festival 2024, A Five Part Retrospective, Part 5, What We Learned, Where We’re Going</title>
       <link>https://wptavern.com/wordpress-photo-festival-2024-a-five-part-retrospective-part-5-what-we-learned-where-were-going</link>
@@ -298,13 +298,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <pubDate>Wed, 19 Jun 2024 13:39:48 +0000</pubDate>
     </item>
     <item>
-      <title>Streamline your WordPress analytics with Fathom Analytics: A step-by-step guide</title>
-      <link>https://kinsta.com/blog/fathom-analytics/</link>
-      <description>&lt;p&gt;If you&amp;#8217;ve been wrestling with the complexities of Google Analytics 4 (GA4), you&amp;#8217;re not alone. Many find its dense interface a bit much, especially when you&amp;#8217;re ...&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/fathom-analytics/" rel="nofollow"&gt;Streamline your WordPress analytics with Fathom Analytics: A step-by-step guide&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 21 Jun 2024 13:47:13 +0000</pubDate>
-    </item>
-    <item>
       <title>WordPress 6.6 Dev Notes, Theme building workflow, Section Styles, dynamic tokens #WCEU — Weekend Edition 296</title>
       <link>https://gutenbergtimes.com/wordpress-6-6-dev-notes-theme-building-workflow-section-styles-dynamic-tokens-wceu-weekend-edition-296/</link>
       <description>Howdy, it&amp;#8217;s been a week that I returned from WordCamp Europe, and I am still looking at photos of Torino, and my notes. There were so wonderful conversations in Torino with colleagues, long-time friends, I made new friends again. You can follow along via my Twitter (now X) feed #WCEU to get a tiny glimpse.&amp;#8230;</description>
@@ -322,13 +315,6 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;Integrating Artificial Intelligence (AI) and Machine Learning (ML) models into your WordPress website isn’t just about keeping up with the latest tech advancements and trends. It’s ...&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-api-machine-learning/" rel="nofollow"&gt;How to leverage the WordPress API for machine learning innovations&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 24 Jun 2024 15:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>9 Top Donation Form Best Practices to Boost Donations in WordPress</title>
-      <link>https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/</link>
-      <description>&lt;p&gt;When it comes to getting more online donations through your WordPress website, I&amp;#8217;ve found that it all comes down to a few best practices. By giving potential donors the information they need and removing potential roadblocks, you can easily raise more money from donations. This&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/opinion/donation-form-best-practices-to-boost-donations-in-wordpress/"&gt;9 Top Donation Form Best Practices to Boost Donations in WordPress&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Tue, 25 Jun 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>7 Best WordPress Support Agencies for 2024 (Expert Pick)</title>
@@ -356,6 +342,20 @@ If you're a developer, a tech enthusiast, or anyone interested in the intersecti
       <description>&lt;p&gt;In the month of June 2024, we&amp;#8217;ve seen a lot of exciting developments in the WordPress community. From AIOSEO plugin acquiring the LowFruits keyword tool to the WordPress core team releasing the beta version of WordPress 6.6, the list goes on. And that&amp;#8217;s just a&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/news/wpbeginner-spotlight-01-plugin-acquisitions-new-features-more-wordpress-news/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/news/wpbeginner-spotlight-01-plugin-acquisitions-new-features-more-wordpress-news/"&gt;WPBeginner Spotlight 01 – Plugin Acquisitions, New Features + More WordPress News&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Thu, 27 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>110+ Mindblowing SEO Statistics and Trends in 2024 (Ultimate List)</title>
+      <link>https://www.wpbeginner.com/research/seo-statistics-and-trends/</link>
+      <description>&lt;p&gt;When it comes to optimizing our websites for getting more traffic, we always look at the latest SEO trends and data for inspiration. Search engines are the most common way users discover information online, and strong SEO helps your website rank higher in the search&amp;#8230;&amp;#160;&lt;strong&gt;&lt;a href="https://www.wpbeginner.com/research/seo-statistics-and-trends/"&gt;Read More &amp;#187;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.wpbeginner.com/research/seo-statistics-and-trends/"&gt;110+ Mindblowing SEO Statistics and Trends in 2024 (Ultimate List)&lt;/a&gt; first appeared on &lt;a href="https://www.wpbeginner.com"&gt;WPBeginner&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Jun 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to create a WordPress intranet: our complete guide</title>
+      <link>https://kinsta.com/blog/wordpress-intranet/</link>
+      <description>&lt;p&gt;WordPress’ versatility means you can use it for a wide range of website types, including all manner of business or enterprise use cases. Most articles discuss ...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://kinsta.com/blog/wordpress-intranet/" rel="nofollow"&gt;How to create a WordPress intranet: our complete guide&lt;/a&gt; appeared first on &lt;a href="https://kinsta.com" rel="nofollow"&gt;Kinsta®&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Fri, 28 Jun 2024 14:38:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
